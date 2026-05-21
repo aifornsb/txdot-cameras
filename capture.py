@@ -1,10 +1,11 @@
 """
-TxDOT Dallas Camera Capture — Multi-Camera
-===========================================
-Captures one frame from every configured camera and saves it.
-Called by GitHub Actions every 5 minutes.
+TxDOT Multi-District Camera Capture
+=====================================
+Captures one frame from every configured camera across any TxDOT district.
+Each camera entry specifies its own portal URL, so districts never get mixed up.
 
-To add or remove cameras, edit the CAMERAS list below.
+To add a camera: add one line to the CAMERAS list with its portal URL,
+search name, and folder name. That's it.
 """
 
 import asyncio, base64, csv, hashlib, sys
@@ -13,26 +14,79 @@ from pathlib import Path
 
 CT = timezone(timedelta(hours=-5))   # America/Chicago
 
-# ── ADD / REMOVE CAMERAS HERE ─────────────────────────────────────────────────
-# Each entry needs:
-#   "search"  — exact text typed into the TxDOT search box
-#   "folder"  — safe folder name used on disk (no spaces or special characters)
+# ══════════════════════════════════════════════════════════════════════════════
+#  CAMERA LIST  — add / remove cameras here
+#  Each entry needs three fields:
+#    "portal"  — full URL of the district camera page
+#    "search"  — exact camera name as it appears on the TxDOT portal
+#    "folder"  — safe folder name saved to disk (no spaces, use hyphens)
+# ══════════════════════════════════════════════════════════════════════════════
 CAMERAS = [
-    {"search": "IH35E @ Valley Ridge",       "folder": "IH35E-Valley-Ridge"},
-    {"search": "IH35E @ Valley Ridge North", "folder": "IH35E-Valley-Ridge-North"},
-    # Add more cameras below this line, same format:
-    # {"search": "IH635 @ Luna Rd",          "folder": "IH635-Luna-Rd"},
-    # {"search": "US75 @ Mockingbird",        "folder": "US75-Mockingbird"},
+
+    # ── Dallas (DAL) ──────────────────────────────────────────────────────────
+    {
+        "portal": "https://its.txdot.gov/its/District/DAL/cameras",
+        "search": "IH35E @ Valley Ridge",
+        "folder": "DAL-IH35E-Valley-Ridge",
+    },
+    {
+        "portal": "https://its.txdot.gov/its/District/DAL/cameras",
+        "search": "IH35E @ Valley Ridge North",
+        "folder": "DAL-IH35E-Valley-Ridge-North",
+    },
+
+    # ── Austin (AUS) ──────────────────────────────────────────────────────────
+    {
+        "portal": "https://its.txdot.gov/its/District/AUS/cameras",
+        "search": "LP-1 @ Steck Ave",
+        "folder": "AUS-MoPac-Steck",
+    },
+
+    # ── Houston (HOU) ─────────────────────────────────────────────────────────
+    {
+        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
+        "search": "US-290 Northwest @ Gessner (W)",
+        "folder": "HOU-US290-Gessner-W",
+    },
+    {
+        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
+        "search": "US-290 Northwest @ Little York",
+        "folder": "HOU-US290-LittleYork",
+    },
+    {
+        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
+        "search": "IH-10 Katy @ SH 6 (W)",
+        "folder": "HOU-Katy-ML-SH6-W",
+    },
+    {
+        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
+        "search": "US-290 Northwest @ Cypress Rosehill",
+        "folder": "HOU-US290-CypressRosehill",
+    },
+
+    # ── San Antonio (SAT) ─────────────────────────────────────────────────────
+    {
+        "portal": "https://its.txdot.gov/its/District/SAT/cameras",
+        "search": "US 281 at Sprucewood",
+        "folder": "SAT-US281-Sprucewood",
+    },
+
+    # ── Fort Worth (FTW) ──────────────────────────────────────────────────────
+    {
+        "portal": "https://its.txdot.gov/its/District/FTW/cameras",
+        "search": "IH35W @ Golden Triangle",
+        "folder": "FTW-IH35W-GoldenTriangle",
+    },
+
 ]
-# ─────────────────────────────────────────────────────────────────────────────
-
-PORTAL_URL = "https://its.txdot.gov/its/District/DAL/cameras"
+# ══════════════════════════════════════════════════════════════════════════════
 
 
-async def capture_camera(page, camera: dict, ts_ct, ts_utc) -> dict:
+async def capture_one(page, camera: dict, ts_ct, ts_utc) -> dict:
     """
-    Navigate to one camera, grab its image, save it.
-    Returns a result dict with status and file info.
+    Navigate to a single camera on the already-loaded portal page,
+    extract its image, and save it.
+    Returns a result dict.
     """
     search = camera["search"]
     folder = camera["folder"]
@@ -42,11 +96,15 @@ async def capture_camera(page, camera: dict, ts_ct, ts_utc) -> dict:
     img_dir = Path(f"images/{folder}/{date}")
     img_dir.mkdir(parents=True, exist_ok=True)
 
-    print(f"\n  [{search}]")
+    print(f"    [{search}]")
 
-    # Clear and re-search for this camera
-    for sel in ["input[placeholder*='Search']", "input[type='search']",
-                ".search-input input"]:
+    # Clear the search box and type this camera's name
+    for sel in [
+        "input[placeholder*='Search']",
+        "input[placeholder*='search']",
+        "input[type='search']",
+        ".search-input input",
+    ]:
         try:
             box = page.locator(sel).first
             await box.triple_click(timeout=2_000)
@@ -56,12 +114,20 @@ async def capture_camera(page, camera: dict, ts_ct, ts_utc) -> dict:
         except Exception:
             continue
 
-    # Click matching result
+    # Click the matching result
     clicked = False
-    for sel in [f"text={search}", f"text={search.split('@')[1].strip()}",
-                ".camera-item:first-child"]:
+    # Try exact name first, then progressive fallbacks
+    search_words = search.split()
+    fallbacks = [
+        f"text={search}",
+        f"text={' '.join(search_words[-3:])}",   # last 3 words
+        f"text={search_words[-1]}",               # last word
+        ".camera-item:first-child",
+    ]
+    for sel in fallbacks:
         try:
-            await page.locator(sel).first.click(timeout=3_000)
+            el = page.locator(sel).first
+            await el.click(timeout=3_000)
             await page.wait_for_timeout(4_000)
             clicked = True
             break
@@ -69,7 +135,7 @@ async def capture_camera(page, camera: dict, ts_ct, ts_utc) -> dict:
             continue
 
     if not clicked:
-        print(f"    Could not click result — skipping")
+        print(f"      Could not click result — skipping")
         return {"status": "error", "notes": "result not clickable",
                 "filepath": "", "size": 0, "md5": ""}
 
@@ -82,7 +148,7 @@ async def capture_camera(page, camera: dict, ts_ct, ts_utc) -> dict:
                     .filter(i => i.naturalWidth >= 640
                              && i.src.startsWith('data:image/jpeg'));
                 if (!imgs.length) return null;
-                return imgs.reduce((a,b) =>
+                return imgs.reduce((a, b) =>
                     a.naturalWidth > b.naturalWidth ? a : b
                 ).src.split(',')[1] || null;
             }""")
@@ -93,47 +159,59 @@ async def capture_camera(page, camera: dict, ts_ct, ts_utc) -> dict:
         except Exception:
             await page.wait_for_timeout(2_000)
 
-    # Fallback: screenshot the selected panel
+    # Fallback: screenshot the selected camera panel
     if not data:
         for sel in [".selected", ".camera-item.selected",
-                    "mat-dialog-container"]:
+                    "mat-dialog-container", ".camera-panel"]:
             try:
                 data = await page.locator(sel).first.screenshot(
                     type="jpeg", quality=90, timeout=5_000)
                 if data and len(data) > 20_000:
+                    print(f"      Used panel screenshot fallback")
                     break
             except Exception:
                 continue
 
     if not data or len(data) < 10_000:
-        print(f"    No image captured")
+        print(f"      No image captured")
         return {"status": "error", "notes": "no image data",
                 "filepath": "", "size": 0, "md5": ""}
 
-    # Save
+    # Save the image
     fname = f"{folder}_{stamp}.jpg"
     fpath = img_dir / fname
     fpath.write_bytes(data)
     md5   = hashlib.md5(data).hexdigest()
     rel   = f"images/{folder}/{date}/{fname}"
-    print(f"    Saved: {rel}  ({len(data)//1024} KB)")
+    print(f"      Saved: {rel}  ({len(data)//1024} KB)")
 
     return {"status": "captured", "notes": "",
             "filepath": rel, "size": len(data), "md5": md5}
 
 
 async def main():
-    # Install playwright browser
+    # ── Install Playwright browser ────────────────────────────────────────────
     import subprocess
-    subprocess.run([sys.executable, "-m", "playwright", "install",
-                    "chromium", "--with-deps"], check=True)
-
+    subprocess.run(
+        [sys.executable, "-m", "playwright", "install", "chromium", "--with-deps"],
+        check=True,
+    )
     from playwright.async_api import async_playwright
 
     ts_utc = datetime.now(timezone.utc)
     ts_ct  = ts_utc.astimezone(CT)
-    print(f"Capture run: {ts_ct.strftime('%Y-%m-%d %H:%M:%S CT')}")
-    print(f"Cameras:     {len(CAMERAS)}")
+    print(f"\nCapture run : {ts_ct.strftime('%Y-%m-%d %H:%M:%S CT')}")
+    print(f"Cameras     : {len(CAMERAS)}")
+
+    # ── Group cameras by portal URL ───────────────────────────────────────────
+    # This means we only load each district portal once, then capture all
+    # cameras from that district before moving on — much faster.
+    from collections import defaultdict
+    by_portal = defaultdict(list)
+    for cam in CAMERAS:
+        by_portal[cam["portal"]].append(cam)
+
+    results = []   # list of (camera, result) tuples
 
     async with async_playwright() as pw:
         browser = await pw.chromium.launch(
@@ -152,47 +230,65 @@ async def main():
         )
         page = await ctx.new_page()
 
-        # Load the portal once — reuse the same page for all cameras
-        print("\nLoading TxDOT portal…")
-        try:
-            await page.goto(PORTAL_URL, wait_until="domcontentloaded",
-                            timeout=40_000)
-        except Exception as e:
-            print(f"  goto timeout (normal for SPA): {e}")
-        await page.wait_for_timeout(9_000)
-        print(f"  Page ready: {await page.title()!r}")
+        # ── Process each district portal ──────────────────────────────────────
+        for portal_url, cameras in by_portal.items():
+            district = portal_url.split("/District/")[1].split("/")[0]
+            print(f"\n  District: {district}  ({len(cameras)} cameras)")
+            print(f"  Portal  : {portal_url}")
 
-        # Capture each camera in sequence
-        results = []
-        for camera in CAMERAS:
-            result = await capture_camera(page, camera, ts_ct, ts_utc)
-            results.append((camera, result))
+            # Load this district's portal
+            try:
+                await page.goto(portal_url,
+                                wait_until="domcontentloaded", timeout=45_000)
+            except Exception as e:
+                print(f"  goto timeout (normal for SPA): {e}")
+
+            await page.wait_for_timeout(9_000)
+            print(f"  Page ready: {await page.title()!r}")
+
+            # Capture each camera from this district
+            for camera in cameras:
+                result = await capture_one(page, camera, ts_ct, ts_utc)
+                results.append((camera, result))
 
         await browser.close()
 
-    # Write CSV log
+    # ── Write CSV log ─────────────────────────────────────────────────────────
     csv_path = Path("summary.csv")
     new_file = not csv_path.exists()
     with open(csv_path, "a", newline="", encoding="utf-8") as f:
         w = csv.writer(f)
         if new_file:
-            w.writerow(["timestamp_ct", "timestamp_utc", "camera_name",
-                        "folder", "filepath", "size_bytes", "md5",
-                        "status", "notes"])
+            w.writerow([
+                "timestamp_ct", "timestamp_utc",
+                "district", "camera_name", "folder",
+                "filepath", "size_bytes", "md5",
+                "status", "notes",
+            ])
         for camera, r in results:
+            district = camera["portal"].split("/District/")[1].split("/")[0]
             w.writerow([
                 ts_ct.strftime("%Y-%m-%d %H:%M:%S CT"),
                 ts_utc.strftime("%Y-%m-%d %H:%M:%S UTC"),
-                camera["search"], camera["folder"],
-                r["filepath"], r["size"], r["md5"],
-                r["status"], r["notes"],
+                district,
+                camera["search"],
+                camera["folder"],
+                r["filepath"],
+                r["size"],
+                r["md5"],
+                r["status"],
+                r["notes"],
             ])
 
-    # Summary
+    # ── Final summary ─────────────────────────────────────────────────────────
     captured = sum(1 for _, r in results if r["status"] == "captured")
-    print(f"\nDone: {captured}/{len(CAMERAS)} cameras captured successfully")
+    failed   = sum(1 for _, r in results if r["status"] == "error")
+    print(f"\n{'─'*50}")
+    print(f"  Done: {captured}/{len(CAMERAS)} captured   {failed} failed")
+    print(f"{'─'*50}")
+
     if captured == 0:
-        sys.exit(1)
+        sys.exit(1)   # fail the GitHub Actions step if nothing worked
 
 
 if __name__ == "__main__":
