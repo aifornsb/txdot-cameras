@@ -2,8 +2,8 @@ name: TxDOT Dallas — Camera Capture (All Cameras)
 
 on:
   schedule:
-    - cron: '*/5 * * * *'   # every 5 minutes
-  workflow_dispatch:         # manual trigger from GitHub website
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
 
 jobs:
   capture:
@@ -16,6 +16,7 @@ jobs:
         uses: actions/checkout@v4
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -35,7 +36,9 @@ jobs:
         run: |
           git config user.name  "Camera Bot"
           git config user.email "camera-bot@github-actions"
+          git fetch origin main
+          git reset --soft origin/main
           git add images/ summary.csv
-          git diff --staged --quiet && echo "Nothing to commit" && exit 0
-          git pull --rebase origin main
+          git diff --staged --quiet && echo "Nothing new to commit" && exit 0
+          git commit -m "Capture $(date -u +'%Y-%m-%d %H:%M UTC')"
           git push
