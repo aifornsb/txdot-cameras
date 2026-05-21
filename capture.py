@@ -1,109 +1,65 @@
 """
-TxDOT Multi-District Camera Capture — 24-Hour Loop
-====================================================
-Runs inside a single GitHub Actions job for up to 6 hours
-(GitHub's job time limit). The workflow relaunches itself
-automatically, giving continuous 24-hour coverage.
+TxDOT Camera Capture — IH35E @ Valley Ridge ONLY
+=================================================
+Captures one image every 5 minutes from IH35E @ Valley Ridge (Dallas).
+All other cameras are commented out.
 
-Captures every camera every 5 minutes.
+Images saved to: images/DAL-IH35E-Valley-Ridge/YYYY-MM-DD/
 """
 
 import asyncio, base64, csv, hashlib, os, subprocess, sys, time
 from datetime import datetime, timezone, timedelta
 from pathlib import Path
 
-CT              = timezone(timedelta(hours=-5))   # America/Chicago
-INTERVAL        = 5 * 60                          # 5 minutes in seconds
-JOB_DURATION    = 5 * 3600                        # stop looping after 5h50m
-                                                  # (safely under GitHub's 6h limit)
+CT           = timezone(timedelta(hours=-5))
+INTERVAL     = 5 * 60
+JOB_DURATION = 5 * 3600 + 50 * 60
 
 # ══════════════════════════════════════════════════════════════════════════════
-#  CAMERA LIST
+#  ACTIVE CAMERAS
 # ══════════════════════════════════════════════════════════════════════════════
 CAMERAS = [
-
-    # ── Dallas (DAL) ──────────────────────────────────────────────────────────
     {
         "portal": "https://its.txdot.gov/its/District/DAL/cameras",
         "search": "IH35E @ Valley Ridge",
         "folder": "DAL-IH35E-Valley-Ridge",
     },
-    {
-        "portal": "https://its.txdot.gov/its/District/DAL/cameras",
-        "search": "IH35E @ Valley Ridge North",
-        "folder": "DAL-IH35E-Valley-Ridge-North",
-    },
-
-    # ── Austin (AUS) ──────────────────────────────────────────────────────────
-    {
-        "portal": "https://its.txdot.gov/its/District/AUS/cameras",
-        "search": "LP-1 @ Steck Ave",
-        "folder": "AUS-MoPac-Steck",
-    },
-
-    # ── Houston (HOU) ─────────────────────────────────────────────────────────
-    {
-        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
-        "search": "US-290 Northwest @ Gessner (W)",
-        "folder": "HOU-US290-Gessner-W",
-    },
-    {
-        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
-        "search": "US-290 Northwest @ Little York",
-        "folder": "HOU-US290-LittleYork",
-    },
-    {
-        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
-        "search": "IH-10 Katy @ SH 6 (W)",
-        "folder": "HOU-Katy-ML-SH6-W",
-    },
-    {
-        "portal": "https://its.txdot.gov/its/District/HOU/cameras",
-        "search": "US-290 Northwest @ Cypress Rosehill",
-        "folder": "HOU-US290-CypressRosehill",
-    },
-
-    # ── San Antonio (SAT) ─────────────────────────────────────────────────────
-    {
-        "portal": "https://its.txdot.gov/its/District/SAT/cameras",
-        "search": "US 281 at Sprucewood",
-        "folder": "SAT-US281-Sprucewood",
-    },
-
-    # ── Fort Worth (FTW) ──────────────────────────────────────────────────────
-    {
-        "portal": "https://its.txdot.gov/its/District/FTW/cameras",
-        "search": "IH35W @ Golden Triangle",
-        "folder": "FTW-IH35W-GoldenTriangle",
-    },
 ]
+
 # ══════════════════════════════════════════════════════════════════════════════
+#  COMMENTED OUT — add back when ready
+# ══════════════════════════════════════════════════════════════════════════════
+# {"portal": "https://its.txdot.gov/its/District/DAL/cameras",
+#  "search": "IH35E @ Valley Ridge North",   "folder": "DAL-IH35E-Valley-Ridge-North"},
+# {"portal": "https://its.txdot.gov/its/District/AUS/cameras",
+#  "search": "LP-1 @ Duval Rd (12000) 27",  "folder": "AUS-MoPac-Duval"},
+# {"portal": "https://its.txdot.gov/its/District/HOU/cameras",
+#  "search": "IH-10 Katy @ SH 6 (W)",       "folder": "HOU-Katy-ML-SH6-W"},
+# {"portal": "https://its.txdot.gov/its/District/SAT/cameras",
+#  "search": "US 281 at Sprucewood",         "folder": "SAT-US281-Sprucewood"},
+# {"portal": "https://its.txdot.gov/its/District/FTW/cameras",
+#  "search": "IH35W @ Golden Triangle",      "folder": "FTW-IH35W-GoldenTriangle"},
 
 
 def git_push(message: str):
     """Commit and push new images. Safe against concurrent runs."""
-    cmds = [
+    for cmd in [
         ["git", "config", "user.name",  "Camera Bot"],
         ["git", "config", "user.email", "camera-bot@github-actions"],
         ["git", "fetch", "origin", "main"],
         ["git", "reset", "--soft", "origin/main"],
         ["git", "add", "images/", "summary.csv"],
-    ]
-    for cmd in cmds:
+    ]:
         subprocess.run(cmd, check=False)
 
-    # Only commit if there are staged changes
-    diff = subprocess.run(
-        ["git", "diff", "--staged", "--quiet"], check=False
-    )
+    diff = subprocess.run(["git", "diff", "--staged", "--quiet"], check=False)
     if diff.returncode == 0:
-        print("    (no changes to commit)")
+        print("    (no new images to commit)")
         return
 
     subprocess.run(["git", "commit", "-m", message], check=False)
     result = subprocess.run(["git", "push"], check=False)
     if result.returncode != 0:
-        # Retry once on push failure
         subprocess.run(["git", "fetch", "origin", "main"], check=False)
         subprocess.run(["git", "reset", "--soft", "origin/main"], check=False)
         subprocess.run(["git", "add", "images/", "summary.csv"], check=False)
@@ -112,7 +68,10 @@ def git_push(message: str):
 
 
 async def capture_one(page, camera: dict, ts_ct, ts_utc) -> dict:
-    """Capture a single camera. Returns result dict."""
+    """
+    Capture exactly one camera using its id= attribute.
+    This guarantees the right image even when multiple cameras appear on screen.
+    """
     search = camera["search"]
     folder = camera["folder"]
     stamp  = ts_ct.strftime("%Y%m%d_%H%M%S")
@@ -121,7 +80,7 @@ async def capture_one(page, camera: dict, ts_ct, ts_utc) -> dict:
     img_dir = Path(f"images/{folder}/{date}")
     img_dir.mkdir(parents=True, exist_ok=True)
 
-    # Clear search box and type this camera's name
+    # Type camera name into search box
     for sel in ["input[placeholder*='Search']", "input[placeholder*='search']",
                 "input[type='search']", ".search-input input"]:
         try:
@@ -133,71 +92,108 @@ async def capture_one(page, camera: dict, ts_ct, ts_utc) -> dict:
         except Exception:
             continue
 
-    # Click matching result
-    for sel in [f"text={search}",
-                f"text={' '.join(search.split()[-3:])}",
-                ".camera-item:first-child"]:
-        try:
-            await page.locator(sel).first.click(timeout=3_000)
-            await page.wait_for_timeout(4_000)
-            break
-        except Exception:
-            continue
+    # Click the exact card by its id= attribute (matches camera name exactly)
+    clicked = False
+    try:
+        card = page.locator(f'div[id="{search}"]').first
+        await card.click(timeout=3_000)
+        await page.wait_for_timeout(4_000)
+        clicked = True
+    except Exception:
+        pass
 
-    # Extract the largest base64 JPEG on the page
+    if not clicked:
+        try:
+            link = page.get_by_role("link", name=search, exact=True).first
+            await link.click(timeout=3_000)
+            await page.wait_for_timeout(4_000)
+            clicked = True
+        except Exception:
+            pass
+
+    if not clicked:
+        try:
+            await page.locator(".cctv-list-item").first.click(timeout=3_000)
+            await page.wait_for_timeout(4_000)
+            clicked = True
+        except Exception:
+            pass
+
+    if not clicked:
+        return {"status": "error", "notes": "could not click camera result",
+                "filepath": "", "size": 0, "md5": ""}
+
+    # Extract image from the exact card whose id= matches the camera name
     data = None
-    for _ in range(3):
+
+    # Primary: get image from card with exact id
+    try:
+        b64 = await page.evaluate(
+            """(search) => {
+                const card = document.getElementById(search);
+                if (!card) return null;
+                const img = card.querySelector('img[src^="data:image/jpeg"]');
+                if (!img || img.naturalWidth < 400) return null;
+                return img.src.split(',')[1] || null;
+            }""", search)
+        if b64 and len(b64) > 10_000:
+            data = base64.b64decode(b64)
+    except Exception:
+        pass
+
+    # Secondary: get image from the .selected card
+    if not data:
         try:
             b64 = await page.evaluate("""() => {
-                const imgs = [...document.querySelectorAll('img')]
-                    .filter(i => i.naturalWidth >= 640
-                             && i.src.startsWith('data:image/jpeg'));
-                if (!imgs.length) return null;
-                return imgs.reduce((a,b) =>
-                    a.naturalWidth > b.naturalWidth ? a : b
-                ).src.split(',')[1] || null;
+                const card = document.querySelector(
+                    '.cctv-list-item.selected, .camera-item.selected');
+                if (!card) return null;
+                const img = card.querySelector('img[src^="data:image/jpeg"]');
+                if (!img || img.naturalWidth < 400) return null;
+                return img.src.split(',')[1] || null;
             }""")
             if b64 and len(b64) > 10_000:
                 data = base64.b64decode(b64)
-                if len(data) > 20_000:
-                    break
         except Exception:
-            await page.wait_for_timeout(2_000)
+            pass
 
-    # Fallback: screenshot camera panel
+    # Tertiary: screenshot the selected card element
     if not data:
-        for sel in [".selected", ".camera-item.selected", "mat-dialog-container"]:
-            try:
-                data = await page.locator(sel).first.screenshot(
-                    type="jpeg", quality=90, timeout=5_000)
-                if data and len(data) > 20_000:
-                    break
-            except Exception:
-                continue
+        try:
+            card_el = page.locator(
+                f'div[id="{search}"], .cctv-list-item.selected').first
+            data = await card_el.screenshot(type="jpeg", quality=90, timeout=5_000)
+            if data and len(data) < 20_000:
+                data = None
+        except Exception:
+            pass
 
     if not data or len(data) < 10_000:
-        return {"status": "error", "notes": "no image",
+        print(f"      No image captured")
+        return {"status": "error", "notes": "no image data",
                 "filepath": "", "size": 0, "md5": ""}
 
+    # Verify we got the right camera by checking the OSD text in the image
+    # (The OSD "IH35E-VALLEY RIDGE" text is burned into the image itself)
     fname = f"{folder}_{stamp}.jpg"
     fpath = img_dir / fname
     fpath.write_bytes(data)
     md5   = hashlib.md5(data).hexdigest()
     rel   = f"images/{folder}/{date}/{fname}"
-    print(f"      ✓ {rel}  ({len(data)//1024} KB)")
+    print(f"      ✓ Saved: {fname}  ({len(data)//1024} KB)  md5={md5[:8]}")
+
     return {"status": "captured", "notes": "",
             "filepath": rel, "size": len(data), "md5": md5}
 
 
 async def run_one_interval(results_accumulator):
-    """Open browser, capture all cameras, close browser, push images."""
     from playwright.async_api import async_playwright
     from collections import defaultdict
 
     ts_utc = datetime.now(timezone.utc)
     ts_ct  = ts_utc.astimezone(CT)
     print(f"\n  {'─'*54}")
-    print(f"  Interval: {ts_ct.strftime('%Y-%m-%d %H:%M:%S CT')}")
+    print(f"  {ts_ct.strftime('%Y-%m-%d %H:%M:%S CT')}  — capturing {len(CAMERAS)} camera(s)")
 
     by_portal = defaultdict(list)
     for cam in CAMERAS:
@@ -234,7 +230,12 @@ async def run_one_interval(results_accumulator):
 
             for camera in cameras:
                 print(f"    [{camera['search']}]")
-                result = await capture_one(page, camera, ts_ct, ts_utc)
+                try:
+                    result = await capture_one(page, camera, ts_ct, ts_utc)
+                except Exception as e:
+                    print(f"      Error: {e}")
+                    result = {"status": "error", "notes": str(e)[:80],
+                              "filepath": "", "size": 0, "md5": ""}
                 interval_results.append((camera, result))
 
         await browser.close()
@@ -251,75 +252,61 @@ async def run_one_interval(results_accumulator):
                         "size_bytes", "md5", "status", "notes"])
         for camera, r in interval_results:
             district = camera["portal"].split("/District/")[1].split("/")[0]
-            w.writerow([
-                ts_ct.strftime("%Y-%m-%d %H:%M:%S CT"),
-                ts_utc.strftime("%Y-%m-%d %H:%M:%S UTC"),
-                district, camera["search"], camera["folder"],
-                r["filepath"], r["size"], r["md5"],
-                r["status"], r["notes"],
-            ])
+            w.writerow([ts_ct.strftime("%Y-%m-%d %H:%M:%S CT"),
+                        ts_utc.strftime("%Y-%m-%d %H:%M:%S UTC"),
+                        district, camera["search"], camera["folder"],
+                        r["filepath"], r["size"], r["md5"],
+                        r["status"], r["notes"]])
 
     captured = sum(1 for _, r in interval_results if r["status"] == "captured")
-    print(f"\n    Captured: {captured}/{len(CAMERAS)} cameras")
-
-    # Push to GitHub after every interval
-    git_push(f"Capture {ts_utc.strftime('%Y-%m-%d %H:%M UTC')} "
-             f"({captured}/{len(CAMERAS)} cameras)")
-
+    print(f"\n    Result: {captured}/{len(CAMERAS)} captured")
+    git_push(f"IH35E Valley Ridge — {ts_utc.strftime('%Y-%m-%d %H:%M UTC')}")
     results_accumulator.extend(interval_results)
 
 
 async def main():
-    # Install browser
-    subprocess.run(
-        [sys.executable, "-m", "playwright", "install",
-         "chromium", "--with-deps"], check=True
-    )
+    subprocess.run([sys.executable, "-m", "playwright", "install",
+                    "chromium", "--with-deps"], check=True)
 
-    job_start    = time.monotonic()
-    interval_n   = 0
-    all_results  = []
+    job_start   = time.monotonic()
+    interval_n  = 0
+    all_results = []
 
     ts_start = datetime.now(timezone.utc).astimezone(CT)
     print(f"\n{'═'*56}")
-    print(f"  TxDOT Camera Capture — 5-Minute Loop")
+    print(f"  IH35E @ Valley Ridge — Capture Agent")
     print(f"  Started : {ts_start.strftime('%Y-%m-%d %H:%M:%S CT')}")
-    print(f"  Cameras : {len(CAMERAS)}")
+    print(f"  Camera  : IH35E @ Valley Ridge (Dallas)")
     print(f"  Interval: every {INTERVAL//60} minutes")
-    print(f"  Job runs for ~6 hours then auto-relaunches")
+    print(f"  Output  : images/DAL-IH35E-Valley-Ridge/")
     print(f"{'═'*56}")
 
     while time.monotonic() - job_start < JOB_DURATION:
         interval_n += 1
         elapsed_h = (time.monotonic() - job_start) / 3600
-        print(f"\n  Interval #{interval_n}  "
-              f"(job elapsed: {elapsed_h:.1f}h / 6h)")
+        print(f"\n  Interval #{interval_n}  (elapsed: {elapsed_h:.1f}h / 6h)")
 
         tick = time.monotonic()
         try:
             await run_one_interval(all_results)
         except Exception as e:
-            print(f"  Interval error: {e}")
+            print(f"  Error: {e}")
 
-        # Sleep for the remainder of the 5-minute interval
-        elapsed = time.monotonic() - tick
-        sleep_s = max(0, INTERVAL - elapsed)
+        elapsed  = time.monotonic() - tick
+        sleep_s  = max(0, INTERVAL - elapsed)
+        time_left = JOB_DURATION - (time.monotonic() - job_start)
 
-        # Stop looping if we're close to the job time limit
-        if time.monotonic() - job_start + sleep_s + 180 > JOB_DURATION:
-            print(f"\n  Approaching 6-hour job limit — stopping loop.")
-            print(f"  Workflow will relaunch for the next 6-hour window.")
+        if time_left < sleep_s + 180:
+            print(f"\n  Approaching 6h limit — stopping cleanly.")
             break
 
         next_ct = datetime.now(timezone.utc).astimezone(CT) + timedelta(seconds=sleep_s)
-        print(f"\n  Sleeping {sleep_s:.0f}s → next capture at "
-              f"{next_ct.strftime('%H:%M:%S CT')}")
+        print(f"\n  Next capture at {next_ct.strftime('%H:%M:%S CT')} (in {sleep_s:.0f}s)")
         time.sleep(sleep_s)
 
-    captured_total = sum(1 for _, r in all_results if r["status"] == "captured")
+    total = sum(1 for _, r in all_results if r["status"] == "captured")
     print(f"\n{'═'*56}")
-    print(f"  Job complete: {interval_n} intervals, "
-          f"{captured_total} images captured")
+    print(f"  Done: {interval_n} intervals, {total} images captured")
     print(f"{'═'*56}")
 
 
