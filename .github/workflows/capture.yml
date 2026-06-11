@@ -1,48 +1,36 @@
-name: Capture Cameras + Toll Prices
+name: TxDOT Dallas — Camera Capture (All Cameras)
 
 on:
   schedule:
-    # Fires every 6 hours. The script runs internally for ~5h50m,
-    # capturing images AND toll prices every 5 minutes on its own loop.
-    # Four runs/day × 5h50m = continuous 24/7 coverage with a small gap.
-    - cron: '0 0,6,12,18 * * *'
-  workflow_dispatch:   # manual trigger from Actions tab
+    - cron: '0 0 * * *'   # midnight UTC
+    - cron: '0 6 * * *'   # 6am UTC
+    - cron: '0 12 * * *'  # noon UTC
+    - cron: '0 18 * * *'  # 6pm UTC
+  workflow_dispatch:
 
 jobs:
   capture:
     runs-on: ubuntu-latest
-    timeout-minutes: 370    # 6h10m hard cap — kills runaway jobs cleanly
-
+    timeout-minutes: 360
     permissions:
-      contents: write       # needed to push images + summary.csv back
+      contents: write
 
     steps:
+      - name: Check out repository
+        uses: actions/checkout@v4.2.2
 
-      # 1. Check out the repo (with full history so git push works)
-      - name: Checkout repository
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0    # full history needed for git reset --soft origin/main
-
-      # 2. Set up Python
       - name: Set up Python
-        uses: actions/setup-python@v5
+        uses: actions/setup-python@v5.4.0
         with:
           python-version: '3.11'
           cache: 'pip'
 
-      # 3. Install Python dependencies
-      - name: Install dependencies
-        run: pip install requests playwright
+      - name: Install Python packages
+        run: pip install -r requirements.txt
 
-      # 4. Write browser_cookies.json from the GitHub Secret
-      #    Add this secret in: repo → Settings → Secrets → Actions → New secret
-      #    Name:  TXDOT_COOKIES
-      #    Value: JSON array from EditThisCookie export while on the ITS DMS page
-      #
-      #    If you don't have the secret yet, toll collection will simply log
-      #    a 403 error each interval and write blank toll columns — camera
-      #    capture will still work normally.
+      - name: Install Chromium browser
+        run: playwright install chromium --with-deps
+
       - name: Write TxDOT cookies
         env:
           TXDOT_COOKIES: ${{ secrets.TXDOT_COOKIES }}
@@ -51,10 +39,8 @@ jobs:
             echo "$TXDOT_COOKIES" > browser_cookies.json
             echo "Cookies written ($(wc -c < browser_cookies.json) bytes)"
           else
-            echo "TXDOT_COOKIES secret not set — toll collection will be skipped"
+            echo "TXDOT_COOKIES not set — toll columns will be blank this run"
           fi
 
-      # 5. Run the combined capture + toll script for ~6 hours
-      #    It installs Chromium itself on first run via playwright install
-      - name: Run capture + toll collector
+      - name: Run capture loop (every 5 min for 6 hours)
         run: python capture.py
