@@ -266,7 +266,7 @@
           "latString": "32.646875",
           "longitude": -96.78390999999999,
           "lonString": "-96.78391",
-          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]9 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]17 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]9 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]15 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -280,7 +280,7 @@
               "lines": [
                 "SPUR 408",
                 "10 MILES",
-                "17 MINUTES"
+                "15 MINUTES"
               ],
               "pageNo": 2
             }
@@ -311,19 +311,19 @@
           "latString": "32.645817",
           "longitude": -96.85548999999999,
           "lonString": "-96.85549",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-424][jl4][jp3]6 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]10 MILES   [nl15]14   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-424][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]10 MILES   [nl15]13   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-424]6 MILES",
-                "10   MINS"
+                "9   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-554]10 MILES",
-                "14   MINS"
+                "13   MINS"
               ],
               "pageNo": 2
             }
@@ -354,7 +354,7 @@
           "latString": "32.667583",
           "longitude": -96.91887299999999,
           "lonString": "-96.918873",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]10 MINUTES[np][jl3]SH360[nl]8 MILES[nl]18 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]10 MINUTES[np][jl3]SH360[nl]8 MILES[nl]16 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -368,7 +368,7 @@
               "lines": [
                 "SH360",
                 "8 MILES",
-                "18 MINUTES"
+                "16 MINUTES"
               ],
               "pageNo": 2
             }
@@ -399,13 +399,13 @@
           "latString": "32.674404",
           "longitude": -96.99802799999999,
           "lonString": "-96.998028",
-          "message": "[pt32o3][fo1][jl3]COOPER ST[nl]8 MILES[nl]18 MINUTES[np][jl3]IH820[nl]14 MILES[nl]26 MINUTES",
+          "message": "[pt32o3][fo1][jl3]COOPER ST[nl]8 MILES[nl]17 MINUTES[np][jl3]IH820[nl]14 MILES[nl]27 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "COOPER ST",
                 "8 MILES",
-                "18 MINUTES"
+                "17 MINUTES"
               ],
               "pageNo": 0
             },
@@ -413,7 +413,7 @@
               "lines": [
                 "IH820",
                 "14 MILES",
-                "26 MINUTES"
+                "27 MINUTES"
               ],
               "pageNo": 2
             }
@@ -534,13 +534,13 @@
           "latString": "32.670299",
           "longitude": -96.969382,
           "lonString": "-96.969382",
-          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]10 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]15 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]11 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]17 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US67",
                 "6 MILES",
-                "10 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             },
@@ -548,7 +548,7 @@
               "lines": [
                 "IH35E",
                 "9 MILES",
-                "15 MINUTES"
+                "17 MINUTES"
               ],
               "pageNo": 2
             }
@@ -624,19 +624,19 @@
           "latString": "32.644341",
           "longitude": -96.850203,
           "lonString": "-96.850203",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-418][jl4][jp3]7 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-425][jl4][jp3]13 MILES   [nl15]23   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-418][jl4][jp3]7 MILES   [nl15]15   MINS   [np][pt32o3][jl3][p2imgcl-425][jl4][jp3]13 MILES   [nl15]22   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-418]7 MILES",
-                "16   MINS"
+                "15   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-425]13 MILES",
-                "23   MINS"
+                "22   MINS"
               ],
               "pageNo": 2
             }
@@ -667,7 +667,7 @@
           "latString": "32.654372",
           "longitude": -96.752967,
           "lonString": "-96.752967",
-          "message": "[pt32o3][fo1][jl3]US175[nl]7 MILES[nl]9 MINUTES[np][jl3]US80 ON IH635[nl]14 MILES[nl]17 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US175[nl]7 MILES[nl]9 MINUTES[np][jl3]US80 ON IH635[nl]14 MILES[nl]15 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -681,7 +681,7 @@
               "lines": [
                 "US80 ON IH635",
                 "14 MILES",
-                "17 MINUTES"
+                "15 MINUTES"
               ],
               "pageNo": 2
             }
@@ -989,19 +989,19 @@
           "latString": "32.761813",
           "longitude": -96.951639,
           "lonString": "-96.951639",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]22   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]24   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]8 MILES",
-                "16   MINS"
+                "18   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-518]10 MILES",
-                "22   MINS"
+                "24   MINS"
               ],
               "pageNo": 2
             }
@@ -1032,13 +1032,13 @@
           "latString": "32.766282",
           "longitude": -96.896192,
           "lonString": "-96.896192",
-          "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]13 MINUTES[np][jl3]IH635[nl]16 MILES[nl]32 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]15 MINUTES[np][jl3]IH635[nl]16 MILES[nl]34 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH35E",
                 "5 MILES",
-                "13 MINUTES"
+                "15 MINUTES"
               ],
               "pageNo": 0
             },
@@ -1046,7 +1046,7 @@
               "lines": [
                 "IH635",
                 "16 MILES",
-                "32 MINUTES"
+                "34 MINUTES"
               ],
               "pageNo": 2
             }
@@ -1208,12 +1208,12 @@
           "latString": "32.845748",
           "longitude": -96.58218099999999,
           "lonString": "-96.582181",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]10 MILES   [nl15]17   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]6 MILES   [nl15]8   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]10 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]6 MILES   [nl15]8   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-422]10 MILES",
-                "17   MINS"
+                "18   MINS"
               ],
               "pageNo": 0
             },
@@ -1376,7 +1376,7 @@
           "latString": "32.794798",
           "longitude": -96.716983,
           "lonString": "-96.716983",
-          "message": "[pt32o3][fo1][jl3]IH635[nl]5 MILES[nl]7 MINUTES[np][jl3]DALROCK RD[nl]12 MILES[nl]29 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH635[nl]5 MILES[nl]7 MINUTES[np][jl3]DALROCK RD[nl]12 MILES[nl]28 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -1390,7 +1390,7 @@
               "lines": [
                 "DALROCK RD",
                 "12 MILES",
-                "29 MINUTES"
+                "28 MINUTES"
               ],
               "pageNo": 2
             }
@@ -1493,13 +1493,13 @@
           "latString": "32.806073",
           "longitude": -96.66277799999999,
           "lonString": "-96.662778",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]9 MINUTES[np][jl3]SH205 (ROCKWALL)[nl]14 MILES[nl]35 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]10 MINUTES[np][jl3]SH205 (ROCKWALL)[nl]14 MILES[nl]33 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "PGBT (SH190)",
                 "7 MILES",
-                "9 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 0
             },
@@ -1507,7 +1507,7 @@
               "lines": [
                 "SH205 (ROCKWALL)",
                 "14 MILES",
-                "35 MINUTES"
+                "33 MINUTES"
               ],
               "pageNo": 2
             }
@@ -1610,19 +1610,19 @@
           "latString": "32.844582",
           "longitude": -96.58376299999999,
           "lonString": "-96.583763",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-511][jl4][jp3]13 MILES   [nl15]35   MINS   [np][pt32o3][jl3][p2imgcl-427][jl4][jp3]9 MILES   [nl15]30   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-511][jl4][jp3]13 MILES   [nl15]34   MINS   [np][pt32o3][jl3][p2imgcl-427][jl4][jp3]9 MILES   [nl15]29   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-511]13 MILES",
-                "35   MINS"
+                "34   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-427]9 MILES",
-                "30   MINS"
+                "29   MINS"
               ],
               "pageNo": 2
             }
@@ -1653,12 +1653,12 @@
           "latString": "32.791236",
           "longitude": -96.755749,
           "lonString": "-96.755749",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]4 MILES",
-                "9   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
@@ -1696,13 +1696,13 @@
           "latString": "32.894451",
           "longitude": -96.478662,
           "lonString": "-96.478662",
-          "message": "[pt32o3][fo1][jl3]FM551 (FATE)[nl]6 MILES[nl]9 MINUTES[np][jl3]FM548 (ROYSE CITY)[nl]10 MILES[nl]13 MINUTES",
+          "message": "[pt32o3][fo1][jl3]FM551 (FATE)[nl]6 MILES[nl]10 MINUTES[np][jl3]FM548 (ROYSE CITY)[nl]10 MILES[nl]13 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "FM551 (FATE)",
                 "6 MILES",
-                "9 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 0
             },
@@ -1996,13 +1996,13 @@
           "latString": "33.41936",
           "longitude": -97.17603,
           "lonString": "-97.17603",
-          "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]14 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]11 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US380",
                 "13 MILES",
-                "14 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2041,13 +2041,13 @@
           "latString": "33.23529",
           "longitude": -97.17554899999999,
           "lonString": "-97.175549",
-          "message": "[pt32o3][fo1][jl3]SANGER[nl]10 MILES[nl]15 MINUTES[np][jl3]GAINESVILLE[nl]28 MILES[nl]30 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SANGER[nl]10 MILES[nl]18 MINUTES[np][jl3]GAINESVILLE[nl]28 MILES[nl]33 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SANGER",
                 "10 MILES",
-                "15 MINUTES"
+                "18 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2055,7 +2055,7 @@
               "lines": [
                 "GAINESVILLE",
                 "28 MILES",
-                "30 MINUTES"
+                "33 MINUTES"
               ],
               "pageNo": 2
             }
@@ -2086,13 +2086,13 @@
           "latString": "33.230895",
           "longitude": -97.174606,
           "lonString": "-97.174606",
-          "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 176 MINUTES[nl]IH35W 114 MINUTES",
+          "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 176 MINUTES[nl]IH35W 116 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "HILLSBORO VIA",
                 "IH35E 176 MINUTES",
-                "IH35W 114 MINUTES"
+                "IH35W 116 MINUTES"
               ],
               "pageNo": 0
             }
@@ -2213,7 +2213,7 @@
           "latString": "32.658799",
           "longitude": -96.823298,
           "lonString": "-96.823298",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-545][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-539][jl4][jp3]17 MILES   [nl15]20   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-545][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-539][jl4][jp3]17 MILES   [nl15]21   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2225,7 +2225,7 @@
             {
               "lines": [
                 "[p2imgcl-539]17 MILES",
-                "20   MINS"
+                "21   MINS"
               ],
               "pageNo": 2
             }
@@ -2299,7 +2299,7 @@
           "latString": "32.475186",
           "longitude": -96.835961,
           "lonString": "-96.835961",
-          "message": "[pt32o3][fo1][jl3]ITALY[nl]20 MILES[nl]18 MINUTES[np][jl3]HILLSBORO[nl]38 MILES[nl]35 MINUTES",
+          "message": "[pt32o3][fo1][jl3]ITALY[nl]20 MILES[nl]18 MINUTES[np][jl3]HILLSBORO[nl]38 MILES[nl]34 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -2313,7 +2313,7 @@
               "lines": [
                 "HILLSBORO",
                 "38 MILES",
-                "35 MINUTES"
+                "34 MINUTES"
               ],
               "pageNo": 2
             }
@@ -2344,7 +2344,7 @@
           "latString": "32.759167",
           "longitude": -96.809451,
           "lonString": "-96.809451",
-          "message": "[pt32o3][fo1][jl3]US67[nl]4 MILES[nl]4 MINUTES[np][jl3]IH20[nl]9 MILES[nl]15 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US67[nl]4 MILES[nl]4 MINUTES[np][jl3]IH20[nl]9 MILES[nl]14 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -2358,7 +2358,7 @@
               "lines": [
                 "IH20",
                 "9 MILES",
-                "15 MINUTES"
+                "14 MINUTES"
               ],
               "pageNo": 2
             }
@@ -2422,7 +2422,7 @@
           "latString": "32.31497",
           "longitude": -96.86075,
           "lonString": "-96.86075",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-539][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]24 MILES   [nl15]27   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-539][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]24 MILES   [nl15]26   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2434,7 +2434,7 @@
             {
               "lines": [
                 "[p2imgcl-417]24 MILES",
-                "27   MINS"
+                "26   MINS"
               ],
               "pageNo": 2
             }
@@ -2465,7 +2465,7 @@
           "latString": "32.434542",
           "longitude": -96.855954,
           "lonString": "-96.855954",
-          "message": "[pt32o3][fo1][jl3]OVILLA RD[nl]9 MILES[nl]9 MINUTES[np][jl3]IH20[nl]17 MILES[nl]21 MINUTES",
+          "message": "[pt32o3][fo1][jl3]OVILLA RD[nl]9 MILES[nl]9 MINUTES[np][jl3]IH20[nl]17 MILES[nl]20 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -2479,7 +2479,7 @@
               "lines": [
                 "IH20",
                 "17 MILES",
-                "21 MINUTES"
+                "20 MINUTES"
               ],
               "pageNo": 2
             }
@@ -2510,19 +2510,19 @@
           "latString": "33.070273",
           "longitude": -97.019228,
           "lonString": "-97.019228",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]26   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]28   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-554]8 MILES",
-                "11   MINS"
+                "12   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-553]13 MILES",
-                "26   MINS"
+                "28   MINS"
               ],
               "pageNo": 2
             }
@@ -2553,19 +2553,19 @@
           "latString": "33.015834",
           "longitude": -96.981691,
           "lonString": "-96.981691",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-535][jl4][jp3]9 MILES   [nl15]20   MINS   [np][pt32o3][jl3][p2imgcl-534][jl4][jp3]4 MILES   [nl15]6   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-535][jl4][jp3]9 MILES   [nl15]23   MINS   [np][pt32o3][jl3][p2imgcl-534][jl4][jp3]4 MILES   [nl15]8   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-535]9 MILES",
-                "20   MINS"
+                "23   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-534]4 MILES",
-                "6   MINS"
+                "8   MINS"
               ],
               "pageNo": 2
             }
@@ -2596,12 +2596,12 @@
           "latString": "32.625148",
           "longitude": -96.822887,
           "lonString": "-96.822887",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]18   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]18   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-387]4 MILES",
-                "7   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
@@ -2639,19 +2639,19 @@
           "latString": "33.002622",
           "longitude": -96.964793,
           "lonString": "-96.964793",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]17   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]20   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]19   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]21   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-553]7 MILES",
-                "17   MINS"
+                "19   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-387]10 MILES",
-                "20   MINS"
+                "21   MINS"
               ],
               "pageNo": 2
             }
@@ -2682,13 +2682,13 @@
           "latString": "32.688921",
           "longitude": -96.822712,
           "lonString": "-96.822712",
-          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]11 MINUTES[np][jl3]SH183[nl]11 MILES[nl]22 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]10 MINUTES[np][jl3]SH183[nl]11 MILES[nl]20 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30",
                 "6 MILES",
-                "11 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2696,7 +2696,7 @@
               "lines": [
                 "SH183",
                 "11 MILES",
-                "22 MINUTES"
+                "20 MINUTES"
               ],
               "pageNo": 2
             }
@@ -2770,19 +2770,19 @@
           "latString": "32.938194",
           "longitude": -96.90272399999999,
           "lonString": "-96.902724",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]47   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]44   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-387]5 MILES",
-                "9   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-352]24 MILES",
-                "47   MINS"
+                "44   MINS"
               ],
               "pageNo": 2
             }
@@ -2856,19 +2856,19 @@
           "latString": "32.737075",
           "longitude": -96.823827,
           "lonString": "-96.823827",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-560][jl4][jp3]8 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]28   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-560][jl4][jp3]8 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]27   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-560]8 MILES",
-                "18   MINS"
+                "16   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-553]15 MILES",
-                "28   MINS"
+                "27   MINS"
               ],
               "pageNo": 2
             }
@@ -2932,19 +2932,19 @@
           "latString": "32.809509",
           "longitude": -96.845764,
           "lonString": "-96.845764",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]21   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]13   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]23   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-553]8 MILES",
-                "12   MINS"
+                "13   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-554]14 MILES",
-                "21   MINS"
+                "23   MINS"
               ],
               "pageNo": 2
             }
@@ -3020,19 +3020,19 @@
           "latString": "32.799759",
           "longitude": -96.821485,
           "lonString": "-96.821485",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]12 MILES   [nl15]22   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]7 MILES   [nl15]11   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]12 MILES   [nl15]21   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]7 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-417]12 MILES",
-                "22   MINS"
+                "21   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-558]7 MILES",
-                "11   MINS"
+                "10   MINS"
               ],
               "pageNo": 2
             }
@@ -3282,7 +3282,7 @@
           "latString": "33.080993",
           "longitude": -97.025489,
           "lonString": "-97.025489",
-          "message": "[pt32o3][fo1][jl3]CORINTH PKWY[nl]6 MILES[nl]6 MINUTES[np][jl3]US380[nl]14 MILES[nl]18 MINUTES",
+          "message": "[pt32o3][fo1][jl3]CORINTH PKWY[nl]6 MILES[nl]6 MINUTES[np][jl3]US380[nl]14 MILES[nl]19 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -3296,7 +3296,7 @@
               "lines": [
                 "US380",
                 "14 MILES",
-                "18 MINUTES"
+                "19 MINUTES"
               ],
               "pageNo": 2
             }
@@ -3327,19 +3327,19 @@
           "latString": "33.168581",
           "longitude": -97.082797,
           "lonString": "-97.082797",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]29   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]31   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-404]7 MILES",
-                "11   MINS"
+                "12   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-509]17 MILES",
-                "29   MINS"
+                "31   MINS"
               ],
               "pageNo": 2
             }
@@ -3372,7 +3372,7 @@
           "latString": "32.723808",
           "longitude": -96.761639,
           "lonString": "-96.761639",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]25   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]22   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -3384,7 +3384,7 @@
             {
               "lines": [
                 "[p2imgcl-553]15 MILES",
-                "25   MINS"
+                "22   MINS"
               ],
               "pageNo": 2
             }
@@ -3415,7 +3415,7 @@
           "latString": "32.783163",
           "longitude": -96.788325,
           "lonString": "-96.788325",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]20   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]17   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -3427,7 +3427,7 @@
             {
               "lines": [
                 "[p2imgcl-553]10 MILES",
-                "20   MINS"
+                "17   MINS"
               ],
               "pageNo": 2
             }
@@ -3503,7 +3503,7 @@
           "latString": "32.244868",
           "longitude": -96.49673399999999,
           "lonString": "-96.496734",
-          "message": "[pt32o3][fo1][jl3]SH31 (CORSICANA)[nl]11 MILES[nl]10 MINUTES[np][jl3]SH14 (RICHLAND)[nl]23 MILES[nl]21 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SH31 (CORSICANA)[nl]11 MILES[nl]10 MINUTES[np][jl3]SH14 (RICHLAND)[nl]23 MILES[nl]20 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -3517,7 +3517,7 @@
               "lines": [
                 "SH14 (RICHLAND)",
                 "23 MILES",
-                "21 MINUTES"
+                "20 MINUTES"
               ],
               "pageNo": 2
             }
@@ -3593,13 +3593,13 @@
           "latString": "32.28257",
           "longitude": -96.53598199999999,
           "lonString": "-96.535982",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]29 MINUTES[np][jl3]IH30[nl]39 MILES[nl]39 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]30 MINUTES[np][jl3]IH30[nl]39 MILES[nl]39 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH20",
                 "30 MILES",
-                "29 MINUTES"
+                "30 MINUTES"
               ],
               "pageNo": 0
             },
@@ -3638,7 +3638,7 @@
           "latString": "32.630471",
           "longitude": -96.698133,
           "lonString": "-96.698133",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]12 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]12 MILES   [nl15]14   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -3650,7 +3650,7 @@
             {
               "lines": [
                 "[p2imgcl-399]12 MILES",
-                "15   MINS"
+                "14   MINS"
               ],
               "pageNo": 2
             }
@@ -3681,13 +3681,13 @@
           "latString": "32.701185",
           "longitude": -96.75335199999999,
           "lonString": "-96.753352",
-          "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]9 MILES[nl]9 MINUTES[np][jl3]SH34 (ENNIS)[nl]28 MILES[nl]25 MINUTES",
+          "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]9 MILES[nl]10 MINUTES[np][jl3]SH34 (ENNIS)[nl]28 MILES[nl]25 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "BELT LINE RD",
                 "9 MILES",
-                "9 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 0
             },
@@ -3816,19 +3816,19 @@
           "latString": "32.848374",
           "longitude": -96.63966599999999,
           "lonString": "-96.639666",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]27   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]24   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]14   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-417]11 MILES",
-                "27   MINS"
+                "24   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-420]6 MILES",
-                "15   MINS"
+                "14   MINS"
               ],
               "pageNo": 2
             }
@@ -3949,13 +3949,13 @@
           "latString": "32.920445",
           "longitude": -96.98234599999999,
           "lonString": "-96.982346",
-          "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]7 MINUTES[np][jl3]DNT[nl]10 MILES[nl]17 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]6 MINUTES[np][jl3]DNT[nl]10 MILES[nl]15 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH35E",
                 "5 MILES",
-                "7 MINUTES"
+                "6 MINUTES"
               ],
               "pageNo": 0
             },
@@ -3963,7 +3963,7 @@
               "lines": [
                 "DNT",
                 "10 MILES",
-                "17 MINUTES"
+                "15 MINUTES"
               ],
               "pageNo": 2
             }
@@ -4219,13 +4219,13 @@
           "latString": "32.907138",
           "longitude": -96.918685,
           "lonString": "-96.918685",
-          "message": "[pt32o3][fo1][jl3]DNT[nl]6 MILES[nl]14 MINUTES[np][jl3]US75[nl]9 MILES[nl]18 MINUTES",
+          "message": "[pt32o3][fo1][jl3]DNT[nl]6 MILES[nl]11 MINUTES[np][jl3]US75[nl]9 MILES[nl]16 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "DNT",
                 "6 MILES",
-                "14 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             },
@@ -4233,7 +4233,7 @@
               "lines": [
                 "US75",
                 "9 MILES",
-                "18 MINUTES"
+                "16 MINUTES"
               ],
               "pageNo": 2
             }
@@ -4264,19 +4264,19 @@
           "latString": "32.882133",
           "longitude": -96.69456,
           "lonString": "-96.69456",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]30   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]5 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]27   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-399]5 MILES",
-                "8   MINS"
+                "7   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-417]14 MILES",
-                "30   MINS"
+                "27   MINS"
               ],
               "pageNo": 2
             }
@@ -4307,19 +4307,19 @@
           "latString": "32.916833",
           "longitude": -96.743758,
           "lonString": "-96.743758",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]9 MILES   [nl15]18   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]6 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]9 MILES   [nl15]16   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-422]6 MILES",
-                "9   MINS"
+                "10   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-399]9 MILES",
-                "18   MINS"
+                "16   MINS"
               ],
               "pageNo": 2
             }
@@ -4352,7 +4352,7 @@
           "latString": "32.741188",
           "longitude": -96.918892,
           "lonString": "-96.918892",
-          "message": "[pt32o3][fo1][jl3]SH183[nl]6 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]13 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SH183[nl]6 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]12 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -4366,7 +4366,7 @@
               "lines": [
                 "IH635",
                 "12 MILES",
-                "13 MINUTES"
+                "12 MINUTES"
               ],
               "pageNo": 2
             }
@@ -4397,19 +4397,19 @@
           "latString": "32.85965",
           "longitude": -96.902743,
           "lonString": "-96.902743",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]21   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]28   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]25   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-399]7 MILES",
-                "21   MINS"
+                "18   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-417]14 MILES",
-                "28   MINS"
+                "25   MINS"
               ],
               "pageNo": 2
             }
@@ -4440,19 +4440,19 @@
           "latString": "32.816249",
           "longitude": -96.92150799999999,
           "lonString": "-96.921508",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]12 MILES   [nl15]18   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]12 MILES   [nl15]17   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-553]7 MILES",
-                "9   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-554]12 MILES",
-                "18   MINS"
+                "17   MINS"
               ],
               "pageNo": 2
             }
@@ -4483,7 +4483,7 @@
           "latString": "32.816968",
           "longitude": -96.921904,
           "lonString": "-96.921904",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-538][jl4][jp3]5 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]11 MILES   [nl15]16   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-538][jl4][jp3]5 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]11 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -4495,7 +4495,7 @@
             {
               "lines": [
                 "[p2imgcl-417]11 MILES",
-                "16   MINS"
+                "15   MINS"
               ],
               "pageNo": 2
             }
@@ -4526,13 +4526,13 @@
           "latString": "32.847324",
           "longitude": -96.910173,
           "lonString": "-96.910173",
-          "message": "[pt32o3][fo1][jl3]IH635[nl]4 MILES[nl]6 MINUTES[np][jl3]SRT (SH121)[nl]12 MILES[nl]16 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH635[nl]4 MILES[nl]5 MINUTES[np][jl3]SRT (SH121)[nl]12 MILES[nl]16 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH635",
                 "4 MILES",
-                "6 MINUTES"
+                "5 MINUTES"
               ],
               "pageNo": 0
             },
@@ -4700,7 +4700,7 @@
           "latString": "32.88549",
           "longitude": -96.954398,
           "lonString": "-96.954398",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-346][jl4][jp3]7 MILES   [nl15]9   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-346][jl4][jp3]7 MILES   [nl15]8   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -4712,7 +4712,7 @@
             {
               "lines": [
                 "[p2imgcl-346]7 MILES",
-                "9   MINS"
+                "8   MINS"
               ],
               "pageNo": 2
             }
@@ -4743,7 +4743,7 @@
           "latString": "32.915272",
           "longitude": -97.007649,
           "lonString": "-97.007649",
-          "message": "[pt32o3][fo1][jl3]DFW AIRPORT[nl]4 MILES[nl]4 MINUTES[np][jl3]MAIN ST (GRAPEVINE)[nl]5 MILES[nl]6 MINUTES",
+          "message": "[pt32o3][fo1][jl3]DFW AIRPORT[nl]4 MILES[nl]4 MINUTES[np][jl3]MAIN ST (GRAPEVINE)[nl]5 MILES[nl]5 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -4757,7 +4757,7 @@
               "lines": [
                 "MAIN ST (GRAPEVINE)",
                 "5 MILES",
-                "6 MINUTES"
+                "5 MINUTES"
               ],
               "pageNo": 2
             }
@@ -4927,19 +4927,19 @@
           "latString": "32.837238",
           "longitude": -96.99213499999999,
           "lonString": "-96.992135",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]20   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]19   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-421]4 MILES",
-                "5   MINS"
+                "4   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-431]12 MILES",
-                "20   MINS"
+                "19   MINS"
               ],
               "pageNo": 2
             }
@@ -4970,13 +4970,13 @@
           "latString": "32.82193",
           "longitude": -96.877905,
           "lonString": "-96.877905",
-          "message": "[pt32o3][jl3][pt32o0]IH30[nl]6 MILES[nl]26 MINUTES",
+          "message": "[pt32o3][jl3][pt32o0]IH30[nl]6 MILES[nl]24 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30",
                 "6 MILES",
-                "26 MINUTES"
+                "24 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5007,7 +5007,7 @@
           "latString": "32.836963",
           "longitude": -96.940579,
           "lonString": "-96.940579",
-          "message": "[pt32o3][jl3][pt50o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]5 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]9 MILES   [nl15]28   MINS   ",
+          "message": "[pt32o3][jl3][pt50o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]5 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]9 MILES   [nl15]27   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -5019,7 +5019,7 @@
             {
               "lines": [
                 "[p2imgcl-352]9 MILES",
-                "28   MINS"
+                "27   MINS"
               ],
               "pageNo": 2
             }
@@ -5052,13 +5052,13 @@
           "latString": "32.790717",
           "longitude": -96.80016099999999,
           "lonString": "-96.800161",
-          "message": "[pt32o3][jl3][pt32o0]SH183 ON IH35E[nl]6 MILES[nl]12 MINUTES",
+          "message": "[pt32o3][jl3][pt32o0]SH183 ON IH35E[nl]6 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SH183 ON IH35E",
                 "6 MILES",
-                "12 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5089,13 +5089,13 @@
           "latString": "32.787682",
           "longitude": -96.80338499999999,
           "lonString": "-96.803385",
-          "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]22 MINUTES",
+          "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]20 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH635 ON US75",
                 "10 MILES",
-                "22 MINUTES"
+                "20 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5128,7 +5128,7 @@
           "latString": "32.694549",
           "longitude": -96.93726799999999,
           "lonString": "-96.937268",
-          "message": "[pt32o3][fo2][jl3]PGBT ON IH20 WEST[nl]6 MILES[nl]9 MINUTES[np][jl3]IH35E ON IH20 EAST[nl]9 MILES[nl]18 MINUTES",
+          "message": "[pt32o3][fo2][jl3]PGBT ON IH20 WEST[nl]6 MILES[nl]9 MINUTES[np][jl3]IH35E ON IH20 EAST[nl]9 MILES[nl]21 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -5142,7 +5142,7 @@
               "lines": [
                 "IH35E ON IH20 EAST",
                 "9 MILES",
-                "18 MINUTES"
+                "21 MINUTES"
               ],
               "pageNo": 2
             }
@@ -5218,7 +5218,7 @@
           "latString": "32.728083",
           "longitude": -96.705837,
           "lonString": "-96.705837",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]5 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]11 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]5 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]12 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -5232,7 +5232,7 @@
               "lines": [
                 "SEAGOVILLE RD",
                 "10 MILES",
-                "11 MINUTES"
+                "12 MINUTES"
               ],
               "pageNo": 2
             }
@@ -5384,7 +5384,7 @@
           "latString": "32.747427",
           "longitude": -96.74439,
           "lonString": "-96.74439",
-          "message": "[pt32o3][fo1][jl3]IH30[nl]4 MILES[nl]4 MINUTES[np][jl3]WOODALL RODGERS[nl]5 MILES[nl]6 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH30[nl]4 MILES[nl]4 MINUTES[np][jl3]WOODALL RODGERS[nl]5 MILES[nl]5 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -5398,7 +5398,7 @@
               "lines": [
                 "WOODALL RODGERS",
                 "5 MILES",
-                "6 MINUTES"
+                "5 MINUTES"
               ],
               "pageNo": 2
             }
@@ -5431,13 +5431,13 @@
           "latString": "32.677609",
           "longitude": -96.856434,
           "lonString": "-96.856434",
-          "message": "[pt32o3][fo1][jl3]FM1382 (CEDAR HILL)[nl]7 MILES[nl]8 MINUTES[np][jl3]US287 (MIDLOTHIAN)[nl]21 MILES[nl]20 MINUTES",
+          "message": "[pt32o3][fo1][jl3]FM1382 (CEDAR HILL)[nl]7 MILES[nl]7 MINUTES[np][jl3]US287 (MIDLOTHIAN)[nl]21 MILES[nl]20 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "FM1382 (CEDAR HILL)",
                 "7 MILES",
-                "8 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -5476,7 +5476,7 @@
           "latString": "32.635957",
           "longitude": -96.89654399999999,
           "lonString": "-96.896544",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]17   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -5488,7 +5488,7 @@
             {
               "lines": [
                 "[p2imgcl-399]11 MILES",
-                "17   MINS"
+                "15   MINS"
               ],
               "pageNo": 2
             }
@@ -5556,13 +5556,13 @@
           "latString": "32.679888",
           "longitude": -96.85375599999999,
           "lonString": "-96.853756",
-          "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]12 MINUTES",
+          "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30",
                 "7 MILES",
-                "12 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5640,12 +5640,12 @@
           "latString": "32.810585",
           "longitude": -96.792034,
           "lonString": "-96.792034",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-425][jl4][jp3]5 MILES   [nl15]17   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]8 MILES   [nl15]21   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-425][jl4][jp3]5 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]8 MILES   [nl15]21   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-425]5 MILES",
-                "17   MINS"
+                "18   MINS"
               ],
               "pageNo": 0
             },
@@ -5683,12 +5683,12 @@
           "latString": "33.14706",
           "longitude": -96.64993299999999,
           "lonString": "-96.649933",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]13   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]21   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]21   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-554]11 MILES",
-                "13   MINS"
+                "12   MINS"
               ],
               "pageNo": 0
             },
@@ -5726,13 +5726,13 @@
           "latString": "32.892336",
           "longitude": -96.76875299999999,
           "lonString": "-96.768753",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]14 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]24 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]13 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]24 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "PGBT (SH190)",
                 "9 MILES",
-                "14 MINUTES"
+                "13 MINUTES"
               ],
               "pageNo": 0
             },
@@ -5859,12 +5859,12 @@
           "latString": "32.983481",
           "longitude": -96.711269,
           "lonString": "-96.711269",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]17 MILES   [nl15]19   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]12 MILES   [nl15]12   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]17 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]12 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-404]17 MILES",
-                "19   MINS"
+                "18   MINS"
               ],
               "pageNo": 0
             },
@@ -5947,13 +5947,13 @@
           "latString": "32.896765",
           "longitude": -96.769616,
           "lonString": "-96.769616",
-          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]21 MINUTES[np][jl3]IH30[nl]9 MILES[nl]30 MINUTES",
+          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]20 MINUTES[np][jl3]IH30[nl]9 MILES[nl]30 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "WOODALL RODGERS",
                 "7 MILES",
-                "21 MINUTES"
+                "20 MINUTES"
               ],
               "pageNo": 0
             },
@@ -5992,13 +5992,13 @@
           "latString": "33.223547",
           "longitude": -96.63449899999999,
           "lonString": "-96.634499",
-          "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]8 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]21 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]9 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]21 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SRT (SH121)",
                 "4 MILES",
-                "8 MINUTES"
+                "9 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6080,7 +6080,7 @@
           "latString": "33.223152",
           "longitude": -96.634604,
           "lonString": "-96.634604",
-          "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]27 MINUTES",
+          "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -6094,7 +6094,7 @@
               "lines": [
                 "SHERMAN",
                 "30 MILES",
-                "27 MINUTES"
+                "26 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6172,7 +6172,7 @@
           "latString": "32.787484",
           "longitude": -96.57488099999999,
           "lonString": "-96.574881",
-          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]11 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]26 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]11 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]25 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -6186,7 +6186,7 @@
               "lines": [
                 "IH45 / US75",
                 "12 MILES",
-                "26 MINUTES"
+                "25 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6307,7 +6307,7 @@
           "latString": "32.750612",
           "longitude": -96.459918,
           "lonString": "-96.459918",
-          "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]14 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]36 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]14 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]34 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -6321,7 +6321,7 @@
               "lines": [
                 "IH45 / US75",
                 "20 MILES",
-                "36 MINUTES"
+                "34 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6410,7 +6410,7 @@
               "latString": "32.646875",
               "longitude": -96.78390999999999,
               "lonString": "-96.78391",
-              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]9 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]17 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]9 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]15 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -6424,7 +6424,7 @@
                   "lines": [
                     "SPUR 408",
                     "10 MILES",
-                    "17 MINUTES"
+                    "15 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6462,19 +6462,19 @@
               "latString": "32.645817",
               "longitude": -96.85548999999999,
               "lonString": "-96.85549",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-424][jl4][jp3]6 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]10 MILES   [nl15]14   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-424][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]10 MILES   [nl15]13   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-424]6 MILES",
-                    "10   MINS"
+                    "9   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-554]10 MILES",
-                    "14   MINS"
+                    "13   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -6512,7 +6512,7 @@
               "latString": "32.667583",
               "longitude": -96.91887299999999,
               "lonString": "-96.918873",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]10 MINUTES[np][jl3]SH360[nl]8 MILES[nl]18 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]10 MINUTES[np][jl3]SH360[nl]8 MILES[nl]16 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -6526,7 +6526,7 @@
                   "lines": [
                     "SH360",
                     "8 MILES",
-                    "18 MINUTES"
+                    "16 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6564,13 +6564,13 @@
               "latString": "32.674404",
               "longitude": -96.99802799999999,
               "lonString": "-96.998028",
-              "message": "[pt32o3][fo1][jl3]COOPER ST[nl]8 MILES[nl]18 MINUTES[np][jl3]IH820[nl]14 MILES[nl]26 MINUTES",
+              "message": "[pt32o3][fo1][jl3]COOPER ST[nl]8 MILES[nl]17 MINUTES[np][jl3]IH820[nl]14 MILES[nl]27 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "COOPER ST",
                     "8 MILES",
-                    "18 MINUTES"
+                    "17 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -6578,7 +6578,7 @@
                   "lines": [
                     "IH820",
                     "14 MILES",
-                    "26 MINUTES"
+                    "27 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6720,13 +6720,13 @@
               "latString": "32.670299",
               "longitude": -96.969382,
               "lonString": "-96.969382",
-              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]10 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]15 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]11 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US67",
                     "6 MILES",
-                    "10 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -6734,7 +6734,7 @@
                   "lines": [
                     "IH35E",
                     "9 MILES",
-                    "15 MINUTES"
+                    "17 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6824,19 +6824,19 @@
               "latString": "32.644341",
               "longitude": -96.850203,
               "lonString": "-96.850203",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-418][jl4][jp3]7 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-425][jl4][jp3]13 MILES   [nl15]23   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-418][jl4][jp3]7 MILES   [nl15]15   MINS   [np][pt32o3][jl3][p2imgcl-425][jl4][jp3]13 MILES   [nl15]22   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-418]7 MILES",
-                    "16   MINS"
+                    "15   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-425]13 MILES",
-                    "23   MINS"
+                    "22   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -6874,7 +6874,7 @@
               "latString": "32.654372",
               "longitude": -96.752967,
               "lonString": "-96.752967",
-              "message": "[pt32o3][fo1][jl3]US175[nl]7 MILES[nl]9 MINUTES[np][jl3]US80 ON IH635[nl]14 MILES[nl]17 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US175[nl]7 MILES[nl]9 MINUTES[np][jl3]US80 ON IH635[nl]14 MILES[nl]15 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -6888,7 +6888,7 @@
                   "lines": [
                     "US80 ON IH635",
                     "14 MILES",
-                    "17 MINUTES"
+                    "15 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7252,19 +7252,19 @@
               "latString": "32.761813",
               "longitude": -96.951639,
               "lonString": "-96.951639",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]22   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]24   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]8 MILES",
-                    "16   MINS"
+                    "18   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-518]10 MILES",
-                    "22   MINS"
+                    "24   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -7302,13 +7302,13 @@
               "latString": "32.766282",
               "longitude": -96.896192,
               "lonString": "-96.896192",
-              "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]13 MINUTES[np][jl3]IH635[nl]16 MILES[nl]32 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]15 MINUTES[np][jl3]IH635[nl]16 MILES[nl]34 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH35E",
                     "5 MILES",
-                    "13 MINUTES"
+                    "15 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -7316,7 +7316,7 @@
                   "lines": [
                     "IH635",
                     "16 MILES",
-                    "32 MINUTES"
+                    "34 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7506,12 +7506,12 @@
               "latString": "32.845748",
               "longitude": -96.58218099999999,
               "lonString": "-96.582181",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]10 MILES   [nl15]17   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]6 MILES   [nl15]8   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]10 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]6 MILES   [nl15]8   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-422]10 MILES",
-                    "17   MINS"
+                    "18   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -7702,7 +7702,7 @@
               "latString": "32.794798",
               "longitude": -96.716983,
               "lonString": "-96.716983",
-              "message": "[pt32o3][fo1][jl3]IH635[nl]5 MILES[nl]7 MINUTES[np][jl3]DALROCK RD[nl]12 MILES[nl]29 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH635[nl]5 MILES[nl]7 MINUTES[np][jl3]DALROCK RD[nl]12 MILES[nl]28 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -7716,7 +7716,7 @@
                   "lines": [
                     "DALROCK RD",
                     "12 MILES",
-                    "29 MINUTES"
+                    "28 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7840,13 +7840,13 @@
               "latString": "32.806073",
               "longitude": -96.66277799999999,
               "lonString": "-96.662778",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]9 MINUTES[np][jl3]SH205 (ROCKWALL)[nl]14 MILES[nl]35 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]10 MINUTES[np][jl3]SH205 (ROCKWALL)[nl]14 MILES[nl]33 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "PGBT (SH190)",
                     "7 MILES",
-                    "9 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -7854,7 +7854,7 @@
                   "lines": [
                     "SH205 (ROCKWALL)",
                     "14 MILES",
-                    "35 MINUTES"
+                    "33 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7978,19 +7978,19 @@
               "latString": "32.844582",
               "longitude": -96.58376299999999,
               "lonString": "-96.583763",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-511][jl4][jp3]13 MILES   [nl15]35   MINS   [np][pt32o3][jl3][p2imgcl-427][jl4][jp3]9 MILES   [nl15]30   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-511][jl4][jp3]13 MILES   [nl15]34   MINS   [np][pt32o3][jl3][p2imgcl-427][jl4][jp3]9 MILES   [nl15]29   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-511]13 MILES",
-                    "35   MINS"
+                    "34   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-427]9 MILES",
-                    "30   MINS"
+                    "29   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -8028,12 +8028,12 @@
               "latString": "32.791236",
               "longitude": -96.755749,
               "lonString": "-96.755749",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]4 MILES",
-                    "9   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -8078,13 +8078,13 @@
               "latString": "32.894451",
               "longitude": -96.478662,
               "lonString": "-96.478662",
-              "message": "[pt32o3][fo1][jl3]FM551 (FATE)[nl]6 MILES[nl]9 MINUTES[np][jl3]FM548 (ROYSE CITY)[nl]10 MILES[nl]13 MINUTES",
+              "message": "[pt32o3][fo1][jl3]FM551 (FATE)[nl]6 MILES[nl]10 MINUTES[np][jl3]FM548 (ROYSE CITY)[nl]10 MILES[nl]13 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "FM551 (FATE)",
                     "6 MILES",
-                    "9 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -8434,13 +8434,13 @@
               "latString": "33.41936",
               "longitude": -97.17603,
               "lonString": "-97.17603",
-              "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]14 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]11 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US380",
                     "13 MILES",
-                    "14 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -8486,13 +8486,13 @@
               "latString": "33.23529",
               "longitude": -97.17554899999999,
               "lonString": "-97.175549",
-              "message": "[pt32o3][fo1][jl3]SANGER[nl]10 MILES[nl]15 MINUTES[np][jl3]GAINESVILLE[nl]28 MILES[nl]30 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SANGER[nl]10 MILES[nl]18 MINUTES[np][jl3]GAINESVILLE[nl]28 MILES[nl]33 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SANGER",
                     "10 MILES",
-                    "15 MINUTES"
+                    "18 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -8500,7 +8500,7 @@
                   "lines": [
                     "GAINESVILLE",
                     "28 MILES",
-                    "30 MINUTES"
+                    "33 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -8538,13 +8538,13 @@
               "latString": "33.230895",
               "longitude": -97.174606,
               "lonString": "-97.174606",
-              "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 176 MINUTES[nl]IH35W 114 MINUTES",
+              "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 176 MINUTES[nl]IH35W 116 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "HILLSBORO VIA",
                     "IH35E 176 MINUTES",
-                    "IH35W 114 MINUTES"
+                    "IH35W 116 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -8686,7 +8686,7 @@
               "latString": "32.658799",
               "longitude": -96.823298,
               "lonString": "-96.823298",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-545][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-539][jl4][jp3]17 MILES   [nl15]20   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-545][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-539][jl4][jp3]17 MILES   [nl15]21   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -8698,7 +8698,7 @@
                 {
                   "lines": [
                     "[p2imgcl-539]17 MILES",
-                    "20   MINS"
+                    "21   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -8786,7 +8786,7 @@
               "latString": "32.475186",
               "longitude": -96.835961,
               "lonString": "-96.835961",
-              "message": "[pt32o3][fo1][jl3]ITALY[nl]20 MILES[nl]18 MINUTES[np][jl3]HILLSBORO[nl]38 MILES[nl]35 MINUTES",
+              "message": "[pt32o3][fo1][jl3]ITALY[nl]20 MILES[nl]18 MINUTES[np][jl3]HILLSBORO[nl]38 MILES[nl]34 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -8800,7 +8800,7 @@
                   "lines": [
                     "HILLSBORO",
                     "38 MILES",
-                    "35 MINUTES"
+                    "34 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -8838,7 +8838,7 @@
               "latString": "32.759167",
               "longitude": -96.809451,
               "lonString": "-96.809451",
-              "message": "[pt32o3][fo1][jl3]US67[nl]4 MILES[nl]4 MINUTES[np][jl3]IH20[nl]9 MILES[nl]15 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US67[nl]4 MILES[nl]4 MINUTES[np][jl3]IH20[nl]9 MILES[nl]14 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -8852,7 +8852,7 @@
                   "lines": [
                     "IH20",
                     "9 MILES",
-                    "15 MINUTES"
+                    "14 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -8930,7 +8930,7 @@
               "latString": "32.31497",
               "longitude": -96.86075,
               "lonString": "-96.86075",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-539][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]24 MILES   [nl15]27   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-539][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]24 MILES   [nl15]26   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -8942,7 +8942,7 @@
                 {
                   "lines": [
                     "[p2imgcl-417]24 MILES",
-                    "27   MINS"
+                    "26   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -8980,7 +8980,7 @@
               "latString": "32.434542",
               "longitude": -96.855954,
               "lonString": "-96.855954",
-              "message": "[pt32o3][fo1][jl3]OVILLA RD[nl]9 MILES[nl]9 MINUTES[np][jl3]IH20[nl]17 MILES[nl]21 MINUTES",
+              "message": "[pt32o3][fo1][jl3]OVILLA RD[nl]9 MILES[nl]9 MINUTES[np][jl3]IH20[nl]17 MILES[nl]20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -8994,7 +8994,7 @@
                   "lines": [
                     "IH20",
                     "17 MILES",
-                    "21 MINUTES"
+                    "20 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -9032,19 +9032,19 @@
               "latString": "33.070273",
               "longitude": -97.019228,
               "lonString": "-97.019228",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]26   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]28   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-554]8 MILES",
-                    "11   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-553]13 MILES",
-                    "26   MINS"
+                    "28   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9082,19 +9082,19 @@
               "latString": "33.015834",
               "longitude": -96.981691,
               "lonString": "-96.981691",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-535][jl4][jp3]9 MILES   [nl15]20   MINS   [np][pt32o3][jl3][p2imgcl-534][jl4][jp3]4 MILES   [nl15]6   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-535][jl4][jp3]9 MILES   [nl15]23   MINS   [np][pt32o3][jl3][p2imgcl-534][jl4][jp3]4 MILES   [nl15]8   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-535]9 MILES",
-                    "20   MINS"
+                    "23   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-534]4 MILES",
-                    "6   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9132,12 +9132,12 @@
               "latString": "32.625148",
               "longitude": -96.822887,
               "lonString": "-96.822887",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]18   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]18   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-387]4 MILES",
-                    "7   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -9182,19 +9182,19 @@
               "latString": "33.002622",
               "longitude": -96.964793,
               "lonString": "-96.964793",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]17   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]20   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]19   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]21   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-553]7 MILES",
-                    "17   MINS"
+                    "19   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-387]10 MILES",
-                    "20   MINS"
+                    "21   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9232,13 +9232,13 @@
               "latString": "32.688921",
               "longitude": -96.822712,
               "lonString": "-96.822712",
-              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]11 MINUTES[np][jl3]SH183[nl]11 MILES[nl]22 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]10 MINUTES[np][jl3]SH183[nl]11 MILES[nl]20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30",
                     "6 MILES",
-                    "11 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -9246,7 +9246,7 @@
                   "lines": [
                     "SH183",
                     "11 MILES",
-                    "22 MINUTES"
+                    "20 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -9334,19 +9334,19 @@
               "latString": "32.938194",
               "longitude": -96.90272399999999,
               "lonString": "-96.902724",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]47   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]44   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-387]5 MILES",
-                    "9   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-352]24 MILES",
-                    "47   MINS"
+                    "44   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9434,19 +9434,19 @@
               "latString": "32.737075",
               "longitude": -96.823827,
               "lonString": "-96.823827",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-560][jl4][jp3]8 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]28   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-560][jl4][jp3]8 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]27   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-560]8 MILES",
-                    "18   MINS"
+                    "16   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-553]15 MILES",
-                    "28   MINS"
+                    "27   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9524,19 +9524,19 @@
               "latString": "32.809509",
               "longitude": -96.845764,
               "lonString": "-96.845764",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]21   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]13   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]23   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-553]8 MILES",
-                    "12   MINS"
+                    "13   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-554]14 MILES",
-                    "21   MINS"
+                    "23   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9626,19 +9626,19 @@
               "latString": "32.799759",
               "longitude": -96.821485,
               "lonString": "-96.821485",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]12 MILES   [nl15]22   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]7 MILES   [nl15]11   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]12 MILES   [nl15]21   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]7 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-417]12 MILES",
-                    "22   MINS"
+                    "21   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-558]7 MILES",
-                    "11   MINS"
+                    "10   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9930,7 +9930,7 @@
               "latString": "33.080993",
               "longitude": -97.025489,
               "lonString": "-97.025489",
-              "message": "[pt32o3][fo1][jl3]CORINTH PKWY[nl]6 MILES[nl]6 MINUTES[np][jl3]US380[nl]14 MILES[nl]18 MINUTES",
+              "message": "[pt32o3][fo1][jl3]CORINTH PKWY[nl]6 MILES[nl]6 MINUTES[np][jl3]US380[nl]14 MILES[nl]19 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -9944,7 +9944,7 @@
                   "lines": [
                     "US380",
                     "14 MILES",
-                    "18 MINUTES"
+                    "19 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -9982,19 +9982,19 @@
               "latString": "33.168581",
               "longitude": -97.082797,
               "lonString": "-97.082797",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]29   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]31   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-404]7 MILES",
-                    "11   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-509]17 MILES",
-                    "29   MINS"
+                    "31   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10034,7 +10034,7 @@
               "latString": "32.723808",
               "longitude": -96.761639,
               "lonString": "-96.761639",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]25   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]22   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -10046,7 +10046,7 @@
                 {
                   "lines": [
                     "[p2imgcl-553]15 MILES",
-                    "25   MINS"
+                    "22   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10084,7 +10084,7 @@
               "latString": "32.783163",
               "longitude": -96.788325,
               "lonString": "-96.788325",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]20   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]17   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -10096,7 +10096,7 @@
                 {
                   "lines": [
                     "[p2imgcl-553]10 MILES",
-                    "20   MINS"
+                    "17   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10186,7 +10186,7 @@
               "latString": "32.244868",
               "longitude": -96.49673399999999,
               "lonString": "-96.496734",
-              "message": "[pt32o3][fo1][jl3]SH31 (CORSICANA)[nl]11 MILES[nl]10 MINUTES[np][jl3]SH14 (RICHLAND)[nl]23 MILES[nl]21 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SH31 (CORSICANA)[nl]11 MILES[nl]10 MINUTES[np][jl3]SH14 (RICHLAND)[nl]23 MILES[nl]20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -10200,7 +10200,7 @@
                   "lines": [
                     "SH14 (RICHLAND)",
                     "23 MILES",
-                    "21 MINUTES"
+                    "20 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -10290,13 +10290,13 @@
               "latString": "32.28257",
               "longitude": -96.53598199999999,
               "lonString": "-96.535982",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]29 MINUTES[np][jl3]IH30[nl]39 MILES[nl]39 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]30 MINUTES[np][jl3]IH30[nl]39 MILES[nl]39 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH20",
                     "30 MILES",
-                    "29 MINUTES"
+                    "30 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -10342,7 +10342,7 @@
               "latString": "32.630471",
               "longitude": -96.698133,
               "lonString": "-96.698133",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]12 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]12 MILES   [nl15]14   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -10354,7 +10354,7 @@
                 {
                   "lines": [
                     "[p2imgcl-399]12 MILES",
-                    "15   MINS"
+                    "14   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10392,13 +10392,13 @@
               "latString": "32.701185",
               "longitude": -96.75335199999999,
               "lonString": "-96.753352",
-              "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]9 MILES[nl]9 MINUTES[np][jl3]SH34 (ENNIS)[nl]28 MILES[nl]25 MINUTES",
+              "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]9 MILES[nl]10 MINUTES[np][jl3]SH34 (ENNIS)[nl]28 MILES[nl]25 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "BELT LINE RD",
                     "9 MILES",
-                    "9 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -10548,19 +10548,19 @@
               "latString": "32.848374",
               "longitude": -96.63966599999999,
               "lonString": "-96.639666",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]27   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]24   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]14   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-417]11 MILES",
-                    "27   MINS"
+                    "24   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-420]6 MILES",
-                    "15   MINS"
+                    "14   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10702,13 +10702,13 @@
               "latString": "32.920445",
               "longitude": -96.98234599999999,
               "lonString": "-96.982346",
-              "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]7 MINUTES[np][jl3]DNT[nl]10 MILES[nl]17 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]6 MINUTES[np][jl3]DNT[nl]10 MILES[nl]15 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH35E",
                     "5 MILES",
-                    "7 MINUTES"
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -10716,7 +10716,7 @@
                   "lines": [
                     "DNT",
                     "10 MILES",
-                    "17 MINUTES"
+                    "15 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -11014,13 +11014,13 @@
               "latString": "32.907138",
               "longitude": -96.918685,
               "lonString": "-96.918685",
-              "message": "[pt32o3][fo1][jl3]DNT[nl]6 MILES[nl]14 MINUTES[np][jl3]US75[nl]9 MILES[nl]18 MINUTES",
+              "message": "[pt32o3][fo1][jl3]DNT[nl]6 MILES[nl]11 MINUTES[np][jl3]US75[nl]9 MILES[nl]16 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "DNT",
                     "6 MILES",
-                    "14 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -11028,7 +11028,7 @@
                   "lines": [
                     "US75",
                     "9 MILES",
-                    "18 MINUTES"
+                    "16 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -11066,19 +11066,19 @@
               "latString": "32.882133",
               "longitude": -96.69456,
               "lonString": "-96.69456",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]5 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]30   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]5 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]27   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-399]5 MILES",
-                    "8   MINS"
+                    "7   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-417]14 MILES",
-                    "30   MINS"
+                    "27   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11116,19 +11116,19 @@
               "latString": "32.916833",
               "longitude": -96.743758,
               "lonString": "-96.743758",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]9 MILES   [nl15]18   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]6 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]9 MILES   [nl15]16   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-422]6 MILES",
-                    "9   MINS"
+                    "10   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-399]9 MILES",
-                    "18   MINS"
+                    "16   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11168,7 +11168,7 @@
               "latString": "32.741188",
               "longitude": -96.918892,
               "lonString": "-96.918892",
-              "message": "[pt32o3][fo1][jl3]SH183[nl]6 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]13 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SH183[nl]6 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]12 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -11182,7 +11182,7 @@
                   "lines": [
                     "IH635",
                     "12 MILES",
-                    "13 MINUTES"
+                    "12 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -11220,19 +11220,19 @@
               "latString": "32.85965",
               "longitude": -96.902743,
               "lonString": "-96.902743",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]21   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]28   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]25   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-399]7 MILES",
-                    "21   MINS"
+                    "18   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-417]14 MILES",
-                    "28   MINS"
+                    "25   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11270,19 +11270,19 @@
               "latString": "32.816249",
               "longitude": -96.92150799999999,
               "lonString": "-96.921508",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]12 MILES   [nl15]18   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]12 MILES   [nl15]17   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-553]7 MILES",
-                    "9   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-554]12 MILES",
-                    "18   MINS"
+                    "17   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11320,7 +11320,7 @@
               "latString": "32.816968",
               "longitude": -96.921904,
               "lonString": "-96.921904",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-538][jl4][jp3]5 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]11 MILES   [nl15]16   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-538][jl4][jp3]5 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]11 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -11332,7 +11332,7 @@
                 {
                   "lines": [
                     "[p2imgcl-417]11 MILES",
-                    "16   MINS"
+                    "15   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11370,13 +11370,13 @@
               "latString": "32.847324",
               "longitude": -96.910173,
               "lonString": "-96.910173",
-              "message": "[pt32o3][fo1][jl3]IH635[nl]4 MILES[nl]6 MINUTES[np][jl3]SRT (SH121)[nl]12 MILES[nl]16 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH635[nl]4 MILES[nl]5 MINUTES[np][jl3]SRT (SH121)[nl]12 MILES[nl]16 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH635",
                     "4 MILES",
-                    "6 MINUTES"
+                    "5 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -11572,7 +11572,7 @@
               "latString": "32.88549",
               "longitude": -96.954398,
               "lonString": "-96.954398",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-346][jl4][jp3]7 MILES   [nl15]9   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-346][jl4][jp3]7 MILES   [nl15]8   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -11584,7 +11584,7 @@
                 {
                   "lines": [
                     "[p2imgcl-346]7 MILES",
-                    "9   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11622,7 +11622,7 @@
               "latString": "32.915272",
               "longitude": -97.007649,
               "lonString": "-97.007649",
-              "message": "[pt32o3][fo1][jl3]DFW AIRPORT[nl]4 MILES[nl]4 MINUTES[np][jl3]MAIN ST (GRAPEVINE)[nl]5 MILES[nl]6 MINUTES",
+              "message": "[pt32o3][fo1][jl3]DFW AIRPORT[nl]4 MILES[nl]4 MINUTES[np][jl3]MAIN ST (GRAPEVINE)[nl]5 MILES[nl]5 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -11636,7 +11636,7 @@
                   "lines": [
                     "MAIN ST (GRAPEVINE)",
                     "5 MILES",
-                    "6 MINUTES"
+                    "5 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -11834,19 +11834,19 @@
               "latString": "32.837238",
               "longitude": -96.99213499999999,
               "lonString": "-96.992135",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]20   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]19   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-421]4 MILES",
-                    "5   MINS"
+                    "4   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-431]12 MILES",
-                    "20   MINS"
+                    "19   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11884,13 +11884,13 @@
               "latString": "32.82193",
               "longitude": -96.877905,
               "lonString": "-96.877905",
-              "message": "[pt32o3][jl3][pt32o0]IH30[nl]6 MILES[nl]26 MINUTES",
+              "message": "[pt32o3][jl3][pt32o0]IH30[nl]6 MILES[nl]24 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30",
                     "6 MILES",
-                    "26 MINUTES"
+                    "24 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -11928,7 +11928,7 @@
               "latString": "32.836963",
               "longitude": -96.940579,
               "lonString": "-96.940579",
-              "message": "[pt32o3][jl3][pt50o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]5 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]9 MILES   [nl15]28   MINS   ",
+              "message": "[pt32o3][jl3][pt50o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]5 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]9 MILES   [nl15]27   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -11940,7 +11940,7 @@
                 {
                   "lines": [
                     "[p2imgcl-352]9 MILES",
-                    "28   MINS"
+                    "27   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11980,13 +11980,13 @@
               "latString": "32.790717",
               "longitude": -96.80016099999999,
               "lonString": "-96.800161",
-              "message": "[pt32o3][jl3][pt32o0]SH183 ON IH35E[nl]6 MILES[nl]12 MINUTES",
+              "message": "[pt32o3][jl3][pt32o0]SH183 ON IH35E[nl]6 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SH183 ON IH35E",
                     "6 MILES",
-                    "12 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -12024,13 +12024,13 @@
               "latString": "32.787682",
               "longitude": -96.80338499999999,
               "lonString": "-96.803385",
-              "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]22 MINUTES",
+              "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH635 ON US75",
                     "10 MILES",
-                    "22 MINUTES"
+                    "20 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -12070,7 +12070,7 @@
               "latString": "32.694549",
               "longitude": -96.93726799999999,
               "lonString": "-96.937268",
-              "message": "[pt32o3][fo2][jl3]PGBT ON IH20 WEST[nl]6 MILES[nl]9 MINUTES[np][jl3]IH35E ON IH20 EAST[nl]9 MILES[nl]18 MINUTES",
+              "message": "[pt32o3][fo2][jl3]PGBT ON IH20 WEST[nl]6 MILES[nl]9 MINUTES[np][jl3]IH35E ON IH20 EAST[nl]9 MILES[nl]21 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -12084,7 +12084,7 @@
                   "lines": [
                     "IH35E ON IH20 EAST",
                     "9 MILES",
-                    "18 MINUTES"
+                    "21 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -12174,7 +12174,7 @@
               "latString": "32.728083",
               "longitude": -96.705837,
               "lonString": "-96.705837",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]5 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]11 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]5 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]12 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -12188,7 +12188,7 @@
                   "lines": [
                     "SEAGOVILLE RD",
                     "10 MILES",
-                    "11 MINUTES"
+                    "12 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -12368,7 +12368,7 @@
               "latString": "32.747427",
               "longitude": -96.74439,
               "lonString": "-96.74439",
-              "message": "[pt32o3][fo1][jl3]IH30[nl]4 MILES[nl]4 MINUTES[np][jl3]WOODALL RODGERS[nl]5 MILES[nl]6 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH30[nl]4 MILES[nl]4 MINUTES[np][jl3]WOODALL RODGERS[nl]5 MILES[nl]5 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -12382,7 +12382,7 @@
                   "lines": [
                     "WOODALL RODGERS",
                     "5 MILES",
-                    "6 MINUTES"
+                    "5 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -12422,13 +12422,13 @@
               "latString": "32.677609",
               "longitude": -96.856434,
               "lonString": "-96.856434",
-              "message": "[pt32o3][fo1][jl3]FM1382 (CEDAR HILL)[nl]7 MILES[nl]8 MINUTES[np][jl3]US287 (MIDLOTHIAN)[nl]21 MILES[nl]20 MINUTES",
+              "message": "[pt32o3][fo1][jl3]FM1382 (CEDAR HILL)[nl]7 MILES[nl]7 MINUTES[np][jl3]US287 (MIDLOTHIAN)[nl]21 MILES[nl]20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "FM1382 (CEDAR HILL)",
                     "7 MILES",
-                    "8 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -12474,7 +12474,7 @@
               "latString": "32.635957",
               "longitude": -96.89654399999999,
               "lonString": "-96.896544",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]17   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -12486,7 +12486,7 @@
                 {
                   "lines": [
                     "[p2imgcl-399]11 MILES",
-                    "17   MINS"
+                    "15   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12568,13 +12568,13 @@
               "latString": "32.679888",
               "longitude": -96.85375599999999,
               "lonString": "-96.853756",
-              "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]12 MINUTES",
+              "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30",
                     "7 MILES",
-                    "12 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -12666,12 +12666,12 @@
               "latString": "32.810585",
               "longitude": -96.792034,
               "lonString": "-96.792034",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-425][jl4][jp3]5 MILES   [nl15]17   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]8 MILES   [nl15]21   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-425][jl4][jp3]5 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]8 MILES   [nl15]21   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-425]5 MILES",
-                    "17   MINS"
+                    "18   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -12716,12 +12716,12 @@
               "latString": "33.14706",
               "longitude": -96.64993299999999,
               "lonString": "-96.649933",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]13   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]21   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]21   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-554]11 MILES",
-                    "13   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -12766,13 +12766,13 @@
               "latString": "32.892336",
               "longitude": -96.76875299999999,
               "lonString": "-96.768753",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]14 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]24 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]13 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]24 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "PGBT (SH190)",
                     "9 MILES",
-                    "14 MINUTES"
+                    "13 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -12920,12 +12920,12 @@
               "latString": "32.983481",
               "longitude": -96.711269,
               "lonString": "-96.711269",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]17 MILES   [nl15]19   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]12 MILES   [nl15]12   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]17 MILES   [nl15]18   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]12 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-404]17 MILES",
-                    "19   MINS"
+                    "18   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -13022,13 +13022,13 @@
               "latString": "32.896765",
               "longitude": -96.769616,
               "lonString": "-96.769616",
-              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]21 MINUTES[np][jl3]IH30[nl]9 MILES[nl]30 MINUTES",
+              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]20 MINUTES[np][jl3]IH30[nl]9 MILES[nl]30 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "WOODALL RODGERS",
                     "7 MILES",
-                    "21 MINUTES"
+                    "20 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13074,13 +13074,13 @@
               "latString": "33.223547",
               "longitude": -96.63449899999999,
               "lonString": "-96.634499",
-              "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]8 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]21 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]9 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]21 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SRT (SH121)",
                     "4 MILES",
-                    "8 MINUTES"
+                    "9 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13176,7 +13176,7 @@
               "latString": "33.223152",
               "longitude": -96.634604,
               "lonString": "-96.634604",
-              "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]27 MINUTES",
+              "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -13190,7 +13190,7 @@
                   "lines": [
                     "SHERMAN",
                     "30 MILES",
-                    "27 MINUTES"
+                    "26 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13282,7 +13282,7 @@
               "latString": "32.787484",
               "longitude": -96.57488099999999,
               "lonString": "-96.574881",
-              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]11 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]26 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]11 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]25 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -13296,7 +13296,7 @@
                   "lines": [
                     "IH45 / US75",
                     "12 MILES",
-                    "26 MINUTES"
+                    "25 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13438,7 +13438,7 @@
               "latString": "32.750612",
               "longitude": -96.459918,
               "lonString": "-96.459918",
-              "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]14 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]36 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]14 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]34 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -13452,7 +13452,7 @@
                   "lines": [
                     "IH45 / US75",
                     "20 MILES",
-                    "36 MINUTES"
+                    "34 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13720,12 +13720,12 @@
           "latString": "32.676685",
           "longitude": -97.044919,
           "lonString": "-97.044919",
-          "message": "[pt30o0][fo1][jl3]IH820 17 MINUTES[nl]IH35W 25 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 17 MINUTES[nl]IH35W 24 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH820 17 MINUTES",
-                "IH35W 25 MINUTES"
+                "IH35W 24 MINUTES"
               ],
               "pageNo": 0
             }
@@ -13789,12 +13789,12 @@
           "latString": "32.677759",
           "longitude": -97.085627,
           "lonString": "-97.085627",
-          "message": "[pt30o0][fo1][jl3]IH820 11 MINUTES[nl]IH35W 20 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 11 MINUTES[nl]IH35W 18 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH820 11 MINUTES",
-                "IH35W 20 MINUTES"
+                "IH35W 18 MINUTES"
               ],
               "pageNo": 0
             }
@@ -13858,12 +13858,12 @@
           "latString": "32.668097",
           "longitude": -97.222802,
           "lonString": "-97.222802",
-          "message": "[pt30o0][fo1][jl3]IH35W 10 MINUTES[nl]US377 15 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH35W 9 MINUTES[nl]US377 14 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35W 10 MINUTES",
-                "US377 15 MINUTES"
+                "IH35W 9 MINUTES",
+                "US377 14 MINUTES"
               ],
               "pageNo": 0
             }
@@ -13927,13 +13927,13 @@
           "latString": "32.703548",
           "longitude": -97.35792599999999,
           "lonString": "-97.357926",
-          "message": "[pt30o0][fo1][jl3]US377[nl]7 MILES[nl]7 MINUTES",
+          "message": "[pt30o0][fo1][jl3]US377[nl]7 MILES[nl]6 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US377",
                 "7 MILES",
-                "7 MINUTES"
+                "6 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14162,13 +14162,13 @@
           "latString": "32.675826",
           "longitude": -97.188114,
           "lonString": "-97.188114",
-          "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]12 MINUTES",
+          "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SH360",
                 "8 MILES",
-                "12 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14265,12 +14265,12 @@
           "latString": "32.664474",
           "longitude": -97.33981399999999,
           "lonString": "-97.339814",
-          "message": "[pt30o0][fo1][jl3]IH820 11 MINUTES[nl]SH360 26 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]SH360 23 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH820 11 MINUTES",
-                "SH360 26 MINUTES"
+                "IH820 9 MINUTES",
+                "SH360 23 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14301,13 +14301,13 @@
           "latString": "32.683926",
           "longitude": -97.44353,
           "lonString": "-97.44353",
-          "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]9 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH35W",
                 "8 MILES",
-                "9 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14689,12 +14689,12 @@
           "latString": "32.737958",
           "longitude": -97.46659199999999,
           "lonString": "-97.466592",
-          "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]IH820 19 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]IH820 18 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH35W 7 MINUTES",
-                "IH820 19 MINUTES"
+                "IH820 18 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14758,13 +14758,13 @@
           "latString": "32.759856",
           "longitude": -97.24485399999999,
           "lonString": "-97.244854",
-          "message": "[pt30o0][fo1][jl3]SH360[nl]10 MILES[nl]16 MINUTES",
+          "message": "[pt30o0][fo1][jl3]SH360[nl]10 MILES[nl]17 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SH360",
                 "10 MILES",
-                "16 MINUTES"
+                "17 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14904,12 +14904,12 @@
           "latString": "32.945215",
           "longitude": -97.31191799999999,
           "lonString": "-97.311918",
-          "message": "[pt30o0][fo1][jl3]IH820 24 MINUTES[nl]IH30 36 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 17 MINUTES[nl]IH30 27 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH820 24 MINUTES",
-                "IH30 36 MINUTES"
+                "IH820 17 MINUTES",
+                "IH30 27 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15010,13 +15010,13 @@
           "latString": "32.5254",
           "longitude": -97.3087,
           "lonString": "-97.3087",
-          "message": "[pt30o0][fo1][jl3]IH20[nl]10 MILES[nl]15 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH20[nl]10 MILES[nl]14 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH20",
                 "10 MILES",
-                "15 MINUTES"
+                "14 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15080,13 +15080,13 @@
           "latString": "32.655143",
           "longitude": -97.321334,
           "lonString": "-97.321334",
-          "message": "[pt30o0][fo1][jl3]SH174[nl]7 MILES[nl]10 MINUTES",
+          "message": "[pt30o0][fo1][jl3]SH174[nl]7 MILES[nl]12 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SH174",
                 "7 MILES",
-                "10 MINUTES"
+                "12 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15187,12 +15187,12 @@
           "latString": "32.680641",
           "longitude": -97.32051,
           "lonString": "-97.32051",
-          "message": "[pt30o0][fo1][jl3]IH30 10 MINUTES[nl]IH820 19 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH30 10 MINUTES[nl]IH820 20 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30 10 MINUTES",
-                "IH820 19 MINUTES"
+                "IH820 20 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15295,12 +15295,12 @@
           "latString": "32.789911",
           "longitude": -97.214907,
           "lonString": "-97.214907",
-          "message": "[pt30o0][fo1][jl3]IH30 5 MINUTES[nl]IH20 18 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 17 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH30 5 MINUTES",
-                "IH20 18 MINUTES"
+                "IH30 < 5 MINUTES",
+                "IH20 17 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15463,7 +15463,7 @@
           "latString": "32.824121",
           "longitude": -97.39109599999999,
           "lonString": "-97.391096",
-          "message": "[jl3]",
+          "message": "[pt0o0]",
           "messagePages": [
             {
               "lines": [],
@@ -15801,7 +15801,7 @@
           "latString": "32.785248",
           "longitude": -97.274371,
           "lonString": "-97.274371",
-          "message": "[jl3]",
+          "message": "[pt0o0]",
           "messagePages": [
             {
               "lines": [],
@@ -16084,7 +16084,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -16095,30 +16095,18 @@
           },
           "graphicMsgImageList": null,
           "hasGraphics": false,
-          "hasMessages": true,
+          "hasMessages": false,
           "icd_Id": "S183.American.WB",
           "isDedicated": false,
           "latitude": 32.837976,
           "latString": "32.837976",
           "longitude": -97.07542099999999,
           "lonString": "-97.075421",
-          "message": "[pt31o0][fo2]IH-35W SOUTHBOUND[nl]AT SPUR 280[nl]LEFT LANE CLOSED[np]IH-35W SOUTHBOUND[nl]AT SPUR 280[nl]INCIDENT",
+          "message": "[jl3]",
           "messagePages": [
             {
-              "lines": [
-                "IH-35W SOUTHBOUND",
-                "AT SPUR 280",
-                "LEFT LANE CLOSED"
-              ],
+              "lines": [],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "IH-35W SOUTHBOUND",
-                "AT SPUR 280",
-                "INCIDENT"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "S183.American.WB",
@@ -16627,12 +16615,12 @@
           "latString": "32.851419",
           "longitude": -97.06409,
           "lonString": "-97.06409",
-          "message": "[pt30o0][fo1][jl3]IH30 6 MINUTES[nl]IH20 12 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH30 7 MINUTES[nl]IH20 13 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH30 6 MINUTES",
-                "IH20 12 MINUTES"
+                "IH30 7 MINUTES",
+                "IH20 13 MINUTES"
               ],
               "pageNo": 0
             }
@@ -16965,12 +16953,12 @@
               "latString": "32.676685",
               "longitude": -97.044919,
               "lonString": "-97.044919",
-              "message": "[pt30o0][fo1][jl3]IH820 17 MINUTES[nl]IH35W 25 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 17 MINUTES[nl]IH35W 24 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH820 17 MINUTES",
-                    "IH35W 25 MINUTES"
+                    "IH35W 24 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17048,12 +17036,12 @@
               "latString": "32.677759",
               "longitude": -97.085627,
               "lonString": "-97.085627",
-              "message": "[pt30o0][fo1][jl3]IH820 11 MINUTES[nl]IH35W 20 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 11 MINUTES[nl]IH35W 18 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH820 11 MINUTES",
-                    "IH35W 20 MINUTES"
+                    "IH35W 18 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17131,12 +17119,12 @@
               "latString": "32.668097",
               "longitude": -97.222802,
               "lonString": "-97.222802",
-              "message": "[pt30o0][fo1][jl3]IH35W 10 MINUTES[nl]US377 15 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH35W 9 MINUTES[nl]US377 14 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35W 10 MINUTES",
-                    "US377 15 MINUTES"
+                    "IH35W 9 MINUTES",
+                    "US377 14 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17214,13 +17202,13 @@
               "latString": "32.703548",
               "longitude": -97.35792599999999,
               "lonString": "-97.357926",
-              "message": "[pt30o0][fo1][jl3]US377[nl]7 MILES[nl]7 MINUTES",
+              "message": "[pt30o0][fo1][jl3]US377[nl]7 MILES[nl]6 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US377",
                     "7 MILES",
-                    "7 MINUTES"
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17498,13 +17486,13 @@
               "latString": "32.675826",
               "longitude": -97.188114,
               "lonString": "-97.188114",
-              "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]12 MINUTES",
+              "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SH360",
                     "8 MILES",
-                    "12 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17622,12 +17610,12 @@
               "latString": "32.664474",
               "longitude": -97.33981399999999,
               "lonString": "-97.339814",
-              "message": "[pt30o0][fo1][jl3]IH820 11 MINUTES[nl]SH360 26 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]SH360 23 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH820 11 MINUTES",
-                    "SH360 26 MINUTES"
+                    "IH820 9 MINUTES",
+                    "SH360 23 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17665,13 +17653,13 @@
               "latString": "32.683926",
               "longitude": -97.44353,
               "lonString": "-97.44353",
-              "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]9 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH35W",
                     "8 MILES",
-                    "9 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18130,12 +18118,12 @@
               "latString": "32.737958",
               "longitude": -97.46659199999999,
               "lonString": "-97.466592",
-              "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]IH820 19 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]IH820 18 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH35W 7 MINUTES",
-                    "IH820 19 MINUTES"
+                    "IH820 18 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18213,13 +18201,13 @@
               "latString": "32.759856",
               "longitude": -97.24485399999999,
               "lonString": "-97.244854",
-              "message": "[pt30o0][fo1][jl3]SH360[nl]10 MILES[nl]16 MINUTES",
+              "message": "[pt30o0][fo1][jl3]SH360[nl]10 MILES[nl]17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SH360",
                     "10 MILES",
-                    "16 MINUTES"
+                    "17 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18387,12 +18375,12 @@
               "latString": "32.945215",
               "longitude": -97.31191799999999,
               "lonString": "-97.311918",
-              "message": "[pt30o0][fo1][jl3]IH820 24 MINUTES[nl]IH30 36 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 17 MINUTES[nl]IH30 27 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH820 24 MINUTES",
-                    "IH30 36 MINUTES"
+                    "IH820 17 MINUTES",
+                    "IH30 27 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18514,13 +18502,13 @@
               "latString": "32.5254",
               "longitude": -97.3087,
               "lonString": "-97.3087",
-              "message": "[pt30o0][fo1][jl3]IH20[nl]10 MILES[nl]15 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH20[nl]10 MILES[nl]14 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH20",
                     "10 MILES",
-                    "15 MINUTES"
+                    "14 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18598,13 +18586,13 @@
               "latString": "32.655143",
               "longitude": -97.321334,
               "lonString": "-97.321334",
-              "message": "[pt30o0][fo1][jl3]SH174[nl]7 MILES[nl]10 MINUTES",
+              "message": "[pt30o0][fo1][jl3]SH174[nl]7 MILES[nl]12 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SH174",
                     "7 MILES",
-                    "10 MINUTES"
+                    "12 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18726,12 +18714,12 @@
               "latString": "32.680641",
               "longitude": -97.32051,
               "lonString": "-97.32051",
-              "message": "[pt30o0][fo1][jl3]IH30 10 MINUTES[nl]IH820 19 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH30 10 MINUTES[nl]IH820 20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30 10 MINUTES",
-                    "IH820 19 MINUTES"
+                    "IH820 20 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18855,12 +18843,12 @@
               "latString": "32.789911",
               "longitude": -97.214907,
               "lonString": "-97.214907",
-              "message": "[pt30o0][fo1][jl3]IH30 5 MINUTES[nl]IH20 18 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH30 5 MINUTES",
-                    "IH20 18 MINUTES"
+                    "IH30 < 5 MINUTES",
+                    "IH20 17 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -19058,7 +19046,7 @@
               "latString": "32.824121",
               "longitude": -97.39109599999999,
               "lonString": "-97.391096",
-              "message": "[jl3]",
+              "message": "[pt0o0]",
               "messagePages": [
                 {
                   "lines": [],
@@ -19466,7 +19454,7 @@
               "latString": "32.785248",
               "longitude": -97.274371,
               "lonString": "-97.274371",
-              "message": "[jl3]",
+              "message": "[pt0o0]",
               "messagePages": [
                 {
                   "lines": [],
@@ -19812,7 +19800,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -19823,30 +19811,18 @@
               },
               "graphicMsgImageList": null,
               "hasGraphics": false,
-              "hasMessages": true,
+              "hasMessages": false,
               "icd_Id": "S183.American.WB",
               "isDedicated": false,
               "latitude": 32.837976,
               "latString": "32.837976",
               "longitude": -97.07542099999999,
               "lonString": "-97.075421",
-              "message": "[pt31o0][fo2]IH-35W SOUTHBOUND[nl]AT SPUR 280[nl]LEFT LANE CLOSED[np]IH-35W SOUTHBOUND[nl]AT SPUR 280[nl]INCIDENT",
+              "message": "[jl3]",
               "messagePages": [
                 {
-                  "lines": [
-                    "IH-35W SOUTHBOUND",
-                    "AT SPUR 280",
-                    "LEFT LANE CLOSED"
-                  ],
+                  "lines": [],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "IH-35W SOUTHBOUND",
-                    "AT SPUR 280",
-                    "INCIDENT"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "S183.American.WB",
@@ -20460,12 +20436,12 @@
               "latString": "32.851419",
               "longitude": -97.06409,
               "lonString": "-97.06409",
-              "message": "[pt30o0][fo1][jl3]IH30 6 MINUTES[nl]IH20 12 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH30 7 MINUTES[nl]IH20 13 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH30 6 MINUTES",
-                    "IH20 12 MINUTES"
+                    "IH30 7 MINUTES",
+                    "IH20 13 MINUTES"
                   ],
                   "pageNo": 0
                 }
