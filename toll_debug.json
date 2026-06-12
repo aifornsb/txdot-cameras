@@ -354,7 +354,7 @@
           "latString": "32.667583",
           "longitude": -96.91887299999999,
           "lonString": "-96.918873",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]8 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -368,7 +368,7 @@
               "lines": [
                 "SH360",
                 "8 MILES",
-                "8 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 2
             }
@@ -481,7 +481,7 @@
           "latString": "32.704352",
           "longitude": -96.575462,
           "lonString": "-96.575462",
-          "message": "[pt32o3][fo1][jl3]IH45[nl]10 MILES[nl]10 MINUTES[np][jl3]US80 ON IH635[nl]9 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH45[nl]10 MILES[nl]10 MINUTES[np][jl3]US80 ON IH635[nl]9 MILES[nl]8 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -495,7 +495,7 @@
               "lines": [
                 "US80 ON IH635",
                 "9 MILES",
-                "9 MINUTES"
+                "8 MINUTES"
               ],
               "pageNo": 2
             }
@@ -936,7 +936,7 @@
           "latString": "32.975383",
           "longitude": -96.317123,
           "lonString": "-96.317123",
-          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]21 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -950,7 +950,7 @@
               "lines": [
                 "IH635",
                 "22 MILES",
-                "20 MINUTES"
+                "21 MINUTES"
               ],
               "pageNo": 2
             }
@@ -1161,12 +1161,12 @@
           "latString": "32.877053",
           "longitude": -96.517504,
           "lonString": "-96.517504",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-418][jl4][jp3]17 MILES   [nl15]17   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-418][jl4][jp3]17 MILES   [nl15]17   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-553]7 MILES",
-                "7   MINS"
+                "6   MINS"
               ],
               "pageNo": 0
             },
@@ -1320,12 +1320,12 @@
           "latString": "32.815998",
           "longitude": -96.642659,
           "lonString": "-96.642659",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]6   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]6   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]11 MILES",
-                "11   MINS"
+                "10   MINS"
               ],
               "pageNo": 0
             },
@@ -2081,13 +2081,13 @@
           "latString": "33.230895",
           "longitude": -97.174606,
           "lonString": "-97.174606",
-          "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 116 MINUTES[nl]IH35W 79 MINUTES",
+          "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 116 MINUTES[nl]IH35W 81 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "HILLSBORO VIA",
                 "IH35E 116 MINUTES",
-                "IH35W 79 MINUTES"
+                "IH35W 81 MINUTES"
               ],
               "pageNo": 0
             }
@@ -2507,7 +2507,7 @@
           "latString": "33.070273",
           "longitude": -97.019228,
           "lonString": "-97.019228",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]13   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2519,7 +2519,7 @@
             {
               "lines": [
                 "[p2imgcl-553]13 MILES",
-                "13   MINS"
+                "12   MINS"
               ],
               "pageNo": 2
             }
@@ -2978,7 +2978,7 @@
           "latString": "32.726511",
           "longitude": -96.82626599999999,
           "lonString": "-96.826266",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]6 MILES[nl]6 MINUTES[np][jl3]BELT LINE RD[nl]10 MILES[nl]10 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]6 MILES[nl]6 MINUTES[np][jl3]BELT LINE RD[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -2992,7 +2992,7 @@
               "lines": [
                 "BELT LINE RD",
                 "10 MILES",
-                "10 MINUTES"
+                "9 MINUTES"
               ],
               "pageNo": 2
             }
@@ -3383,12 +3383,12 @@
           "latString": "32.723808",
           "longitude": -96.761639,
           "lonString": "-96.761639",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-399]4 MILES",
-                "5   MINS"
+                "4   MINS"
               ],
               "pageNo": 0
             },
@@ -3739,7 +3739,7 @@
           "latString": "32.767267",
           "longitude": -96.77704899999999,
           "lonString": "-96.777049",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]8 MILES[nl]7 MINUTES[np][jl3]BELT LINE RD[nl]14 MILES[nl]12 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]8 MILES[nl]7 MINUTES[np][jl3]BELT LINE RD[nl]14 MILES[nl]13 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -3753,7 +3753,7 @@
               "lines": [
                 "BELT LINE RD",
                 "14 MILES",
-                "12 MINUTES"
+                "13 MINUTES"
               ],
               "pageNo": 2
             }
@@ -3962,7 +3962,7 @@
           "latString": "32.920445",
           "longitude": -96.98234599999999,
           "lonString": "-96.982346",
-          "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]DNT[nl]10 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]DNT[nl]10 MILES[nl]10 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -3976,7 +3976,7 @@
               "lines": [
                 "DNT",
                 "10 MILES",
-                "9 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 2
             }
@@ -5245,13 +5245,13 @@
           "latString": "32.728083",
           "longitude": -96.705837,
           "lonString": "-96.705837",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]6 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]12 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]7 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]13 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH20",
                 "5 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -5259,7 +5259,7 @@
               "lines": [
                 "SEAGOVILLE RD",
                 "10 MILES",
-                "12 MINUTES"
+                "13 MINUTES"
               ],
               "pageNo": 2
             }
@@ -5775,19 +5775,19 @@
           "latString": "33.14706",
           "longitude": -96.64993299999999,
           "lonString": "-96.649933",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]18   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]17   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-554]11 MILES",
-                "12   MINS"
+                "11   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-553]17 MILES",
-                "18   MINS"
+                "17   MINS"
               ],
               "pageNo": 2
             }
@@ -5818,7 +5818,7 @@
           "latString": "32.913652",
           "longitude": -96.768087,
           "lonString": "-96.768087",
-          "message": "[pt32o3][fo1][jl3]CAMPBELL RD[nl]5 MILES[nl]5 MINUTES[np][jl3]LEGACY DR[nl]12 MILES[nl]16 MINUTES",
+          "message": "[pt32o3][fo1][jl3]CAMPBELL RD[nl]5 MILES[nl]5 MINUTES[np][jl3]LEGACY DR[nl]12 MILES[nl]17 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -5832,7 +5832,7 @@
               "lines": [
                 "LEGACY DR",
                 "12 MILES",
-                "16 MINUTES"
+                "17 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6039,7 +6039,7 @@
           "latString": "33.223547",
           "longitude": -96.63449899999999,
           "lonString": "-96.634499",
-          "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]4 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]18 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]4 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]17 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -6053,7 +6053,7 @@
               "lines": [
                 "PGBT (SH190)",
                 "16 MILES",
-                "18 MINUTES"
+                "17 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6221,13 +6221,13 @@
           "latString": "32.787484",
           "longitude": -96.57488099999999,
           "lonString": "-96.574881",
-          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]9 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]16 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]10 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]16 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30",
                 "6 MILES",
-                "9 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6356,13 +6356,13 @@
           "latString": "32.750612",
           "longitude": -96.459918,
           "lonString": "-96.459918",
-          "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]14 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]23 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]13 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]23 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH635",
                 "10 MILES",
-                "14 MINUTES"
+                "13 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6561,7 +6561,7 @@
               "latString": "32.667583",
               "longitude": -96.91887299999999,
               "lonString": "-96.918873",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]8 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -6575,7 +6575,7 @@
                   "lines": [
                     "SH360",
                     "8 MILES",
-                    "8 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6709,7 +6709,7 @@
               "latString": "32.704352",
               "longitude": -96.575462,
               "lonString": "-96.575462",
-              "message": "[pt32o3][fo1][jl3]IH45[nl]10 MILES[nl]10 MINUTES[np][jl3]US80 ON IH635[nl]9 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH45[nl]10 MILES[nl]10 MINUTES[np][jl3]US80 ON IH635[nl]9 MILES[nl]8 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -6723,7 +6723,7 @@
                   "lines": [
                     "US80 ON IH635",
                     "9 MILES",
-                    "9 MINUTES"
+                    "8 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7241,7 +7241,7 @@
               "latString": "32.975383",
               "longitude": -96.317123,
               "lonString": "-96.317123",
-              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]21 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -7255,7 +7255,7 @@
                   "lines": [
                     "IH635",
                     "22 MILES",
-                    "20 MINUTES"
+                    "21 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7501,12 +7501,12 @@
               "latString": "32.877053",
               "longitude": -96.517504,
               "lonString": "-96.517504",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-418][jl4][jp3]17 MILES   [nl15]17   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-418][jl4][jp3]17 MILES   [nl15]17   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-553]7 MILES",
-                    "7   MINS"
+                    "6   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -7688,12 +7688,12 @@
               "latString": "32.815998",
               "longitude": -96.642659,
               "lonString": "-96.642659",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]6   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]6   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]11 MILES",
-                    "11   MINS"
+                    "10   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -8582,13 +8582,13 @@
               "latString": "33.230895",
               "longitude": -97.174606,
               "lonString": "-97.174606",
-              "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 116 MINUTES[nl]IH35W 79 MINUTES",
+              "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 116 MINUTES[nl]IH35W 81 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "HILLSBORO VIA",
                     "IH35E 116 MINUTES",
-                    "IH35W 79 MINUTES"
+                    "IH35W 81 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -9078,7 +9078,7 @@
               "latString": "33.070273",
               "longitude": -97.019228,
               "lonString": "-97.019228",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]13   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]13 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -9090,7 +9090,7 @@
                 {
                   "lines": [
                     "[p2imgcl-553]13 MILES",
-                    "13   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9626,7 +9626,7 @@
               "latString": "32.726511",
               "longitude": -96.82626599999999,
               "lonString": "-96.826266",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]6 MILES[nl]6 MINUTES[np][jl3]BELT LINE RD[nl]10 MILES[nl]10 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]6 MILES[nl]6 MINUTES[np][jl3]BELT LINE RD[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -9640,7 +9640,7 @@
                   "lines": [
                     "BELT LINE RD",
                     "10 MILES",
-                    "10 MINUTES"
+                    "9 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -10094,12 +10094,12 @@
               "latString": "32.723808",
               "longitude": -96.761639,
               "lonString": "-96.761639",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]15 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-399]4 MILES",
-                    "5   MINS"
+                    "4   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -10506,7 +10506,7 @@
               "latString": "32.767267",
               "longitude": -96.77704899999999,
               "lonString": "-96.777049",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]8 MILES[nl]7 MINUTES[np][jl3]BELT LINE RD[nl]14 MILES[nl]12 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]8 MILES[nl]7 MINUTES[np][jl3]BELT LINE RD[nl]14 MILES[nl]13 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -10520,7 +10520,7 @@
                   "lines": [
                     "BELT LINE RD",
                     "14 MILES",
-                    "12 MINUTES"
+                    "13 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -10764,7 +10764,7 @@
               "latString": "32.920445",
               "longitude": -96.98234599999999,
               "lonString": "-96.982346",
-              "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]DNT[nl]10 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]DNT[nl]10 MILES[nl]10 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -10778,7 +10778,7 @@
                   "lines": [
                     "DNT",
                     "10 MILES",
-                    "9 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -12250,13 +12250,13 @@
               "latString": "32.728083",
               "longitude": -96.705837,
               "lonString": "-96.705837",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]6 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]12 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]5 MILES[nl]7 MINUTES[np][jl3]SEAGOVILLE RD[nl]10 MILES[nl]13 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH20",
                     "5 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -12264,7 +12264,7 @@
                   "lines": [
                     "SEAGOVILLE RD",
                     "10 MILES",
-                    "12 MINUTES"
+                    "13 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -12864,19 +12864,19 @@
               "latString": "33.14706",
               "longitude": -96.64993299999999,
               "lonString": "-96.649933",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]12   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]18   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]11 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]17 MILES   [nl15]17   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-554]11 MILES",
-                    "12   MINS"
+                    "11   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-553]17 MILES",
-                    "18   MINS"
+                    "17   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12914,7 +12914,7 @@
               "latString": "32.913652",
               "longitude": -96.768087,
               "lonString": "-96.768087",
-              "message": "[pt32o3][fo1][jl3]CAMPBELL RD[nl]5 MILES[nl]5 MINUTES[np][jl3]LEGACY DR[nl]12 MILES[nl]16 MINUTES",
+              "message": "[pt32o3][fo1][jl3]CAMPBELL RD[nl]5 MILES[nl]5 MINUTES[np][jl3]LEGACY DR[nl]12 MILES[nl]17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -12928,7 +12928,7 @@
                   "lines": [
                     "LEGACY DR",
                     "12 MILES",
-                    "16 MINUTES"
+                    "17 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13170,7 +13170,7 @@
               "latString": "33.223547",
               "longitude": -96.63449899999999,
               "lonString": "-96.634499",
-              "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]4 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]18 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]4 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -13184,7 +13184,7 @@
                   "lines": [
                     "PGBT (SH190)",
                     "16 MILES",
-                    "18 MINUTES"
+                    "17 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13380,13 +13380,13 @@
               "latString": "32.787484",
               "longitude": -96.57488099999999,
               "lonString": "-96.574881",
-              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]9 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]16 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]10 MINUTES[np][jl3]IH45 / US75[nl]12 MILES[nl]16 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30",
                     "6 MILES",
-                    "9 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13536,13 +13536,13 @@
               "latString": "32.750612",
               "longitude": -96.459918,
               "lonString": "-96.459918",
-              "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]14 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]23 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]13 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]23 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH635",
                     "10 MILES",
-                    "14 MINUTES"
+                    "13 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13830,12 +13830,12 @@
           "latString": "32.676685",
           "longitude": -97.044919,
           "lonString": "-97.044919",
-          "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 20 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 17 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH820 12 MINUTES",
-                "IH35W 20 MINUTES"
+                "IH35W 17 MINUTES"
               ],
               "pageNo": 0
             }
@@ -13911,12 +13911,12 @@
           "latString": "32.677759",
           "longitude": -97.085627,
           "lonString": "-97.085627",
-          "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 20 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 16 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH820 9 MINUTES",
-                "IH35W 20 MINUTES"
+                "IH35W 16 MINUTES"
               ],
               "pageNo": 0
             }
@@ -13980,20 +13980,20 @@
           "latString": "32.668097",
           "longitude": -97.222802,
           "lonString": "-97.222802",
-          "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]AT BERRY[nl]ALL LANES CLOSED[np]IH-820 NORTHBOUND[nl]AT BERRY[nl]FOR CONSTRUCTION",
+          "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
               "lines": [
                 "IH-820 NORTHBOUND",
-                "AT BERRY",
-                "ALL LANES CLOSED"
+                "AT MEADOWBROOK",
+                "RIGHT LANE CLOSED"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "IH-820 NORTHBOUND",
-                "AT BERRY",
+                "AT MEADOWBROOK",
                 "FOR CONSTRUCTION"
               ],
               "pageNo": 2
@@ -14374,20 +14374,20 @@
           "latString": "32.711698",
           "longitude": -97.30485499999999,
           "lonString": "-97.304855",
-          "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT BERRY[nl]ALL LANES CLOSED[np]IH-820 NORTHBOUND[nl]AT BERRY[nl]FOR CONSTRUCTION",
+          "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
               "lines": [
                 "IH-820 NORTHBOUND",
-                "AT BERRY",
-                "ALL LANES CLOSED"
+                "AT MEADOWBROOK",
+                "RIGHT LANE CLOSED"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "IH-820 NORTHBOUND",
-                "AT BERRY",
+                "AT MEADOWBROOK",
                 "FOR CONSTRUCTION"
               ],
               "pageNo": 2
@@ -15163,11 +15163,8 @@
             "roadway": "IH-35W",
             "roadwayWithoutHyphensOrSpaces": "IH35W"
           },
-          "graphicMsgImageList": [
-            "iVBORw0KGgoAAAANSUhEUgAAAH0AAAADCAYAAAC+qACUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB2SURBVDhP5dO9CYRQEEXhbxfEH8xN10KsQWzAuizK3NBNDQTBXNb1WcXzwDAX5mSXeYmfzzlzVdE01DXbxnFQFKQpy8I4Mk2Xfxq+V4qUx5QeImVJ35MkIQ8D63ofA9GX/r73I8gy2jYU/v/0fafryPNbeAT8ADeCF1PbY5bhAAAAAElFTkSuQmCC",
-            "iVBORw0KGgoAAAANSUhEUgAAAH0AAAADCAYAAAC+qACUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABtSURBVDhP5dExCoRAEETR54IIYm66HsSreC4PZW7opgaCiZEiuo6nmPnQ9G+6ssrEz/eeqa5pW5qGdeU8KUuKgnlmGBjHJ38n/B6LlGRKD0pV0XXkefC+Z1neZyD60j/vToZ9Z9s4jlD2/04LLoYRG62hTrjnAAAAAElFTkSuQmCC"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I35W.Keller Hicks.SB",
           "isDedicated": false,
@@ -15175,13 +15172,13 @@
           "latString": "32.945215",
           "longitude": -97.31191799999999,
           "lonString": "-97.311918",
-          "message": "[pt31o0][fo1][jl3][jp2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]SLOW TRAFFIC[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]INCIDENT",
+          "message": "[pt31o0][fo1]IH-35W SOUTHBOUND[nl]AT PHARR[nl]2 LEFT LNS CLOSED[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
                 "IH-35W SOUTHBOUND",
                 "AT PHARR",
-                "SLOW TRAFFIC"
+                "2 LEFT LNS CLOSED"
               ],
               "pageNo": 0
             },
@@ -15189,7 +15186,7 @@
               "lines": [
                 "IH-35W SOUTHBOUND",
                 "AT PHARR",
-                "INCIDENT"
+                "**MAJOR CRASH**"
               ],
               "pageNo": 2
             }
@@ -15792,11 +15789,8 @@
             "roadway": "IH-820",
             "roadwayWithoutHyphensOrSpaces": "IH820"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I820.Marine Creek.NB",
           "isDedicated": false,
@@ -15804,13 +15798,13 @@
           "latString": "32.824121",
           "longitude": -97.39109599999999,
           "lonString": "-97.391096",
-          "message": "[pt31o0][fo1][jl3][jp2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]SLOW TRAFFIC[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]INCIDENT",
+          "message": "[pt31o0][fo1]IH-35W SOUTHBOUND[nl]AT PHARR[nl]2 LEFT LNS CLOSED[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
                 "IH-35W SOUTHBOUND",
                 "AT PHARR",
-                "SLOW TRAFFIC"
+                "2 LEFT LNS CLOSED"
               ],
               "pageNo": 0
             },
@@ -15818,7 +15812,7 @@
               "lines": [
                 "IH-35W SOUTHBOUND",
                 "AT PHARR",
-                "INCIDENT"
+                "**MAJOR CRASH**"
               ],
               "pageNo": 2
             }
@@ -16159,11 +16153,8 @@
             "roadway": "SH-121",
             "roadwayWithoutHyphensOrSpaces": "SH121"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "S121.Harwood.SB",
           "isDedicated": false,
@@ -16171,13 +16162,13 @@
           "latString": "32.8506",
           "longitude": -97.140721,
           "lonString": "-97.140721",
-          "message": "[pt31o0][fo2][jl3][jp2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]SLOW TRAFFIC[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]INCIDENT",
+          "message": "[pt31o0][fo2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]2 LEFT LNS CLOSED[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
                 "IH-35W SOUTHBOUND",
                 "AT PHARR",
-                "SLOW TRAFFIC"
+                "2 LEFT LNS CLOSED"
               ],
               "pageNo": 0
             },
@@ -16185,7 +16176,7 @@
               "lines": [
                 "IH-35W SOUTHBOUND",
                 "AT PHARR",
-                "INCIDENT"
+                "**MAJOR CRASH**"
               ],
               "pageNo": 2
             }
@@ -17250,21 +17241,21 @@
           "latString": "32.730709",
           "longitude": -97.298756,
           "lonString": "-97.298756",
-          "message": "[pt31o0][fo1]US-287 SOUTHBOUND[nl]TO IH-820 NORTH[nl]EXIT RAMP RIGHT[np]US-287 SOUTHBOUND[nl]TO IH-820 NORTH[nl]NEW EXIT ",
+          "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
               "lines": [
-                "US-287 SOUTHBOUND",
-                "TO IH-820 NORTH",
-                "EXIT RAMP RIGHT"
+                "IH-820 NORTHBOUND",
+                "AT MEADOWBROOK",
+                "RIGHT LANE CLOSED"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "US-287 SOUTHBOUND",
-                "TO IH-820 NORTH",
-                "NEW EXIT"
+                "IH-820 NORTHBOUND",
+                "AT MEADOWBROOK",
+                "FOR CONSTRUCTION"
               ],
               "pageNo": 2
             }
@@ -17496,12 +17487,12 @@
               "latString": "32.676685",
               "longitude": -97.044919,
               "lonString": "-97.044919",
-              "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 20 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH820 12 MINUTES",
-                    "IH35W 20 MINUTES"
+                    "IH35W 17 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17591,12 +17582,12 @@
               "latString": "32.677759",
               "longitude": -97.085627,
               "lonString": "-97.085627",
-              "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 20 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 16 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH820 9 MINUTES",
-                    "IH35W 20 MINUTES"
+                    "IH35W 16 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17674,20 +17665,20 @@
               "latString": "32.668097",
               "longitude": -97.222802,
               "lonString": "-97.222802",
-              "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]AT BERRY[nl]ALL LANES CLOSED[np]IH-820 NORTHBOUND[nl]AT BERRY[nl]FOR CONSTRUCTION",
+              "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
                   "lines": [
                     "IH-820 NORTHBOUND",
-                    "AT BERRY",
-                    "ALL LANES CLOSED"
+                    "AT MEADOWBROOK",
+                    "RIGHT LANE CLOSED"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "IH-820 NORTHBOUND",
-                    "AT BERRY",
+                    "AT MEADOWBROOK",
                     "FOR CONSTRUCTION"
                   ],
                   "pageNo": 2
@@ -18138,20 +18129,20 @@
               "latString": "32.711698",
               "longitude": -97.30485499999999,
               "lonString": "-97.304855",
-              "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT BERRY[nl]ALL LANES CLOSED[np]IH-820 NORTHBOUND[nl]AT BERRY[nl]FOR CONSTRUCTION",
+              "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
                   "lines": [
                     "IH-820 NORTHBOUND",
-                    "AT BERRY",
-                    "ALL LANES CLOSED"
+                    "AT MEADOWBROOK",
+                    "RIGHT LANE CLOSED"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "IH-820 NORTHBOUND",
-                    "AT BERRY",
+                    "AT MEADOWBROOK",
                     "FOR CONSTRUCTION"
                   ],
                   "pageNo": 2
@@ -19067,11 +19058,8 @@
                 "roadway": "IH-35W",
                 "roadwayWithoutHyphensOrSpaces": "IH35W"
               },
-              "graphicMsgImageList": [
-                "iVBORw0KGgoAAAANSUhEUgAAAH0AAAADCAYAAAC+qACUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAB2SURBVDhP5dO9CYRQEEXhbxfEH8xN10KsQWzAuizK3NBNDQTBXNb1WcXzwDAX5mSXeYmfzzlzVdE01DXbxnFQFKQpy8I4Mk2Xfxq+V4qUx5QeImVJ35MkIQ8D63ofA9GX/r73I8gy2jYU/v/0fafryPNbeAT8ADeCF1PbY5bhAAAAAElFTkSuQmCC",
-                "iVBORw0KGgoAAAANSUhEUgAAAH0AAAADCAYAAAC+qACUAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAABtSURBVDhP5dExCoRAEETR54IIYm66HsSreC4PZW7opgaCiZEiuo6nmPnQ9G+6ssrEz/eeqa5pW5qGdeU8KUuKgnlmGBjHJ38n/B6LlGRKD0pV0XXkefC+Z1neZyD60j/vToZ9Z9s4jlD2/04LLoYRG62hTrjnAAAAAElFTkSuQmCC"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I35W.Keller Hicks.SB",
               "isDedicated": false,
@@ -19079,13 +19067,13 @@
               "latString": "32.945215",
               "longitude": -97.31191799999999,
               "lonString": "-97.311918",
-              "message": "[pt31o0][fo1][jl3][jp2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]SLOW TRAFFIC[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]INCIDENT",
+              "message": "[pt31o0][fo1]IH-35W SOUTHBOUND[nl]AT PHARR[nl]2 LEFT LNS CLOSED[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
                     "IH-35W SOUTHBOUND",
                     "AT PHARR",
-                    "SLOW TRAFFIC"
+                    "2 LEFT LNS CLOSED"
                   ],
                   "pageNo": 0
                 },
@@ -19093,7 +19081,7 @@
                   "lines": [
                     "IH-35W SOUTHBOUND",
                     "AT PHARR",
-                    "INCIDENT"
+                    "**MAJOR CRASH**"
                   ],
                   "pageNo": 2
                 }
@@ -19808,11 +19796,8 @@
                 "roadway": "IH-820",
                 "roadwayWithoutHyphensOrSpaces": "IH820"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I820.Marine Creek.NB",
               "isDedicated": false,
@@ -19820,13 +19805,13 @@
               "latString": "32.824121",
               "longitude": -97.39109599999999,
               "lonString": "-97.391096",
-              "message": "[pt31o0][fo1][jl3][jp2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]SLOW TRAFFIC[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]INCIDENT",
+              "message": "[pt31o0][fo1]IH-35W SOUTHBOUND[nl]AT PHARR[nl]2 LEFT LNS CLOSED[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
                     "IH-35W SOUTHBOUND",
                     "AT PHARR",
-                    "SLOW TRAFFIC"
+                    "2 LEFT LNS CLOSED"
                   ],
                   "pageNo": 0
                 },
@@ -19834,7 +19819,7 @@
                   "lines": [
                     "IH-35W SOUTHBOUND",
                     "AT PHARR",
-                    "INCIDENT"
+                    "**MAJOR CRASH**"
                   ],
                   "pageNo": 2
                 }
@@ -20238,11 +20223,8 @@
                 "roadway": "SH-121",
                 "roadwayWithoutHyphensOrSpaces": "SH121"
               },
-              "graphicMsgImageList": [
-                "iVBORw0KGgoAAAANSUhEUgAAAH0AAAAbCAYAAABRLYBiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAZ0SURBVGhD7VoFbFVJFD27xT0tKVCkuGuC+6KFErTBgrsTKKS4BddQHBq8WKBYCBIIiwQJ7s6iwT24vH2H89/+T9N2Cwnlf/pOMvlv5s/Mm7w79965Z+4f+D5kNcs/erThRvjLLH/r8f/xp+PXRjxCnGl65cpAiRJA7tzAkCHAgwdArVpAwYLApEnqw3rHjsDbt8D48YC/P9CrF/D0KbB3L5A+PTBsGLBsGXDzpuZZvBjo21d96tYFOnQwF2iu0M8PaNYM6N4dKF0auH8fyJgRaNECWLUKaNhQ75w3Dzh+3FQVU1fy5QMuX9a7WHftM3IksH695vb21ntXr9Zabt0CcuYEDh0CTp8GihUDJkzQ2IgIYP9+oFQpoEkTIFcuoHdv4Pp1ICBA6/b1BXr0AM6f15gfgOdq+qNHEsrWrUC5ctokc+YA48bpw2fODHh5AS9fApkyAQkTAoahD0fUqAFMmaKPOmuWNlThwhJ+nz7Apk1Au3bq64rNm4GmTYEzZ/T/jBmOPyLh7l314/wUIn8554ABQFAQUKiQNmZUSJoUaNnSUXGA7+F8rVoB/fs7GuMAv0ToFCS1jYKg0LKa9iNbNuDYMaBaNaB5c31gWoP37yW0tm2BFy9kDU6eBJ4/l2afO+eY1ERwMFC7NnD0KNC4MZAlizTXwuHD2gixAa0C18jCzefatmiRNDpPHlkFC6dOSfBRYeFCrTeqTXHnDpA6taMSB/glQu/aVTt82jQgcWKZaZbAQGDnTpl4Cp8C27EDWLJE5pNmlMJk28GDQOvWwLZtjklN0BXQDBcvrk1BIdFkW6B2nj0ra5EkidqSJQO+fNGzKyytZjly5Ns2uot69VSvWlX/EUWKyMTTXBMpUmhTE58/AyNGAIMHmz41klOlyX/2zFGJA/xy8/7hg/xw+/bmYszVhIbKb+/aJa2haeeGCA83nZbptWjW+bH5nCYNcPWqYyITly4BGzdKG4sWBZYvl/atWQNMnw5Ury6N49h16+SjaT3o72MDS9Np0i9cAMaMkWXh3GvXypJs2CA3xHdyLUuXOgaboFXavdu54Xr21HxhYXJLcQU7ZPs9YIdsNmKGLfR4CFvo8RAe7dMnTxZRwoPexIlA9uyK4Ul8MIb++FFh4JUrOjzduCEugAcuRgn58wOdO6sviZLRo4FKlYDXr53jCB8fICREoSbJGc7F9zC+dhPED5/OsIuhEQXLEzhJnS1btBG6dVM7QeaOYVb9+kC6dM6Tc2Qwhl65Uid8whrHwtN98uQKx6y5OA+jDU+ExwqdhA3Dn337ROZEB1K5DIsYSjG8e/cO6NdPbaR6EyQAUqVSvL5gAdCokcaRLubcJ06oMI5mTM42xu0M+aKK7z0BHiv0OnUkLJaaNaPXOldNHzpUbbQGbCN9+umTqNfHj2UtqNE5cogYqlBBsTjZQoLcAdu4gaKjWz0BHil0mlaadJIis2fLT5cs6fjzB0CadfhwzTV/vhhDCyRdUqaUsC3QQpDnj85VuDtscub3gE3O2IgZttDjIWyhx0O4pU/nSXzFCuDePWdmDa9UBw0CHj5UH97ATZ0KHDgAlC0rgoVXlwzleDLv1AmoUkU3eCRSGIOPHQsUKKDbMoZvzJjhFent27oGZRLFwIG61uVhjdkzr14pRLt2Te9lyMabtTdvdF3Kds7P2zweLkeN0prKlAEaNBDREwf4Lp/+vaDQeUP8U4u3N4zwcBjm6dgwT85G+fIwwsJg+Po6+5in6q//8dnHR/1DQzXWDMkM8xRu+Pk526xxefOqjc+BgTDMmP3rs5cXjIgIPfP/4GAYQUGqW+1WMTekYYZ2/9VDQmAEBHy7JnNTGv7+zj4/uVQ2S6zhluad6U/MTmEaE1OnqFGRQWtALSSePFFiAu+rzQ3yNTWJY6mRzEix0qmiAhMxqJnMY6NFYXjGMQzdGNsTTOCghrNQg0n9bt+uuisV67omWg1yBO4ItxR6hgz68KREaX7JoEUG2bC0afVMbpwZKnv2iFEjscJECfLpTKyICczKoXtg+hPna9NGm4j5bIzDmRJFV8A4nYUZO9xEJIRYd02S4Maz0p7oGjivO8Ithc7cOPpmZp/QF5NTJ+bOFX3KDFemRfE/aic/PH3pxYvSSmohNS5RIrFosQHPC8xkqVjRSdTwfV26ODrEAjNnKhuHSZk8G9DPuyNscub3gE3O2IgJwL8RZ7YhsoXyewAAAABJRU5ErkJggg==",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "S121.Harwood.SB",
               "isDedicated": false,
@@ -20250,13 +20232,13 @@
               "latString": "32.8506",
               "longitude": -97.140721,
               "lonString": "-97.140721",
-              "message": "[pt31o0][fo2][jl3][jp2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]SLOW TRAFFIC[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]INCIDENT",
+              "message": "[pt31o0][fo2]IH-35W SOUTHBOUND[nl]AT PHARR[nl]2 LEFT LNS CLOSED[np]IH-35W SOUTHBOUND[nl]AT PHARR[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
                     "IH-35W SOUTHBOUND",
                     "AT PHARR",
-                    "SLOW TRAFFIC"
+                    "2 LEFT LNS CLOSED"
                   ],
                   "pageNo": 0
                 },
@@ -20264,7 +20246,7 @@
                   "lines": [
                     "IH-35W SOUTHBOUND",
                     "AT PHARR",
-                    "INCIDENT"
+                    "**MAJOR CRASH**"
                   ],
                   "pageNo": 2
                 }
@@ -21525,21 +21507,21 @@
               "latString": "32.730709",
               "longitude": -97.298756,
               "lonString": "-97.298756",
-              "message": "[pt31o0][fo1]US-287 SOUTHBOUND[nl]TO IH-820 NORTH[nl]EXIT RAMP RIGHT[np]US-287 SOUTHBOUND[nl]TO IH-820 NORTH[nl]NEW EXIT ",
+              "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT MEADOWBROOK[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
                   "lines": [
-                    "US-287 SOUTHBOUND",
-                    "TO IH-820 NORTH",
-                    "EXIT RAMP RIGHT"
+                    "IH-820 NORTHBOUND",
+                    "AT MEADOWBROOK",
+                    "RIGHT LANE CLOSED"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "US-287 SOUTHBOUND",
-                    "TO IH-820 NORTH",
-                    "NEW EXIT"
+                    "IH-820 NORTHBOUND",
+                    "AT MEADOWBROOK",
+                    "FOR CONSTRUCTION"
                   ],
                   "pageNo": 2
                 }
