@@ -220,7 +220,7 @@
           "latitude": 32.668304,
           "latString": "32.668304",
           "longitude": -96.71431199999999,
-          "lonString": "-96.71431199999999",
+          "lonString": "-96.714312",
           "message": "[pt32o3][fo1][jl3]IH35E[nl]7 MILES[nl]6 MINUTES[np][jl3]US67[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
@@ -265,7 +265,7 @@
           "latitude": 32.646875,
           "latString": "32.646875",
           "longitude": -96.78390999999999,
-          "lonString": "-96.78390999999999",
+          "lonString": "-96.78391",
           "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
@@ -353,7 +353,7 @@
           "latitude": 32.667583,
           "latString": "32.667583",
           "longitude": -96.91887299999999,
-          "lonString": "-96.91887299999999",
+          "lonString": "-96.918873",
           "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
           "messagePages": [
             {
@@ -444,12 +444,12 @@
           "latString": "32.707234",
           "longitude": -96.287877,
           "lonString": "-96.287877",
-          "message": "[pt32o3][fo1][jl3]IH635 VIA[nl]US80  21 MINUTES[nl]IH20  17 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH635 VIA[nl]US80  20 MINUTES[nl]IH20  17 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH635 VIA",
-                "US80  21 MINUTES",
+                "US80  20 MINUTES",
                 "IH20  17 MINUTES"
               ],
               "pageNo": 0
@@ -568,7 +568,7 @@
           "icd_Id": "IH20 EB Duncanville Rd",
           "isDedicated": false,
           "latitude": 32.665071999999995,
-          "latString": "32.665071999999995",
+          "latString": "32.665072",
           "longitude": -96.908721,
           "lonString": "-96.908721",
           "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]IH45[nl]11 MILES[nl]10 MINUTES",
@@ -656,7 +656,7 @@
           "icd_Id": "IH20 EB Bonnie View",
           "isDedicated": false,
           "latitude": 32.654371999999995,
-          "latString": "32.654371999999995",
+          "latString": "32.654372",
           "longitude": -96.752967,
           "lonString": "-96.752967",
           "message": "[pt22o3][fo2]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
@@ -795,7 +795,7 @@
           "latitude": 32.759202,
           "latString": "32.759202",
           "longitude": -97.01301199999999,
-          "lonString": "-97.01301199999999",
+          "lonString": "-97.013012",
           "message": "[pt22o0][fo1][jl3]OPEN",
           "messagePages": [
             {
@@ -863,9 +863,9 @@
           "icd_Id": "30-EB Belt Line .5 Mile",
           "isDedicated": false,
           "latitude": 32.758410999999995,
-          "latString": "32.758410999999995",
+          "latString": "32.758411",
           "longitude": -96.98857199999999,
-          "lonString": "-96.98857199999999",
+          "lonString": "-96.988572",
           "message": "[pt22o0][fo1][jl3]OPEN",
           "messagePages": [
             {
@@ -936,7 +936,7 @@
           "latString": "32.975383",
           "longitude": -96.317123,
           "lonString": "-96.317123",
-          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]21 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -950,7 +950,7 @@
               "lines": [
                 "IH635",
                 "22 MILES",
-                "20 MINUTES"
+                "21 MINUTES"
               ],
               "pageNo": 2
             }
@@ -1071,13 +1071,13 @@
           "latString": "32.903859",
           "longitude": -96.455004,
           "lonString": "-96.455004",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "PGBT (SH190)",
                 "7 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -1203,7 +1203,7 @@
           "latitude": 32.845748,
           "latString": "32.845748",
           "longitude": -96.58218099999999,
-          "lonString": "-96.58218099999999",
+          "lonString": "-96.582181",
           "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]10 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   ",
           "messagePages": [
             {
@@ -1244,7 +1244,7 @@
           "icd_Id": "HOV IH30 EB Harwood",
           "isDedicated": false,
           "latitude": 32.774747999999995,
-          "latString": "32.774747999999995",
+          "latString": "32.774748",
           "longitude": -96.787832,
           "lonString": "-96.787832",
           "message": "[pt22o0][fo1][jl3]HOV LANE[nl]CLOSED",
@@ -1282,7 +1282,7 @@
           "latitude": 32.780187,
           "latString": "32.780187",
           "longitude": -96.77818599999999,
-          "lonString": "-96.77818599999999",
+          "lonString": "-96.778186",
           "message": "[pt22o0][fo1][jl3]HOV LANE[nl]MONDAY - FRIDAY[nl]3:30PM TO 7PM",
           "messagePages": [
             {
@@ -1409,7 +1409,7 @@
           "latitude": 32.795846,
           "latString": "32.795846",
           "longitude": -96.69200099999999,
-          "lonString": "-96.69200099999999",
+          "lonString": "-96.692001",
           "message": "[pt22o0][fo1][jl3][jp2]HOV LANE[nl]MONDAY - FRIDAY[nl]6AM - 10AM",
           "messagePages": [
             {
@@ -1444,9 +1444,9 @@
           "icd_Id": "HOV IH30 WB Jim Miller",
           "isDedicated": false,
           "latitude": 32.793929999999996,
-          "latString": "32.793929999999996",
+          "latString": "32.79393",
           "longitude": -96.70358999999999,
-          "lonString": "-96.70358999999999",
+          "lonString": "-96.70359",
           "message": "[pt22o0][fo1][jl3][jp2]HOV LANE[nl]MONDAY - FRIDAY[nl]6AM - 10AM",
           "messagePages": [
             {
@@ -1483,7 +1483,7 @@
           "latitude": 32.806073,
           "latString": "32.806073",
           "longitude": -96.66277799999999,
-          "lonString": "-96.66277799999999",
+          "lonString": "-96.662778",
           "message": "[pt30o0][fo1]IH30 EAST[nl]FROM FM548[nl]TO FM2642[np]IH30 EAST[nl]LEFT LANE CLOSED[nl]9PM - 5AM",
           "messagePages": [
             {
@@ -1600,9 +1600,9 @@
           "icd_Id": "IH30 EB Rosehill",
           "isDedicated": false,
           "latitude": 32.844581999999996,
-          "latString": "32.844581999999996",
+          "latString": "32.844582",
           "longitude": -96.58376299999999,
-          "lonString": "-96.58376299999999",
+          "lonString": "-96.583763",
           "message": "[pt30o0][fo1]IH30 EAST[nl]FROM FM548[nl]TO FM2642[np]IH30 EAST[nl]LEFT LANE CLOSED[nl]9PM - 5AM",
           "messagePages": [
             {
@@ -1772,7 +1772,7 @@
           "latitude": 32.76781,
           "latString": "32.76781",
           "longitude": -96.87596699999999,
-          "lonString": "-96.87596699999999",
+          "lonString": "-96.875967",
           "message": "[pt22o0][fo1][jl3]CLOSED",
           "messagePages": [
             {
@@ -1957,7 +1957,7 @@
           "latitude": 32.765358,
           "latString": "32.765358",
           "longitude": -96.92963999999999,
-          "lonString": "-96.92963999999999",
+          "lonString": "-96.92964",
           "message": "[pt22o0][fo1][jl3]CLOSED",
           "messagePages": [
             {
@@ -2039,7 +2039,7 @@
           "latitude": 33.23529,
           "latString": "33.23529",
           "longitude": -97.17554899999999,
-          "lonString": "-97.17554899999999",
+          "lonString": "-97.175549",
           "message": "[pt22o0][fo1]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
           "messagePages": [
             {
@@ -2257,7 +2257,7 @@
           "latString": "33.195519",
           "longitude": -97.13409399999999,
           "lonString": "-97.134094",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]16   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2269,7 +2269,7 @@
             {
               "lines": [
                 "[p2imgcl-515]17 MILES",
-                "16   MINS"
+                "15   MINS"
               ],
               "pageNo": 2
             }
@@ -2639,7 +2639,7 @@
           "icd_Id": "IH35E SB SRT SH121 Bypass",
           "isDedicated": false,
           "latitude": 33.002621999999995,
-          "latString": "33.002621999999995",
+          "latString": "33.002622",
           "longitude": -96.964793,
           "lonString": "-96.964793",
           "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]10   MINS   ",
@@ -2685,13 +2685,13 @@
           "latString": "32.688921",
           "longitude": -96.822712,
           "lonString": "-96.822712",
-          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]6 MINUTES[np][jl3]SH183[nl]11 MILES[nl]11 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]7 MINUTES[np][jl3]SH183[nl]11 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30",
                 "6 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2727,7 +2727,7 @@
           "icd_Id": "IH35E SB Whitlock",
           "isDedicated": false,
           "latitude": 32.962331999999996,
-          "latString": "32.962331999999996",
+          "latString": "32.962332",
           "longitude": -96.916491,
           "lonString": "-96.916491",
           "message": "[pt22o0][fo1]FOR[nl]50% HOV[nl]DISCOUNTS[np]VISIT[nl]GOCARMA[nl]WEBSITE",
@@ -2775,7 +2775,7 @@
           "latString": "32.938194",
           "longitude": -96.90272399999999,
           "lonString": "-96.902724",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]25   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]26   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2787,7 +2787,7 @@
             {
               "lines": [
                 "[p2imgcl-352]24 MILES",
-                "25   MINS"
+                "26   MINS"
               ],
               "pageNo": 2
             }
@@ -3161,7 +3161,7 @@
           "latitude": 32.947947,
           "latString": "32.947947",
           "longitude": -96.90667099999999,
-          "lonString": "-96.90667099999999",
+          "lonString": "-96.906671",
           "message": "[pt22o0][fo2]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
           "messagePages": [
             {
@@ -3337,7 +3337,7 @@
           "icd_Id": "IH35E NB Mayhill",
           "isDedicated": false,
           "latitude": 33.168580999999996,
-          "latString": "33.168580999999996",
+          "latString": "33.168581",
           "longitude": -97.082797,
           "lonString": "-97.082797",
           "message": "[pt22o0][fo2]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
@@ -3564,7 +3564,7 @@
           "latitude": 32.535772,
           "latString": "32.535772",
           "longitude": -96.65926499999999,
-          "lonString": "-96.65926499999999",
+          "lonString": "-96.659265",
           "message": "[pt32o3][fo1][jl3]SH34 (ENNIS)[nl]15 MILES[nl]13 MINUTES[np][jl3]SH31 (CORSICANA)[nl]35 MILES[nl]31 MINUTES",
           "messagePages": [
             {
@@ -3610,13 +3610,13 @@
           "latString": "32.28257",
           "longitude": -96.53598199999999,
           "lonString": "-96.535982",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]36 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]26 MINUTES[np][jl3]IH30[nl]39 MILES[nl]35 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH20",
                 "30 MILES",
-                "27 MINUTES"
+                "26 MINUTES"
               ],
               "pageNo": 0
             },
@@ -3624,7 +3624,7 @@
               "lines": [
                 "IH30",
                 "39 MILES",
-                "36 MINUTES"
+                "35 MINUTES"
               ],
               "pageNo": 2
             }
@@ -3697,9 +3697,9 @@
           "icd_Id": "IH45 SB Loop 12",
           "isDedicated": false,
           "latitude": 32.701184999999995,
-          "latString": "32.701184999999995",
+          "latString": "32.701185",
           "longitude": -96.75335199999999,
-          "lonString": "-96.75335199999999",
+          "lonString": "-96.753352",
           "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]9 MILES[nl]9 MINUTES[np][jl3]SH34 (ENNIS)[nl]28 MILES[nl]25 MINUTES",
           "messagePages": [
             {
@@ -3787,9 +3787,9 @@
           "icd_Id": "IH345 SB Live Oak",
           "isDedicated": false,
           "latitude": 32.786488999999996,
-          "latString": "32.786488999999996",
+          "latString": "32.786489",
           "longitude": -96.79246599999999,
-          "lonString": "-96.79246599999999",
+          "lonString": "-96.792466",
           "message": "[pt22o0][fo3]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
           "messagePages": [
             {
@@ -3879,7 +3879,7 @@
           "latitude": 32.755376,
           "latString": "32.755376",
           "longitude": -96.61666199999999,
-          "lonString": "-96.61666199999999",
+          "lonString": "-96.616662",
           "message": "[pt22o3][fo2]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
           "messagePages": [
             {
@@ -3969,7 +3969,7 @@
           "latitude": 32.920445,
           "latString": "32.920445",
           "longitude": -96.98234599999999,
-          "lonString": "-96.98234599999999",
+          "lonString": "-96.982346",
           "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]DNT[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
@@ -4102,7 +4102,7 @@
           "latitude": 32.799398,
           "latString": "32.799398",
           "longitude": -96.62577499999999,
-          "lonString": "-96.62577499999999",
+          "lonString": "-96.625775",
           "message": "[pt22o3][fo1]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
           "messagePages": [
             {
@@ -4233,7 +4233,7 @@
           "icd_Id": "IH635 EB Luna",
           "isDedicated": false,
           "latitude": 32.907137999999996,
-          "latString": "32.907137999999996",
+          "latString": "32.907138",
           "longitude": -96.918685,
           "lonString": "-96.918685",
           "message": "[pt22o0][fo1]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
@@ -4462,7 +4462,7 @@
           "latitude": 32.816249,
           "latString": "32.816249",
           "longitude": -96.92150799999999,
-          "lonString": "-96.92150799999999",
+          "lonString": "-96.921508",
           "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]12 MILES   [nl15]14   MINS   ",
           "messagePages": [
             {
@@ -4503,7 +4503,7 @@
           "icd_Id": "Loop 12 SB Union Bower",
           "isDedicated": false,
           "latitude": 32.816967999999996,
-          "latString": "32.816967999999996",
+          "latString": "32.816968",
           "longitude": -96.921904,
           "lonString": "-96.921904",
           "message": "[pt22o0][fo2]IH30 WEST[nl]AT BUSH TURNPIKE[nl]8PM - 5AM[np]IH30 WEST[nl]AT BUSH TURNPIKE[nl]MINIMUM 1 LANE OPEN",
@@ -4632,7 +4632,7 @@
           "icd_Id": "SH114 EB Esters",
           "isDedicated": false,
           "latitude": 32.911961999999995,
-          "latString": "32.911961999999995",
+          "latString": "32.911962",
           "longitude": -97.003039,
           "lonString": "-97.003039",
           "message": "[pt22o0][fo1]FOR[nl]50% HOV[nl]DISCOUNTS[np]VISIT[nl]GOCARMA[nl]WEBSITE",
@@ -4814,7 +4814,7 @@
           "latitude": 32.825424,
           "latString": "32.825424",
           "longitude": -97.01702399999999,
-          "lonString": "-97.01702399999999",
+          "lonString": "-97.017024",
           "message": "[pt32o3][fo1][jl3]SH114[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]13 MILES[nl]12 MINUTES",
           "messagePages": [
             {
@@ -4859,7 +4859,7 @@
           "latitude": 32.887248,
           "latString": "32.887248",
           "longitude": -96.98386599999999,
-          "lonString": "-96.98386599999999",
+          "lonString": "-96.983866",
           "message": "[pt32o3][fo1][jl3]SH183[nl]4 MILES[nl]4 MINUTES[np][jl3]IH30[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
@@ -4952,7 +4952,7 @@
           "latString": "32.837238",
           "longitude": -96.99213499999999,
           "lonString": "-96.992135",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]10   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]11   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -4964,7 +4964,7 @@
             {
               "lines": [
                 "[p2imgcl-431]12 MILES",
-                "10   MINS"
+                "11   MINS"
               ],
               "pageNo": 2
             }
@@ -5078,7 +5078,7 @@
           "latitude": 32.790717,
           "latString": "32.790717",
           "longitude": -96.80016099999999,
-          "lonString": "-96.80016099999999",
+          "lonString": "-96.800161",
           "message": "[pt32o3][jl3][pt32o0]SH183 ON IH35E[nl]6 MILES[nl]6 MINUTES",
           "messagePages": [
             {
@@ -5115,7 +5115,7 @@
           "latitude": 32.787682,
           "latString": "32.787682",
           "longitude": -96.80338499999999,
-          "lonString": "-96.80338499999999",
+          "lonString": "-96.803385",
           "message": "[pt22o0][fo1]WOODALL EAST[nl]TO HALL/LEMMON[nl]EXIT RAMP CLOSED[np]WOODALL EAST[nl]TO HALL/LEMMON[nl]8PM - 5AM",
           "messagePages": [
             {
@@ -5160,9 +5160,9 @@
           "icd_Id": "Spur 408 SB Grady Niblo",
           "isDedicated": false,
           "latitude": 32.694548999999995,
-          "latString": "32.694548999999995",
+          "latString": "32.694549",
           "longitude": -96.93726799999999,
-          "lonString": "-96.93726799999999",
+          "lonString": "-96.937268",
           "message": "[pt32o3][fo2][jl3]PGBT ON IH20 WEST[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E ON IH20 EAST[nl]9 MILES[nl]9 MINUTES",
           "messagePages": [
             {
@@ -5297,7 +5297,7 @@
           "latitude": 32.675407,
           "latString": "32.675407",
           "longitude": -96.60108799999999,
-          "lonString": "-96.60108799999999",
+          "lonString": "-96.601088",
           "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-524][jl4][jp3]18 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-525][jl4][jp3]10 MILES   [nl15]9   MINS   ",
           "messagePages": [
             {
@@ -5340,7 +5340,7 @@
           "latitude": 32.671065,
           "latString": "32.671065",
           "longitude": -96.59090599999999,
-          "lonString": "-96.59090599999999",
+          "lonString": "-96.590906",
           "message": "[pt22o3][fo1]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
           "messagePages": [
             {
@@ -5522,8 +5522,8 @@
           "latitude": 32.635957,
           "latString": "32.635957",
           "longitude": -96.89654399999999,
-          "lonString": "-96.89654399999999",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]11   MINS   ",
+          "lonString": "-96.896544",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -5535,7 +5535,7 @@
             {
               "lines": [
                 "[p2imgcl-399]11 MILES",
-                "11   MINS"
+                "12   MINS"
               ],
               "pageNo": 2
             }
@@ -5610,14 +5610,14 @@
           "latitude": 32.679888,
           "latString": "32.679888",
           "longitude": -96.85375599999999,
-          "lonString": "-96.85375599999999",
-          "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]6 MINUTES",
+          "lonString": "-96.853756",
+          "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30",
                 "7 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5650,7 +5650,7 @@
           "latString": "32.810557",
           "longitude": -96.792053,
           "lonString": "-96.792053",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]14   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]13   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -5662,7 +5662,7 @@
             {
               "lines": [
                 "[p2imgcl-554]15 MILES",
-                "14   MINS"
+                "13   MINS"
               ],
               "pageNo": 2
             }
@@ -5690,7 +5690,7 @@
           "icd_Id": "US75 SB Haskell",
           "isDedicated": false,
           "latitude": 32.810584999999996,
-          "latString": "32.810584999999996",
+          "latString": "32.810585",
           "longitude": -96.792034,
           "lonString": "-96.792034",
           "message": "[pt22o0][fo3]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
@@ -5737,8 +5737,8 @@
           "latitude": 32.892336,
           "latString": "32.892336",
           "longitude": -96.76875299999999,
-          "lonString": "-96.76875299999999",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]17 MINUTES",
+          "lonString": "-96.768753",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]18 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -5752,7 +5752,7 @@
               "lines": [
                 "SRT (SH121)",
                 "20 MILES",
-                "17 MINUTES"
+                "18 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6002,13 +6002,13 @@
           "latString": "32.896765",
           "longitude": -96.769616,
           "lonString": "-96.769616",
-          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "WOODALL RODGERS",
                 "7 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6044,9 +6044,9 @@
           "icd_Id": "US75 SB Wilmeth",
           "isDedicated": false,
           "latitude": 33.223546999999996,
-          "latString": "33.223546999999996",
+          "latString": "33.223547",
           "longitude": -96.63449899999999,
-          "lonString": "-96.63449899999999",
+          "lonString": "-96.634499",
           "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]4 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]14 MINUTES",
           "messagePages": [
             {
@@ -6089,9 +6089,9 @@
           "icd_Id": "US75 NB McDermott",
           "isDedicated": false,
           "latitude": 33.099354999999996,
-          "latString": "33.099354999999996",
+          "latString": "33.099355",
           "longitude": -96.67846999999999,
-          "lonString": "-96.67846999999999",
+          "lonString": "-96.67847",
           "message": "[pt22o0][fo1]US75 NORTH[nl]AT MANTUA RD[nl]2 LFT LNS CLOSED[np]US75 NORTH[nl]AT MANTUA RD[nl]8PM - 5AM",
           "messagePages": [
             {
@@ -6228,7 +6228,7 @@
           "latitude": 32.787484,
           "latString": "32.787484",
           "longitude": -96.57488099999999,
-          "lonString": "-96.57488099999999",
+          "lonString": "-96.574881",
           "message": "[pt22o0][fo1]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
           "messagePages": [
             {
@@ -6364,13 +6364,13 @@
           "latString": "32.750612",
           "longitude": -96.459918,
           "lonString": "-96.459918",
-          "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]10 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]20 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]9 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]20 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH635",
                 "10 MILES",
-                "10 MINUTES"
+                "9 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6414,7 +6414,7 @@
               "latitude": 32.668304,
               "latString": "32.668304",
               "longitude": -96.71431199999999,
-              "lonString": "-96.71431199999999",
+              "lonString": "-96.714312",
               "message": "[pt32o3][fo1][jl3]IH35E[nl]7 MILES[nl]6 MINUTES[np][jl3]US67[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
@@ -6466,7 +6466,7 @@
               "latitude": 32.646875,
               "latString": "32.646875",
               "longitude": -96.78390999999999,
-              "lonString": "-96.78390999999999",
+              "lonString": "-96.78391",
               "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
@@ -6568,7 +6568,7 @@
               "latitude": 32.667583,
               "latString": "32.667583",
               "longitude": -96.91887299999999,
-              "lonString": "-96.91887299999999",
+              "lonString": "-96.918873",
               "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
@@ -6673,12 +6673,12 @@
               "latString": "32.707234",
               "longitude": -96.287877,
               "lonString": "-96.287877",
-              "message": "[pt32o3][fo1][jl3]IH635 VIA[nl]US80  21 MINUTES[nl]IH20  17 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH635 VIA[nl]US80  20 MINUTES[nl]IH20  17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH635 VIA",
-                    "US80  21 MINUTES",
+                    "US80  20 MINUTES",
                     "IH20  17 MINUTES"
                   ],
                   "pageNo": 0
@@ -6818,7 +6818,7 @@
               "icd_Id": "IH20 EB Duncanville Rd",
               "isDedicated": false,
               "latitude": 32.665071999999995,
-              "latString": "32.665071999999995",
+              "latString": "32.665072",
               "longitude": -96.908721,
               "lonString": "-96.908721",
               "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]IH45[nl]11 MILES[nl]10 MINUTES",
@@ -6920,7 +6920,7 @@
               "icd_Id": "IH20 EB Bonnie View",
               "isDedicated": false,
               "latitude": 32.654371999999995,
-              "latString": "32.654371999999995",
+              "latString": "32.654372",
               "longitude": -96.752967,
               "lonString": "-96.752967",
               "message": "[pt22o3][fo2]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
@@ -7080,7 +7080,7 @@
               "latitude": 32.759202,
               "latString": "32.759202",
               "longitude": -97.01301199999999,
-              "lonString": "-97.01301199999999",
+              "lonString": "-97.013012",
               "message": "[pt22o0][fo1][jl3]OPEN",
               "messagePages": [
                 {
@@ -7162,9 +7162,9 @@
               "icd_Id": "30-EB Belt Line .5 Mile",
               "isDedicated": false,
               "latitude": 32.758410999999995,
-              "latString": "32.758410999999995",
+              "latString": "32.758411",
               "longitude": -96.98857199999999,
-              "lonString": "-96.98857199999999",
+              "lonString": "-96.988572",
               "message": "[pt22o0][fo1][jl3]OPEN",
               "messagePages": [
                 {
@@ -7249,7 +7249,7 @@
               "latString": "32.975383",
               "longitude": -96.317123,
               "lonString": "-96.317123",
-              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]21 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -7263,7 +7263,7 @@
                   "lines": [
                     "IH635",
                     "22 MILES",
-                    "20 MINUTES"
+                    "21 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7405,13 +7405,13 @@
               "latString": "32.903859",
               "longitude": -96.455004,
               "lonString": "-96.455004",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "PGBT (SH190)",
                     "7 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -7558,7 +7558,7 @@
               "latitude": 32.845748,
               "latString": "32.845748",
               "longitude": -96.58218099999999,
-              "lonString": "-96.58218099999999",
+              "lonString": "-96.582181",
               "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-422][jl4][jp3]10 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   ",
               "messagePages": [
                 {
@@ -7606,7 +7606,7 @@
               "icd_Id": "HOV IH30 EB Harwood",
               "isDedicated": false,
               "latitude": 32.774747999999995,
-              "latString": "32.774747999999995",
+              "latString": "32.774748",
               "longitude": -96.787832,
               "lonString": "-96.787832",
               "message": "[pt22o0][fo1][jl3]HOV LANE[nl]CLOSED",
@@ -7651,7 +7651,7 @@
               "latitude": 32.780187,
               "latString": "32.780187",
               "longitude": -96.77818599999999,
-              "lonString": "-96.77818599999999",
+              "lonString": "-96.778186",
               "message": "[pt22o0][fo1][jl3]HOV LANE[nl]MONDAY - FRIDAY[nl]3:30PM TO 7PM",
               "messagePages": [
                 {
@@ -7799,7 +7799,7 @@
               "latitude": 32.795846,
               "latString": "32.795846",
               "longitude": -96.69200099999999,
-              "lonString": "-96.69200099999999",
+              "lonString": "-96.692001",
               "message": "[pt22o0][fo1][jl3][jp2]HOV LANE[nl]MONDAY - FRIDAY[nl]6AM - 10AM",
               "messagePages": [
                 {
@@ -7841,9 +7841,9 @@
               "icd_Id": "HOV IH30 WB Jim Miller",
               "isDedicated": false,
               "latitude": 32.793929999999996,
-              "latString": "32.793929999999996",
+              "latString": "32.79393",
               "longitude": -96.70358999999999,
-              "lonString": "-96.70358999999999",
+              "lonString": "-96.70359",
               "message": "[pt22o0][fo1][jl3][jp2]HOV LANE[nl]MONDAY - FRIDAY[nl]6AM - 10AM",
               "messagePages": [
                 {
@@ -7887,7 +7887,7 @@
               "latitude": 32.806073,
               "latString": "32.806073",
               "longitude": -96.66277799999999,
-              "lonString": "-96.66277799999999",
+              "lonString": "-96.662778",
               "message": "[pt30o0][fo1]IH30 EAST[nl]FROM FM548[nl]TO FM2642[np]IH30 EAST[nl]LEFT LANE CLOSED[nl]9PM - 5AM",
               "messagePages": [
                 {
@@ -8025,9 +8025,9 @@
               "icd_Id": "IH30 EB Rosehill",
               "isDedicated": false,
               "latitude": 32.844581999999996,
-              "latString": "32.844581999999996",
+              "latString": "32.844582",
               "longitude": -96.58376299999999,
-              "lonString": "-96.58376299999999",
+              "lonString": "-96.583763",
               "message": "[pt30o0][fo1]IH30 EAST[nl]FROM FM548[nl]TO FM2642[np]IH30 EAST[nl]LEFT LANE CLOSED[nl]9PM - 5AM",
               "messagePages": [
                 {
@@ -8225,7 +8225,7 @@
               "latitude": 32.76781,
               "latString": "32.76781",
               "longitude": -96.87596699999999,
-              "lonString": "-96.87596699999999",
+              "lonString": "-96.875967",
               "message": "[pt22o0][fo1][jl3]CLOSED",
               "messagePages": [
                 {
@@ -8445,7 +8445,7 @@
               "latitude": 32.765358,
               "latString": "32.765358",
               "longitude": -96.92963999999999,
-              "lonString": "-96.92963999999999",
+              "lonString": "-96.92964",
               "message": "[pt22o0][fo1][jl3]CLOSED",
               "messagePages": [
                 {
@@ -8541,7 +8541,7 @@
               "latitude": 33.23529,
               "latString": "33.23529",
               "longitude": -97.17554899999999,
-              "lonString": "-97.17554899999999",
+              "lonString": "-97.175549",
               "message": "[pt22o0][fo1]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
               "messagePages": [
                 {
@@ -8794,7 +8794,7 @@
               "latString": "33.195519",
               "longitude": -97.13409399999999,
               "lonString": "-97.134094",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]16   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -8806,7 +8806,7 @@
                 {
                   "lines": [
                     "[p2imgcl-515]17 MILES",
-                    "16   MINS"
+                    "15   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9239,7 +9239,7 @@
               "icd_Id": "IH35E SB SRT SH121 Bypass",
               "isDedicated": false,
               "latitude": 33.002621999999995,
-              "latString": "33.002621999999995",
+              "latString": "33.002622",
               "longitude": -96.964793,
               "lonString": "-96.964793",
               "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]10   MINS   ",
@@ -9292,13 +9292,13 @@
               "latString": "32.688921",
               "longitude": -96.822712,
               "lonString": "-96.822712",
-              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]6 MINUTES[np][jl3]SH183[nl]11 MILES[nl]11 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]7 MINUTES[np][jl3]SH183[nl]11 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30",
                     "6 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -9341,7 +9341,7 @@
               "icd_Id": "IH35E SB Whitlock",
               "isDedicated": false,
               "latitude": 32.962331999999996,
-              "latString": "32.962331999999996",
+              "latString": "32.962332",
               "longitude": -96.916491,
               "lonString": "-96.916491",
               "message": "[pt22o0][fo1]FOR[nl]50% HOV[nl]DISCOUNTS[np]VISIT[nl]GOCARMA[nl]WEBSITE",
@@ -9396,7 +9396,7 @@
               "latString": "32.938194",
               "longitude": -96.90272399999999,
               "lonString": "-96.902724",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]25   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]5 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-352][jl4][jp3]24 MILES   [nl15]26   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -9408,7 +9408,7 @@
                 {
                   "lines": [
                     "[p2imgcl-352]24 MILES",
-                    "25   MINS"
+                    "26   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9845,7 +9845,7 @@
               "latitude": 32.947947,
               "latString": "32.947947",
               "longitude": -96.90667099999999,
-              "lonString": "-96.90667099999999",
+              "lonString": "-96.906671",
               "message": "[pt22o0][fo2]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
               "messagePages": [
                 {
@@ -10049,7 +10049,7 @@
               "icd_Id": "IH35E NB Mayhill",
               "isDedicated": false,
               "latitude": 33.168580999999996,
-              "latString": "33.168580999999996",
+              "latString": "33.168581",
               "longitude": -97.082797,
               "lonString": "-97.082797",
               "message": "[pt22o0][fo2]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
@@ -10311,7 +10311,7 @@
               "latitude": 32.535772,
               "latString": "32.535772",
               "longitude": -96.65926499999999,
-              "lonString": "-96.65926499999999",
+              "lonString": "-96.659265",
               "message": "[pt32o3][fo1][jl3]SH34 (ENNIS)[nl]15 MILES[nl]13 MINUTES[np][jl3]SH31 (CORSICANA)[nl]35 MILES[nl]31 MINUTES",
               "messagePages": [
                 {
@@ -10364,13 +10364,13 @@
               "latString": "32.28257",
               "longitude": -96.53598199999999,
               "lonString": "-96.535982",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]36 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]26 MINUTES[np][jl3]IH30[nl]39 MILES[nl]35 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH20",
                     "30 MILES",
-                    "27 MINUTES"
+                    "26 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -10378,7 +10378,7 @@
                   "lines": [
                     "IH30",
                     "39 MILES",
-                    "36 MINUTES"
+                    "35 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -10465,9 +10465,9 @@
               "icd_Id": "IH45 SB Loop 12",
               "isDedicated": false,
               "latitude": 32.701184999999995,
-              "latString": "32.701184999999995",
+              "latString": "32.701185",
               "longitude": -96.75335199999999,
-              "lonString": "-96.75335199999999",
+              "lonString": "-96.753352",
               "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]9 MILES[nl]9 MINUTES[np][jl3]SH34 (ENNIS)[nl]28 MILES[nl]25 MINUTES",
               "messagePages": [
                 {
@@ -10569,9 +10569,9 @@
               "icd_Id": "IH345 SB Live Oak",
               "isDedicated": false,
               "latitude": 32.786488999999996,
-              "latString": "32.786488999999996",
+              "latString": "32.786489",
               "longitude": -96.79246599999999,
-              "lonString": "-96.79246599999999",
+              "lonString": "-96.792466",
               "message": "[pt22o0][fo3]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
               "messagePages": [
                 {
@@ -10675,7 +10675,7 @@
               "latitude": 32.755376,
               "latString": "32.755376",
               "longitude": -96.61666199999999,
-              "lonString": "-96.61666199999999",
+              "lonString": "-96.616662",
               "message": "[pt22o3][fo2]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
               "messagePages": [
                 {
@@ -10779,7 +10779,7 @@
               "latitude": 32.920445,
               "latString": "32.920445",
               "longitude": -96.98234599999999,
-              "lonString": "-96.98234599999999",
+              "lonString": "-96.982346",
               "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]DNT[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
@@ -10933,7 +10933,7 @@
               "latitude": 32.799398,
               "latString": "32.799398",
               "longitude": -96.62577499999999,
-              "lonString": "-96.62577499999999",
+              "lonString": "-96.625775",
               "message": "[pt22o3][fo1]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
               "messagePages": [
                 {
@@ -11085,7 +11085,7 @@
               "icd_Id": "IH635 EB Luna",
               "isDedicated": false,
               "latitude": 32.907137999999996,
-              "latString": "32.907137999999996",
+              "latString": "32.907138",
               "longitude": -96.918685,
               "lonString": "-96.918685",
               "message": "[pt22o0][fo1]IH35 NORTH[nl]AT BELZ RD[nl]MINIMUM 1 LANE OPEN[np]IH35 NORTH[nl]AT BELZ RD[nl]9PM - 5AM",
@@ -11349,7 +11349,7 @@
               "latitude": 32.816249,
               "latString": "32.816249",
               "longitude": -96.92150799999999,
-              "lonString": "-96.92150799999999",
+              "lonString": "-96.921508",
               "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]12 MILES   [nl15]14   MINS   ",
               "messagePages": [
                 {
@@ -11397,7 +11397,7 @@
               "icd_Id": "Loop 12 SB Union Bower",
               "isDedicated": false,
               "latitude": 32.816967999999996,
-              "latString": "32.816967999999996",
+              "latString": "32.816968",
               "longitude": -96.921904,
               "lonString": "-96.921904",
               "message": "[pt22o0][fo2]IH30 WEST[nl]AT BUSH TURNPIKE[nl]8PM - 5AM[np]IH30 WEST[nl]AT BUSH TURNPIKE[nl]MINIMUM 1 LANE OPEN",
@@ -11547,7 +11547,7 @@
               "icd_Id": "SH114 EB Esters",
               "isDedicated": false,
               "latitude": 32.911961999999995,
-              "latString": "32.911961999999995",
+              "latString": "32.911962",
               "longitude": -97.003039,
               "lonString": "-97.003039",
               "message": "[pt22o0][fo1]FOR[nl]50% HOV[nl]DISCOUNTS[np]VISIT[nl]GOCARMA[nl]WEBSITE",
@@ -11757,7 +11757,7 @@
               "latitude": 32.825424,
               "latString": "32.825424",
               "longitude": -97.01702399999999,
-              "lonString": "-97.01702399999999",
+              "lonString": "-97.017024",
               "message": "[pt32o3][fo1][jl3]SH114[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]13 MILES[nl]12 MINUTES",
               "messagePages": [
                 {
@@ -11809,7 +11809,7 @@
               "latitude": 32.887248,
               "latString": "32.887248",
               "longitude": -96.98386599999999,
-              "lonString": "-96.98386599999999",
+              "lonString": "-96.983866",
               "message": "[pt32o3][fo1][jl3]SH183[nl]4 MILES[nl]4 MINUTES[np][jl3]IH30[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
@@ -11916,7 +11916,7 @@
               "latString": "32.837238",
               "longitude": -96.99213499999999,
               "lonString": "-96.992135",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]10   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-421][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]12 MILES   [nl15]11   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -11928,7 +11928,7 @@
                 {
                   "lines": [
                     "[p2imgcl-431]12 MILES",
-                    "10   MINS"
+                    "11   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12063,7 +12063,7 @@
               "latitude": 32.790717,
               "latString": "32.790717",
               "longitude": -96.80016099999999,
-              "lonString": "-96.80016099999999",
+              "lonString": "-96.800161",
               "message": "[pt32o3][jl3][pt32o0]SH183 ON IH35E[nl]6 MILES[nl]6 MINUTES",
               "messagePages": [
                 {
@@ -12107,7 +12107,7 @@
               "latitude": 32.787682,
               "latString": "32.787682",
               "longitude": -96.80338499999999,
-              "lonString": "-96.80338499999999",
+              "lonString": "-96.803385",
               "message": "[pt22o0][fo1]WOODALL EAST[nl]TO HALL/LEMMON[nl]EXIT RAMP CLOSED[np]WOODALL EAST[nl]TO HALL/LEMMON[nl]8PM - 5AM",
               "messagePages": [
                 {
@@ -12159,9 +12159,9 @@
               "icd_Id": "Spur 408 SB Grady Niblo",
               "isDedicated": false,
               "latitude": 32.694548999999995,
-              "latString": "32.694548999999995",
+              "latString": "32.694549",
               "longitude": -96.93726799999999,
-              "lonString": "-96.93726799999999",
+              "lonString": "-96.937268",
               "message": "[pt32o3][fo2][jl3]PGBT ON IH20 WEST[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E ON IH20 EAST[nl]9 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
@@ -12317,7 +12317,7 @@
               "latitude": 32.675407,
               "latString": "32.675407",
               "longitude": -96.60108799999999,
-              "lonString": "-96.60108799999999",
+              "lonString": "-96.601088",
               "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-524][jl4][jp3]18 MILES   [nl15]16   MINS   [np][pt32o3][jl3][p2imgcl-525][jl4][jp3]10 MILES   [nl15]9   MINS   ",
               "messagePages": [
                 {
@@ -12367,7 +12367,7 @@
               "latitude": 32.671065,
               "latString": "32.671065",
               "longitude": -96.59090599999999,
-              "lonString": "-96.59090599999999",
+              "lonString": "-96.590906",
               "message": "[pt22o3][fo1]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
               "messagePages": [
                 {
@@ -12577,8 +12577,8 @@
               "latitude": 32.635957,
               "latString": "32.635957",
               "longitude": -96.89654399999999,
-              "lonString": "-96.89654399999999",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]11   MINS   ",
+              "lonString": "-96.896544",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -12590,7 +12590,7 @@
                 {
                   "lines": [
                     "[p2imgcl-399]11 MILES",
-                    "11   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12679,14 +12679,14 @@
               "latitude": 32.679888,
               "latString": "32.679888",
               "longitude": -96.85375599999999,
-              "lonString": "-96.85375599999999",
-              "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]6 MINUTES",
+              "lonString": "-96.853756",
+              "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30",
                     "7 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -12726,7 +12726,7 @@
               "latString": "32.810557",
               "longitude": -96.792053,
               "lonString": "-96.792053",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]14   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]13   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -12738,7 +12738,7 @@
                 {
                   "lines": [
                     "[p2imgcl-554]15 MILES",
-                    "14   MINS"
+                    "13   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12773,7 +12773,7 @@
               "icd_Id": "US75 SB Haskell",
               "isDedicated": false,
               "latitude": 32.810584999999996,
-              "latString": "32.810584999999996",
+              "latString": "32.810585",
               "longitude": -96.792034,
               "lonString": "-96.792034",
               "message": "[pt22o0][fo3]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
@@ -12827,8 +12827,8 @@
               "latitude": 32.892336,
               "latString": "32.892336",
               "longitude": -96.76875299999999,
-              "lonString": "-96.76875299999999",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]17 MINUTES",
+              "lonString": "-96.768753",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]18 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -12842,7 +12842,7 @@
                   "lines": [
                     "SRT (SH121)",
                     "20 MILES",
-                    "17 MINUTES"
+                    "18 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13134,13 +13134,13 @@
               "latString": "32.896765",
               "longitude": -96.769616,
               "lonString": "-96.769616",
-              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "WOODALL RODGERS",
                     "7 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13183,9 +13183,9 @@
               "icd_Id": "US75 SB Wilmeth",
               "isDedicated": false,
               "latitude": 33.223546999999996,
-              "latString": "33.223546999999996",
+              "latString": "33.223547",
               "longitude": -96.63449899999999,
-              "lonString": "-96.63449899999999",
+              "lonString": "-96.634499",
               "message": "[pt32o3][fo1][jl3]SRT (SH121)[nl]4 MILES[nl]4 MINUTES[np][jl3]PGBT (SH190)[nl]16 MILES[nl]14 MINUTES",
               "messagePages": [
                 {
@@ -13235,9 +13235,9 @@
               "icd_Id": "US75 NB McDermott",
               "isDedicated": false,
               "latitude": 33.099354999999996,
-              "latString": "33.099354999999996",
+              "latString": "33.099355",
               "longitude": -96.67846999999999,
-              "lonString": "-96.67846999999999",
+              "lonString": "-96.67847",
               "message": "[pt22o0][fo1]US75 NORTH[nl]AT MANTUA RD[nl]2 LFT LNS CLOSED[np]US75 NORTH[nl]AT MANTUA RD[nl]8PM - 5AM",
               "messagePages": [
                 {
@@ -13395,7 +13395,7 @@
               "latitude": 32.787484,
               "latString": "32.787484",
               "longitude": -96.57488099999999,
-              "lonString": "-96.57488099999999",
+              "lonString": "-96.574881",
               "message": "[pt22o0][fo1]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
               "messagePages": [
                 {
@@ -13552,13 +13552,13 @@
               "latString": "32.750612",
               "longitude": -96.459918,
               "lonString": "-96.459918",
-              "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]10 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]20 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH635[nl]10 MILES[nl]9 MINUTES[np][jl3]IH45 / US75[nl]20 MILES[nl]20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH635",
                     "10 MILES",
-                    "10 MINUTES"
+                    "9 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13879,9 +13879,9 @@
           "icd_Id": "I20.Green Oaks Trail EB",
           "isDedicated": false,
           "latitude": 33.265758999999996,
-          "latString": "33.265758999999996",
+          "latString": "33.265759",
           "longitude": -98.30336299999999,
-          "lonString": "-98.30336299999999",
+          "lonString": "-98.303363",
           "message": "[jl3]",
           "messagePages": [
             {
@@ -13950,7 +13950,7 @@
           "latitude": 32.675712,
           "latString": "32.675712",
           "longitude": -97.17064599999999,
-          "lonString": "-97.17064599999999",
+          "lonString": "-97.170646",
           "message": "[jl3]",
           "messagePages": [
             {
@@ -13981,7 +13981,7 @@
           "icd_Id": "I20.Bowman Springs.WB",
           "isDedicated": false,
           "latitude": 32.668096999999996,
-          "latString": "32.668096999999996",
+          "latString": "32.668097",
           "longitude": -97.222802,
           "lonString": "-97.222802",
           "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]AT CRAIG[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT CRAIG[nl]FOR CONSTRUCTION",
@@ -14176,7 +14176,7 @@
           "latitude": 32.675179,
           "latString": "32.675179",
           "longitude": -97.38219699999999,
-          "lonString": "-97.38219699999999",
+          "lonString": "-97.382197",
           "message": "[jl3]",
           "messagePages": [
             {
@@ -14209,7 +14209,7 @@
           "latitude": 32.737038,
           "latString": "32.737038",
           "longitude": -97.63900799999999,
-          "lonString": "-97.63900799999999",
+          "lonString": "-97.639008",
           "message": "[pt31o0][fo1]IH-20 WESTBOUND[nl]AT SH-180[nl]LEFT LANE CLOSED[np]IH-20 WESTBOUND[nl]AT SH-180[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -14377,7 +14377,7 @@
           "latitude": 32.711698,
           "latString": "32.711698",
           "longitude": -97.30485499999999,
-          "lonString": "-97.30485499999999",
+          "lonString": "-97.304855",
           "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT CRAIG[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT CRAIG[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -14563,7 +14563,7 @@
           "latitude": 32.759893,
           "latString": "32.759893",
           "longitude": -97.04028699999999,
-          "lonString": "-97.04028699999999",
+          "lonString": "-97.040287",
           "message": "[pt31o0][fo1]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]RIGHT RAMP CLOSED[np]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -14713,7 +14713,7 @@
           "latitude": 32.759485,
           "latString": "32.759485",
           "longitude": -97.03752999999999,
-          "lonString": "-97.03752999999999",
+          "lonString": "-97.03753",
           "message": "[pt22o0][fo1][jl3]OPEN",
           "messagePages": [
             {
@@ -14919,7 +14919,7 @@
           "latitude": 32.737958,
           "latString": "32.737958",
           "longitude": -97.46659199999999,
-          "lonString": "-97.46659199999999",
+          "lonString": "-97.466592",
           "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]IH820 17 MINUTES",
           "messagePages": [
             {
@@ -14988,7 +14988,7 @@
           "latitude": 32.759856,
           "latString": "32.759856",
           "longitude": -97.24485399999999,
-          "lonString": "-97.24485399999999",
+          "lonString": "-97.244854",
           "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]TO SH-121[nl]ALL LANES CLSD[np]IH-820 NORTHBOUND[nl]TO SH-121[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -15142,7 +15142,7 @@
           "latitude": 32.945215,
           "latString": "32.945215",
           "longitude": -97.31191799999999,
-          "lonString": "-97.31191799999999",
+          "lonString": "-97.311918",
           "message": "[pt31o0][fo1]IH-820 EASTBOUND[nl]AT BEACH[nl]ALL LANES CLOSED[np]IH-820 EASTBOUND[nl]AT BEACH[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -15232,7 +15232,7 @@
           "latitude": 32.733965,
           "latString": "32.733965",
           "longitude": -97.32043999999999,
-          "lonString": "-97.32043999999999",
+          "lonString": "-97.32044",
           "message": "[pt30o0][fo1][jl3]IH20[nl]5 MILES[nl]5 MINUTES",
           "messagePages": [
             {
@@ -15314,7 +15314,7 @@
           "latitude": 32.680372,
           "latString": "32.680372",
           "longitude": -97.32036699999999,
-          "lonString": "-97.32036699999999",
+          "lonString": "-97.320367",
           "message": "[jl3]",
           "messagePages": [
             {
@@ -15533,7 +15533,7 @@
           "icd_Id": "I35W.Keller Hicks.NB",
           "isDedicated": false,
           "latitude": 32.941705999999996,
-          "latString": "32.941705999999996",
+          "latString": "32.941706",
           "longitude": -97.312801,
           "lonString": "-97.312801",
           "message": "[pt0o0]",
@@ -15837,7 +15837,7 @@
           "latitude": 32.739803,
           "latString": "32.739803",
           "longitude": -97.22469099999999,
-          "lonString": "-97.22469099999999",
+          "lonString": "-97.224691",
           "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT CRAIG[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT CRAIG[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -16097,7 +16097,7 @@
           "icd_Id": "SH121.Glade.SB.DMS",
           "isDedicated": false,
           "latitude": 32.882757999999995,
-          "latString": "32.882757999999995",
+          "latString": "32.882758",
           "longitude": -97.099243,
           "lonString": "-97.099243",
           "message": "[pt0o0]",
@@ -16175,7 +16175,7 @@
           "icd_Id": "S121.Fairview.SB",
           "isDedicated": false,
           "latitude": 32.785247999999996,
-          "latString": "32.785247999999996",
+          "latString": "32.785248",
           "longitude": -97.274371,
           "lonString": "-97.274371",
           "message": "[pt31o0][fo1]IH-820 EASTBOUND[nl]AT BEACH[nl]ALL LANES CLOSED[np]IH-820 EASTBOUND[nl]AT BEACH[nl]FOR CONSTRUCTION",
@@ -16376,7 +16376,7 @@
           "icd_Id": "S121.Hall-Johnson.NB",
           "isDedicated": false,
           "latitude": 32.892379999999996,
-          "latString": "32.892379999999996",
+          "latString": "32.89238",
           "longitude": -97.09894,
           "lonString": "-97.09894",
           "message": "[pt31o0][fo1]SH-114 EASTBOUND[nl]AT TEXAN TRAIL[nl]SLOW TRAFFIC[np]SH-114 EASTBOUND[nl]AT TEXAN TRAIL[nl]WORK CREWS AHEAD",
@@ -16550,7 +16550,7 @@
           "latitude": 32.837976,
           "latString": "32.837976",
           "longitude": -97.07542099999999,
-          "lonString": "-97.07542099999999",
+          "lonString": "-97.075421",
           "message": "[pt31o0][fo1]IH-820 WESTBOUND[nl]AT RUFE SNOW[nl]ALL LANES CLOSED[np]IH-820 WESTBOUND[nl]AT RUFE SNOW[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -16708,7 +16708,7 @@
           "latitude": 32.888068,
           "latString": "32.888068",
           "longitude": -97.53904399999999,
-          "lonString": "-97.53904399999999",
+          "lonString": "-97.539044",
           "message": "[pt0o0]",
           "messagePages": [
             {
@@ -16821,7 +16821,7 @@
           "latitude": 32.789186,
           "latString": "32.789186",
           "longitude": -97.05838399999999,
-          "lonString": "-97.05838399999999",
+          "lonString": "-97.058384",
           "message": "[pt31o0][fo2]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]RIGHT RAMP CLOSED[np]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]FOR CONSTRUCTION",
           "messagePages": [
             {
@@ -17289,7 +17289,7 @@
           "latitude": 32.704574,
           "latString": "32.704574",
           "longitude": -97.26648399999999,
-          "lonString": "-97.26648399999999",
+          "lonString": "-97.266484",
           "message": "[pt0o0]",
           "messagePages": [
             {
@@ -17322,7 +17322,7 @@
           "latitude": 32.59173,
           "latString": "32.59173",
           "longitude": -97.14217599999999,
-          "lonString": "-97.14217599999999",
+          "lonString": "-97.142176",
           "message": "[pt0o0]",
           "messagePages": [
             {
@@ -17531,9 +17531,9 @@
               "icd_Id": "I20.Green Oaks Trail EB",
               "isDedicated": false,
               "latitude": 33.265758999999996,
-              "latString": "33.265758999999996",
+              "latString": "33.265759",
               "longitude": -98.30336299999999,
-              "lonString": "-98.30336299999999",
+              "lonString": "-98.303363",
               "message": "[jl3]",
               "messagePages": [
                 {
@@ -17616,7 +17616,7 @@
               "latitude": 32.675712,
               "latString": "32.675712",
               "longitude": -97.17064599999999,
-              "lonString": "-97.17064599999999",
+              "lonString": "-97.170646",
               "message": "[jl3]",
               "messagePages": [
                 {
@@ -17654,7 +17654,7 @@
               "icd_Id": "I20.Bowman Springs.WB",
               "isDedicated": false,
               "latitude": 32.668096999999996,
-              "latString": "32.668096999999996",
+              "latString": "32.668097",
               "longitude": -97.222802,
               "lonString": "-97.222802",
               "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]AT CRAIG[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT CRAIG[nl]FOR CONSTRUCTION",
@@ -17884,7 +17884,7 @@
               "latitude": 32.675179,
               "latString": "32.675179",
               "longitude": -97.38219699999999,
-              "lonString": "-97.38219699999999",
+              "lonString": "-97.382197",
               "message": "[jl3]",
               "messagePages": [
                 {
@@ -17924,7 +17924,7 @@
               "latitude": 32.737038,
               "latString": "32.737038",
               "longitude": -97.63900799999999,
-              "lonString": "-97.63900799999999",
+              "lonString": "-97.639008",
               "message": "[pt31o0][fo1]IH-20 WESTBOUND[nl]AT SH-180[nl]LEFT LANE CLOSED[np]IH-20 WESTBOUND[nl]AT SH-180[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -18120,7 +18120,7 @@
               "latitude": 32.711698,
               "latString": "32.711698",
               "longitude": -97.30485499999999,
-              "lonString": "-97.30485499999999",
+              "lonString": "-97.304855",
               "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT CRAIG[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT CRAIG[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -18341,7 +18341,7 @@
               "latitude": 32.759893,
               "latString": "32.759893",
               "longitude": -97.04028699999999,
-              "lonString": "-97.04028699999999",
+              "lonString": "-97.040287",
               "message": "[pt31o0][fo1]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]RIGHT RAMP CLOSED[np]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -18519,7 +18519,7 @@
               "latitude": 32.759485,
               "latString": "32.759485",
               "longitude": -97.03752999999999,
-              "lonString": "-97.03752999999999",
+              "lonString": "-97.03753",
               "message": "[pt22o0][fo1][jl3]OPEN",
               "messagePages": [
                 {
@@ -18760,7 +18760,7 @@
               "latitude": 32.737958,
               "latString": "32.737958",
               "longitude": -97.46659199999999,
-              "lonString": "-97.46659199999999",
+              "lonString": "-97.466592",
               "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]IH820 17 MINUTES",
               "messagePages": [
                 {
@@ -18843,7 +18843,7 @@
               "latitude": 32.759856,
               "latString": "32.759856",
               "longitude": -97.24485399999999,
-              "lonString": "-97.24485399999999",
+              "lonString": "-97.244854",
               "message": "[pt31o0][fo2]IH-820 NORTHBOUND[nl]TO SH-121[nl]ALL LANES CLSD[np]IH-820 NORTHBOUND[nl]TO SH-121[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -19025,7 +19025,7 @@
               "latitude": 32.945215,
               "latString": "32.945215",
               "longitude": -97.31191799999999,
-              "lonString": "-97.31191799999999",
+              "lonString": "-97.311918",
               "message": "[pt31o0][fo1]IH-820 EASTBOUND[nl]AT BEACH[nl]ALL LANES CLOSED[np]IH-820 EASTBOUND[nl]AT BEACH[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -19129,7 +19129,7 @@
               "latitude": 32.733965,
               "latString": "32.733965",
               "longitude": -97.32043999999999,
-              "lonString": "-97.32043999999999",
+              "lonString": "-97.32044",
               "message": "[pt30o0][fo1][jl3]IH20[nl]5 MILES[nl]5 MINUTES",
               "messagePages": [
                 {
@@ -19225,7 +19225,7 @@
               "latitude": 32.680372,
               "latString": "32.680372",
               "longitude": -97.32036699999999,
-              "lonString": "-97.32036699999999",
+              "lonString": "-97.320367",
               "message": "[jl3]",
               "messagePages": [
                 {
@@ -19486,7 +19486,7 @@
               "icd_Id": "I35W.Keller Hicks.NB",
               "isDedicated": false,
               "latitude": 32.941705999999996,
-              "latString": "32.941705999999996",
+              "latString": "32.941706",
               "longitude": -97.312801,
               "lonString": "-97.312801",
               "message": "[pt0o0]",
@@ -19846,7 +19846,7 @@
               "latitude": 32.739803,
               "latString": "32.739803",
               "longitude": -97.22469099999999,
-              "lonString": "-97.22469099999999",
+              "lonString": "-97.224691",
               "message": "[pt31o0][fo1]IH-820 NORTHBOUND[nl]AT CRAIG[nl]RIGHT LANE CLOSED[np]IH-820 NORTHBOUND[nl]AT CRAIG[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -20148,7 +20148,7 @@
               "icd_Id": "SH121.Glade.SB.DMS",
               "isDedicated": false,
               "latitude": 32.882757999999995,
-              "latString": "32.882757999999995",
+              "latString": "32.882758",
               "longitude": -97.099243,
               "lonString": "-97.099243",
               "message": "[pt0o0]",
@@ -20240,7 +20240,7 @@
               "icd_Id": "S121.Fairview.SB",
               "isDedicated": false,
               "latitude": 32.785247999999996,
-              "latString": "32.785247999999996",
+              "latString": "32.785248",
               "longitude": -97.274371,
               "lonString": "-97.274371",
               "message": "[pt31o0][fo1]IH-820 EASTBOUND[nl]AT BEACH[nl]ALL LANES CLOSED[np]IH-820 EASTBOUND[nl]AT BEACH[nl]FOR CONSTRUCTION",
@@ -20476,7 +20476,7 @@
               "icd_Id": "S121.Hall-Johnson.NB",
               "isDedicated": false,
               "latitude": 32.892379999999996,
-              "latString": "32.892379999999996",
+              "latString": "32.89238",
               "longitude": -97.09894,
               "lonString": "-97.09894",
               "message": "[pt31o0][fo1]SH-114 EASTBOUND[nl]AT TEXAN TRAIL[nl]SLOW TRAFFIC[np]SH-114 EASTBOUND[nl]AT TEXAN TRAIL[nl]WORK CREWS AHEAD",
@@ -20678,7 +20678,7 @@
               "latitude": 32.837976,
               "latString": "32.837976",
               "longitude": -97.07542099999999,
-              "lonString": "-97.07542099999999",
+              "lonString": "-97.075421",
               "message": "[pt31o0][fo1]IH-820 WESTBOUND[nl]AT RUFE SNOW[nl]ALL LANES CLOSED[np]IH-820 WESTBOUND[nl]AT RUFE SNOW[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -20864,7 +20864,7 @@
               "latitude": 32.888068,
               "latString": "32.888068",
               "longitude": -97.53904399999999,
-              "lonString": "-97.53904399999999",
+              "lonString": "-97.539044",
               "message": "[pt0o0]",
               "messagePages": [
                 {
@@ -20998,7 +20998,7 @@
               "latitude": 32.789186,
               "latString": "32.789186",
               "longitude": -97.05838399999999,
-              "lonString": "-97.05838399999999",
+              "lonString": "-97.058384",
               "message": "[pt31o0][fo2]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]RIGHT RAMP CLOSED[np]SH-360 SOUTHBOUND[nl]TO IH-20 EAST[nl]FOR CONSTRUCTION",
               "messagePages": [
                 {
@@ -21550,7 +21550,7 @@
               "latitude": 32.704574,
               "latString": "32.704574",
               "longitude": -97.26648399999999,
-              "lonString": "-97.26648399999999",
+              "lonString": "-97.266484",
               "message": "[pt0o0]",
               "messagePages": [
                 {
@@ -21590,7 +21590,7 @@
               "latitude": 32.59173,
               "latString": "32.59173",
               "longitude": -97.14217599999999,
-              "lonString": "-97.14217599999999",
+              "lonString": "-97.142176",
               "message": "[pt0o0]",
               "messagePages": [
                 {
