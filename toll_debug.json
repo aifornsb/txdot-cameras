@@ -266,13 +266,13 @@
           "latString": "32.646875",
           "longitude": -96.78390999999999,
           "lonString": "-96.78391",
-          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US67",
                 "6 MILES",
-                "6 MINUTES"
+                "5 MINUTES"
               ],
               "pageNo": 0
             },
@@ -526,13 +526,13 @@
           "latString": "32.670299",
           "longitude": -96.969382,
           "lonString": "-96.969382",
-          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US67",
                 "6 MILES",
-                "5 MINUTES"
+                "6 MINUTES"
               ],
               "pageNo": 0
             },
@@ -1320,12 +1320,12 @@
           "latString": "32.815998",
           "longitude": -96.642659,
           "lonString": "-96.642659",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]7   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]7   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]11 MILES",
-                "10   MINS"
+                "11   MINS"
               ],
               "pageNo": 0
             },
@@ -1644,12 +1644,12 @@
           "latString": "32.791236",
           "longitude": -96.755749,
           "lonString": "-96.755749",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]4 MILES",
-                "4   MINS"
+                "5   MINS"
               ],
               "pageNo": 0
             },
@@ -1987,13 +1987,13 @@
           "latString": "33.41936",
           "longitude": -97.17603,
           "lonString": "-97.17603",
-          "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]11 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]12 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US380",
                 "13 MILES",
-                "11 MINUTES"
+                "12 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2929,12 +2929,12 @@
           "latString": "32.809509",
           "longitude": -96.845764,
           "lonString": "-96.845764",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-553]8 MILES",
-                "7   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
@@ -2999,7 +2999,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -3017,21 +3017,19 @@
           "latString": "32.799759",
           "longitude": -96.821485,
           "lonString": "-96.821485",
-          "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]12 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]7 MILES   [nl15]7   MINS   ",
           "messagePages": [
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "ACCIDENT"
+                "[p1imgcl-417]12 MILES",
+                "11   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "EXIT RAMP CLOSED"
+                "[p2imgcl-558]7 MILES",
+                "7   MINS"
               ],
               "pageNo": 2
             }
@@ -3328,12 +3326,12 @@
           "latString": "33.168581",
           "longitude": -97.082797,
           "lonString": "-97.082797",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-404]7 MILES",
-                "6   MINS"
+                "7   MINS"
               ],
               "pageNo": 0
             },
@@ -3416,7 +3414,7 @@
           "latString": "32.783163",
           "longitude": -96.788325,
           "lonString": "-96.788325",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]9   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -3428,7 +3426,7 @@
             {
               "lines": [
                 "[p2imgcl-553]10 MILES",
-                "9   MINS"
+                "10   MINS"
               ],
               "pageNo": 2
             }
@@ -3754,7 +3752,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -3772,21 +3770,19 @@
           "latString": "32.786489",
           "longitude": -96.79246599999999,
           "lonString": "-96.792466",
-          "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]10 MILES   [nl15]9   MINS   ",
           "messagePages": [
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "ACCIDENT"
+                "[p1imgcl-387]6 MILES",
+                "6   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "EXIT RAMP CLOSED"
+                "[p2imgcl-417]10 MILES",
+                "9   MINS"
               ],
               "pageNo": 2
             }
@@ -3819,7 +3815,7 @@
           "latString": "32.848374",
           "longitude": -96.63966599999999,
           "lonString": "-96.639666",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]9   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]8   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -3831,7 +3827,7 @@
             {
               "lines": [
                 "[p2imgcl-420]6 MILES",
-                "9   MINS"
+                "8   MINS"
               ],
               "pageNo": 2
             }
@@ -3997,21 +3993,21 @@
           "latString": "32.903624",
           "longitude": -96.722296,
           "lonString": "-96.722296",
-          "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+          "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
           "messagePages": [
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
+                "US75 NORTH",
+                "AT LEGACY",
                 "ACCIDENT"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "EXIT RAMP CLOSED"
+                "US75 NORTH",
+                "AT LEGACY",
+                "3 LEFT LANES CLOSED"
               ],
               "pageNo": 2
             }
@@ -4087,13 +4083,13 @@
           "latString": "32.799398",
           "longitude": -96.62577499999999,
           "lonString": "-96.625775",
-          "message": "[pt32o3][fo1][jl3]JUPITER RD[nl]7 MILES[nl]8 MINUTES[np][jl3]US75[nl]12 MILES[nl]12 MINUTES",
+          "message": "[pt32o3][fo1][jl3]JUPITER RD[nl]7 MILES[nl]7 MINUTES[np][jl3]US75[nl]12 MILES[nl]12 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "JUPITER RD",
                 "7 MILES",
-                "8 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -4402,7 +4398,7 @@
           "latString": "32.85965",
           "longitude": -96.902743,
           "lonString": "-96.902743",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]12   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]13   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -4414,7 +4410,7 @@
             {
               "lines": [
                 "[p2imgcl-417]14 MILES",
-                "12   MINS"
+                "13   MINS"
               ],
               "pageNo": 2
             }
@@ -4617,13 +4613,13 @@
           "latString": "32.911962",
           "longitude": -97.003039,
           "lonString": "-97.003039",
-          "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]7 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]10 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "LOOP 12",
                 "7 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -4631,7 +4627,7 @@
               "lines": [
                 "IH35E",
                 "10 MILES",
-                "9 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 2
             }
@@ -5078,7 +5074,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -5096,23 +5092,15 @@
           "latString": "32.787682",
           "longitude": -96.80338499999999,
           "lonString": "-96.803385",
-          "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+          "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]10 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "ACCIDENT"
+                "IH635 ON US75",
+                "10 MILES",
+                "10 MINUTES"
               ],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "EXIT RAMP CLOSED"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "Spur 366.EB.Akard",
@@ -5491,12 +5479,12 @@
           "latString": "32.635957",
           "longitude": -96.89654399999999,
           "lonString": "-96.896544",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]6 MILES",
-                "6   MINS"
+                "5   MINS"
               ],
               "pageNo": 0
             },
@@ -5534,13 +5522,13 @@
           "latString": "32.66167",
           "longitude": -96.870052,
           "lonString": "-96.870052",
-          "message": "[pt32o3][fo1][jl3]MARSALIS AVE[nl]6 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
+          "message": "[pt32o3][fo1][jl3]MARSALIS AVE[nl]6 MILES[nl]5 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "MARSALIS AVE",
                 "6 MILES",
-                "6 MINUTES"
+                "5 MINUTES"
               ],
               "pageNo": 0
             },
@@ -5579,13 +5567,13 @@
           "latString": "32.679888",
           "longitude": -96.85375599999999,
           "lonString": "-96.853756",
-          "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]7 MINUTES",
+          "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]6 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30",
                 "7 MILES",
-                "7 MINUTES"
+                "6 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5618,7 +5606,7 @@
           "latString": "32.810557",
           "longitude": -96.792053,
           "lonString": "-96.792053",
-          "message": "[pt22o0][fo2][jl3][jp2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]2 LEFT LANES CLOSED",
+          "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
           "messagePages": [
             {
               "lines": [
@@ -5632,7 +5620,7 @@
               "lines": [
                 "US75 NORTH",
                 "AT LEGACY",
-                "2 LEFT LANES CLOSED"
+                "3 LEFT LANES CLOSED"
               ],
               "pageNo": 2
             }
@@ -5645,7 +5633,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -5663,21 +5651,19 @@
           "latString": "32.810585",
           "longitude": -96.792034,
           "lonString": "-96.792034",
-          "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-425][jl4][jp3]5 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]8 MILES   [nl15]8   MINS   ",
           "messagePages": [
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "ACCIDENT"
+                "[p1imgcl-425]5 MILES",
+                "5   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "EXIT RAMP CLOSED"
+                "[p2imgcl-387]8 MILES",
+                "8   MINS"
               ],
               "pageNo": 2
             }
@@ -5796,21 +5782,21 @@
           "latString": "32.913652",
           "longitude": -96.768087,
           "lonString": "-96.768087",
-          "message": "[pt22o0][fo1][jl3][jp2]IH635 SOUTH[nl]AT CENTERVILLE[nl]ALL LANES CLOSED[np]IH635 SOUTH[nl]AT CENTERVILLE[nl]ACCIDENT",
+          "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
           "messagePages": [
             {
               "lines": [
-                "IH635 SOUTH",
-                "AT CENTERVILLE",
-                "ALL LANES CLOSED"
+                "US75 NORTH",
+                "AT LEGACY",
+                "ACCIDENT"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH635 SOUTH",
-                "AT CENTERVILLE",
-                "ACCIDENT"
+                "US75 NORTH",
+                "AT LEGACY",
+                "3 LEFT LANES CLOSED"
               ],
               "pageNo": 2
             }
@@ -5886,7 +5872,7 @@
           "latString": "32.983481",
           "longitude": -96.711269,
           "lonString": "-96.711269",
-          "message": "[pt22o0][fo2][jl3][jp2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]2 LEFT LANES CLOSED",
+          "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
           "messagePages": [
             {
               "lines": [
@@ -5900,7 +5886,7 @@
               "lines": [
                 "US75 NORTH",
                 "AT LEGACY",
-                "2 LEFT LANES CLOSED"
+                "3 LEFT LANES CLOSED"
               ],
               "pageNo": 2
             }
@@ -5958,7 +5944,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -5976,21 +5962,21 @@
           "latString": "32.896765",
           "longitude": -96.769616,
           "lonString": "-96.769616",
-          "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "ACCIDENT"
+                "WOODALL RODGERS",
+                "7 MILES",
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH45 SOUTH",
-                "AT LIVE OAK ST",
-                "EXIT RAMP CLOSED"
+                "IH30",
+                "9 MILES",
+                "8 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6439,13 +6425,13 @@
               "latString": "32.646875",
               "longitude": -96.78390999999999,
               "lonString": "-96.78391",
-              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US67",
                     "6 MILES",
-                    "6 MINUTES"
+                    "5 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -6741,13 +6727,13 @@
               "latString": "32.670299",
               "longitude": -96.969382,
               "lonString": "-96.969382",
-              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US67",
                     "6 MILES",
-                    "5 MINUTES"
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -7668,12 +7654,12 @@
               "latString": "32.815998",
               "longitude": -96.642659,
               "lonString": "-96.642659",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]7   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]11 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-422][jl4][jp3]7 MILES   [nl15]7   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]11 MILES",
-                    "10   MINS"
+                    "11   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -8048,12 +8034,12 @@
               "latString": "32.791236",
               "longitude": -96.755749,
               "lonString": "-96.755749",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]4 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]10 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]4 MILES",
-                    "4   MINS"
+                    "5   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -8454,13 +8440,13 @@
               "latString": "33.41936",
               "longitude": -97.17603,
               "lonString": "-97.17603",
-              "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]11 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]12 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US380",
                     "13 MILES",
-                    "11 MINUTES"
+                    "12 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -9550,12 +9536,12 @@
               "latString": "32.809509",
               "longitude": -96.845764,
               "lonString": "-96.845764",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-553]8 MILES",
-                    "7   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -9634,7 +9620,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -9652,21 +9638,19 @@
               "latString": "32.799759",
               "longitude": -96.821485,
               "lonString": "-96.821485",
-              "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]12 MILES   [nl15]11   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]7 MILES   [nl15]7   MINS   ",
               "messagePages": [
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "ACCIDENT"
+                    "[p1imgcl-417]12 MILES",
+                    "11   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "EXIT RAMP CLOSED"
+                    "[p2imgcl-558]7 MILES",
+                    "7   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10012,12 +9996,12 @@
               "latString": "33.168581",
               "longitude": -97.082797,
               "lonString": "-97.082797",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-404][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-509][jl4][jp3]17 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-404]7 MILES",
-                    "6   MINS"
+                    "7   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -10114,7 +10098,7 @@
               "latString": "32.783163",
               "longitude": -96.788325,
               "lonString": "-96.788325",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]9   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -10126,7 +10110,7 @@
                 {
                   "lines": [
                     "[p2imgcl-553]10 MILES",
-                    "9   MINS"
+                    "10   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10508,7 +10492,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -10526,21 +10510,19 @@
               "latString": "32.786489",
               "longitude": -96.79246599999999,
               "lonString": "-96.792466",
-              "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]10 MILES   [nl15]9   MINS   ",
               "messagePages": [
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "ACCIDENT"
+                    "[p1imgcl-387]6 MILES",
+                    "6   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "EXIT RAMP CLOSED"
+                    "[p2imgcl-417]10 MILES",
+                    "9   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10580,7 +10562,7 @@
               "latString": "32.848374",
               "longitude": -96.63966599999999,
               "lonString": "-96.639666",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]9   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-417][jl4][jp3]11 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-420][jl4][jp3]6 MILES   [nl15]8   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -10592,7 +10574,7 @@
                 {
                   "lines": [
                     "[p2imgcl-420]6 MILES",
-                    "9   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10786,21 +10768,21 @@
               "latString": "32.903624",
               "longitude": -96.722296,
               "lonString": "-96.722296",
-              "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+              "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
               "messagePages": [
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
+                    "US75 NORTH",
+                    "AT LEGACY",
                     "ACCIDENT"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "EXIT RAMP CLOSED"
+                    "US75 NORTH",
+                    "AT LEGACY",
+                    "3 LEFT LANES CLOSED"
                   ],
                   "pageNo": 2
                 }
@@ -10890,13 +10872,13 @@
               "latString": "32.799398",
               "longitude": -96.62577499999999,
               "lonString": "-96.625775",
-              "message": "[pt32o3][fo1][jl3]JUPITER RD[nl]7 MILES[nl]8 MINUTES[np][jl3]US75[nl]12 MILES[nl]12 MINUTES",
+              "message": "[pt32o3][fo1][jl3]JUPITER RD[nl]7 MILES[nl]7 MINUTES[np][jl3]US75[nl]12 MILES[nl]12 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "JUPITER RD",
                     "7 MILES",
-                    "8 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -11254,7 +11236,7 @@
               "latString": "32.85965",
               "longitude": -96.902743,
               "lonString": "-96.902743",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]12   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]13   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -11266,7 +11248,7 @@
                 {
                   "lines": [
                     "[p2imgcl-417]14 MILES",
-                    "12   MINS"
+                    "13   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11504,13 +11486,13 @@
               "latString": "32.911962",
               "longitude": -97.003039,
               "lonString": "-97.003039",
-              "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]7 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]10 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "LOOP 12",
                     "7 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -11518,7 +11500,7 @@
                   "lines": [
                     "IH35E",
                     "10 MILES",
-                    "9 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -12042,7 +12024,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -12060,23 +12042,15 @@
               "latString": "32.787682",
               "longitude": -96.80338499999999,
               "lonString": "-96.803385",
-              "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+              "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]10 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "ACCIDENT"
+                    "IH635 ON US75",
+                    "10 MILES",
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "EXIT RAMP CLOSED"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "Spur 366.EB.Akard",
@@ -12518,12 +12492,12 @@
               "latString": "32.635957",
               "longitude": -96.89654399999999,
               "lonString": "-96.896544",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]6 MILES",
-                    "6   MINS"
+                    "5   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -12568,13 +12542,13 @@
               "latString": "32.66167",
               "longitude": -96.870052,
               "lonString": "-96.870052",
-              "message": "[pt32o3][fo1][jl3]MARSALIS AVE[nl]6 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
+              "message": "[pt32o3][fo1][jl3]MARSALIS AVE[nl]6 MILES[nl]5 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "MARSALIS AVE",
                     "6 MILES",
-                    "6 MINUTES"
+                    "5 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -12620,13 +12594,13 @@
               "latString": "32.679888",
               "longitude": -96.85375599999999,
               "lonString": "-96.853756",
-              "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]7 MINUTES",
+              "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]6 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30",
                     "7 MILES",
-                    "7 MINUTES"
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -12666,7 +12640,7 @@
               "latString": "32.810557",
               "longitude": -96.792053,
               "lonString": "-96.792053",
-              "message": "[pt22o0][fo2][jl3][jp2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]2 LEFT LANES CLOSED",
+              "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
               "messagePages": [
                 {
                   "lines": [
@@ -12680,7 +12654,7 @@
                   "lines": [
                     "US75 NORTH",
                     "AT LEGACY",
-                    "2 LEFT LANES CLOSED"
+                    "3 LEFT LANES CLOSED"
                   ],
                   "pageNo": 2
                 }
@@ -12700,7 +12674,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -12718,21 +12692,19 @@
               "latString": "32.810585",
               "longitude": -96.792034,
               "lonString": "-96.792034",
-              "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-425][jl4][jp3]5 MILES   [nl15]5   MINS   [np][pt32o3][jl3][p2imgcl-387][jl4][jp3]8 MILES   [nl15]8   MINS   ",
               "messagePages": [
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "ACCIDENT"
+                    "[p1imgcl-425]5 MILES",
+                    "5   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "EXIT RAMP CLOSED"
+                    "[p2imgcl-387]8 MILES",
+                    "8   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12872,21 +12844,21 @@
               "latString": "32.913652",
               "longitude": -96.768087,
               "lonString": "-96.768087",
-              "message": "[pt22o0][fo1][jl3][jp2]IH635 SOUTH[nl]AT CENTERVILLE[nl]ALL LANES CLOSED[np]IH635 SOUTH[nl]AT CENTERVILLE[nl]ACCIDENT",
+              "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
               "messagePages": [
                 {
                   "lines": [
-                    "IH635 SOUTH",
-                    "AT CENTERVILLE",
-                    "ALL LANES CLOSED"
+                    "US75 NORTH",
+                    "AT LEGACY",
+                    "ACCIDENT"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH635 SOUTH",
-                    "AT CENTERVILLE",
-                    "ACCIDENT"
+                    "US75 NORTH",
+                    "AT LEGACY",
+                    "3 LEFT LANES CLOSED"
                   ],
                   "pageNo": 2
                 }
@@ -12976,7 +12948,7 @@
               "latString": "32.983481",
               "longitude": -96.711269,
               "lonString": "-96.711269",
-              "message": "[pt22o0][fo2][jl3][jp2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]2 LEFT LANES CLOSED",
+              "message": "[pt22o0][fo2]US75 NORTH[nl]AT LEGACY[nl]ACCIDENT[np]US75 NORTH[nl]AT LEGACY[nl]3 LEFT LANES CLOSED",
               "messagePages": [
                 {
                   "lines": [
@@ -12990,7 +12962,7 @@
                   "lines": [
                     "US75 NORTH",
                     "AT LEGACY",
-                    "2 LEFT LANES CLOSED"
+                    "3 LEFT LANES CLOSED"
                   ],
                   "pageNo": 2
                 }
@@ -13062,7 +13034,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -13080,21 +13052,21 @@
               "latString": "32.896765",
               "longitude": -96.769616,
               "lonString": "-96.769616",
-              "message": "[pt22o0][fo1]IH45 SOUTH[nl]AT LIVE OAK ST[nl]ACCIDENT[np]IH45 SOUTH[nl]AT LIVE OAK ST[nl]EXIT RAMP CLOSED",
+              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "ACCIDENT"
+                    "WOODALL RODGERS",
+                    "7 MILES",
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH45 SOUTH",
-                    "AT LIVE OAK ST",
-                    "EXIT RAMP CLOSED"
+                    "IH30",
+                    "9 MILES",
+                    "8 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13778,12 +13750,12 @@
           "latString": "32.676685",
           "longitude": -97.044919,
           "lonString": "-97.044919",
-          "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 20 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 18 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH820 12 MINUTES",
-                "IH35W 20 MINUTES"
+                "IH35W 18 MINUTES"
               ],
               "pageNo": 0
             }
@@ -13847,12 +13819,12 @@
           "latString": "32.677759",
           "longitude": -97.085627,
           "lonString": "-97.085627",
-          "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 19 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 18 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH820 9 MINUTES",
-                "IH35W 19 MINUTES"
+                "IH35W 18 MINUTES"
               ],
               "pageNo": 0
             }
@@ -13916,12 +13888,12 @@
           "latString": "32.668097",
           "longitude": -97.222802,
           "lonString": "-97.222802",
-          "message": "[pt30o0][fo1][jl3]IH35W 10 MINUTES[nl]US377 16 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH35W 8 MINUTES[nl]US377 14 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35W 10 MINUTES",
-                "US377 16 MINUTES"
+                "IH35W 8 MINUTES",
+                "US377 14 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15353,12 +15325,12 @@
           "latString": "32.789911",
           "longitude": -97.214907,
           "lonString": "-97.214907",
-          "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 16 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 15 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30 < 5 MINUTES",
-                "IH20 16 MINUTES"
+                "IH20 15 MINUTES"
               ],
               "pageNo": 0
             }
@@ -17011,12 +16983,12 @@
               "latString": "32.676685",
               "longitude": -97.044919,
               "lonString": "-97.044919",
-              "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 20 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 12 MINUTES[nl]IH35W 18 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH820 12 MINUTES",
-                    "IH35W 20 MINUTES"
+                    "IH35W 18 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17094,12 +17066,12 @@
               "latString": "32.677759",
               "longitude": -97.085627,
               "lonString": "-97.085627",
-              "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 19 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 9 MINUTES[nl]IH35W 18 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH820 9 MINUTES",
-                    "IH35W 19 MINUTES"
+                    "IH35W 18 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17177,12 +17149,12 @@
               "latString": "32.668097",
               "longitude": -97.222802,
               "lonString": "-97.222802",
-              "message": "[pt30o0][fo1][jl3]IH35W 10 MINUTES[nl]US377 16 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH35W 8 MINUTES[nl]US377 14 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35W 10 MINUTES",
-                    "US377 16 MINUTES"
+                    "IH35W 8 MINUTES",
+                    "US377 14 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18901,12 +18873,12 @@
               "latString": "32.789911",
               "longitude": -97.214907,
               "lonString": "-97.214907",
-              "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 16 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 15 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30 < 5 MINUTES",
-                    "IH20 16 MINUTES"
+                    "IH20 15 MINUTES"
                   ],
                   "pageNo": 0
                 }
