@@ -266,13 +266,13 @@
           "latString": "32.646875",
           "longitude": -96.78390999999999,
           "lonString": "-96.78391",
-          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US67",
                 "6 MILES",
-                "5 MINUTES"
+                "6 MINUTES"
               ],
               "pageNo": 0
             },
@@ -354,7 +354,7 @@
           "latString": "32.667583",
           "longitude": -96.91887299999999,
           "lonString": "-96.918873",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]8 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -368,7 +368,7 @@
               "lines": [
                 "SH360",
                 "8 MILES",
-                "8 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 2
             }
@@ -944,13 +944,13 @@
           "latString": "32.975383",
           "longitude": -96.317123,
           "lonString": "-96.317123",
-          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]13 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SH205",
                 "9 MILES",
-                "13 MINUTES"
+                "12 MINUTES"
               ],
               "pageNo": 0
             },
@@ -989,12 +989,12 @@
           "latString": "32.761813",
           "longitude": -96.951639,
           "lonString": "-96.951639",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]8 MILES",
-                "8   MINS"
+                "7   MINS"
               ],
               "pageNo": 0
             },
@@ -1077,13 +1077,13 @@
           "latString": "32.903859",
           "longitude": -96.455004,
           "lonString": "-96.455004",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "PGBT (SH190)",
                 "7 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -1814,7 +1814,7 @@
           "latString": "32.767126",
           "longitude": -96.894373,
           "lonString": "-96.894373",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]18 MILES   [nl15]19   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]18 MILES   [nl15]18   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -1826,7 +1826,7 @@
             {
               "lines": [
                 "[p2imgcl-431]18 MILES",
-                "19   MINS"
+                "18   MINS"
               ],
               "pageNo": 2
             }
@@ -1999,13 +1999,13 @@
           "latString": "33.41936",
           "longitude": -97.17603,
           "lonString": "-97.17603",
-          "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]12 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]11 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US380",
                 "13 MILES",
-                "12 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2089,13 +2089,13 @@
           "latString": "33.230895",
           "longitude": -97.174606,
           "lonString": "-97.174606",
-          "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 113 MINUTES[nl]IH35W 76 MINUTES",
+          "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 113 MINUTES[nl]IH35W 77 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "HILLSBORO VIA",
                 "IH35E 113 MINUTES",
-                "IH35W 76 MINUTES"
+                "IH35W 77 MINUTES"
               ],
               "pageNo": 0
             }
@@ -2259,7 +2259,7 @@
           "latString": "33.195519",
           "longitude": -97.13409399999999,
           "lonString": "-97.134094",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]16   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2271,7 +2271,7 @@
             {
               "lines": [
                 "[p2imgcl-515]17 MILES",
-                "15   MINS"
+                "16   MINS"
               ],
               "pageNo": 2
             }
@@ -3610,7 +3610,7 @@
           "latString": "32.28257",
           "longitude": -96.53598199999999,
           "lonString": "-96.535982",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]35 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]36 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -3624,7 +3624,7 @@
               "lines": [
                 "IH30",
                 "39 MILES",
-                "35 MINUTES"
+                "36 MINUTES"
               ],
               "pageNo": 2
             }
@@ -4150,12 +4150,12 @@
           "latString": "32.859094",
           "longitude": -96.65308499999999,
           "lonString": "-96.653085",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-518]8 MILES",
-                "7   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
@@ -4416,7 +4416,7 @@
           "latString": "32.85965",
           "longitude": -96.902743,
           "lonString": "-96.902743",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]13   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -4428,7 +4428,7 @@
             {
               "lines": [
                 "[p2imgcl-417]14 MILES",
-                "13   MINS"
+                "12   MINS"
               ],
               "pageNo": 2
             }
@@ -5202,7 +5202,7 @@
           "latString": "32.595761",
           "longitude": -96.37283099999999,
           "lonString": "-96.372831",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]15   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]16   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -5214,7 +5214,7 @@
             {
               "lines": [
                 "[p2imgcl-417]17 MILES",
-                "15   MINS"
+                "16   MINS"
               ],
               "pageNo": 2
             }
@@ -5773,7 +5773,7 @@
           "latString": "32.892336",
           "longitude": -96.76875299999999,
           "lonString": "-96.768753",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]18 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]17 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -5787,7 +5787,7 @@
               "lines": [
                 "SRT (SH121)",
                 "20 MILES",
-                "18 MINUTES"
+                "17 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6082,7 +6082,7 @@
           "latString": "33.099355",
           "longitude": -96.67846999999999,
           "lonString": "-96.67847",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-515][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-404][jl4][jp3]8 MILES   [nl15]8   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-515][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-404][jl4][jp3]8 MILES   [nl15]7   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -6094,7 +6094,7 @@
             {
               "lines": [
                 "[p2imgcl-404]8 MILES",
-                "8   MINS"
+                "7   MINS"
               ],
               "pageNo": 2
             }
@@ -6125,13 +6125,13 @@
           "latString": "33.223152",
           "longitude": -96.634604,
           "lonString": "-96.634604",
-          "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]9 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
+          "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "ANNA",
                 "9 MILES",
-                "9 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6455,13 +6455,13 @@
               "latString": "32.646875",
               "longitude": -96.78390999999999,
               "lonString": "-96.78391",
-              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]5 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US67",
                     "6 MILES",
-                    "5 MINUTES"
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -6557,7 +6557,7 @@
               "latString": "32.667583",
               "longitude": -96.91887299999999,
               "lonString": "-96.918873",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]8 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH161)[nl]6 MILES[nl]6 MINUTES[np][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -6571,7 +6571,7 @@
                   "lines": [
                     "SH360",
                     "8 MILES",
-                    "8 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7245,13 +7245,13 @@
               "latString": "32.975383",
               "longitude": -96.317123,
               "lonString": "-96.317123",
-              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]13 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SH205",
                     "9 MILES",
-                    "13 MINUTES"
+                    "12 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -7297,12 +7297,12 @@
               "latString": "32.761813",
               "longitude": -96.951639,
               "lonString": "-96.951639",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]8 MILES",
-                    "8   MINS"
+                    "7   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -7399,13 +7399,13 @@
               "latString": "32.903859",
               "longitude": -96.455004,
               "lonString": "-96.455004",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "PGBT (SH190)",
                     "7 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -8262,7 +8262,7 @@
               "latString": "32.767126",
               "longitude": -96.894373,
               "lonString": "-96.894373",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]18 MILES   [nl15]19   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-554][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-431][jl4][jp3]18 MILES   [nl15]18   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -8274,7 +8274,7 @@
                 {
                   "lines": [
                     "[p2imgcl-431]18 MILES",
-                    "19   MINS"
+                    "18   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -8482,13 +8482,13 @@
               "latString": "33.41936",
               "longitude": -97.17603,
               "lonString": "-97.17603",
-              "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]12 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US380[nl]13 MILES[nl]11 MINUTES[np][jl3]FM156[nl]7 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US380",
                     "13 MILES",
-                    "12 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -8586,13 +8586,13 @@
               "latString": "33.230895",
               "longitude": -97.174606,
               "lonString": "-97.174606",
-              "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 113 MINUTES[nl]IH35W 76 MINUTES",
+              "message": "[pt32o3][fo1][jl3]HILLSBORO VIA[nl]IH35E 113 MINUTES[nl]IH35W 77 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "HILLSBORO VIA",
                     "IH35E 113 MINUTES",
-                    "IH35W 76 MINUTES"
+                    "IH35W 77 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -8784,7 +8784,7 @@
               "latString": "33.195519",
               "longitude": -97.13409399999999,
               "lonString": "-97.134094",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-551][jl4][jp3]7 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-515][jl4][jp3]17 MILES   [nl15]16   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -8796,7 +8796,7 @@
                 {
                   "lines": [
                     "[p2imgcl-515]17 MILES",
-                    "15   MINS"
+                    "16   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10352,7 +10352,7 @@
               "latString": "32.28257",
               "longitude": -96.53598199999999,
               "lonString": "-96.535982",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]35 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]36 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -10366,7 +10366,7 @@
                   "lines": [
                     "IH30",
                     "39 MILES",
-                    "35 MINUTES"
+                    "36 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -10976,12 +10976,12 @@
               "latString": "32.859094",
               "longitude": -96.65308499999999,
               "lonString": "-96.653085",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-518]8 MILES",
-                    "7   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -11284,7 +11284,7 @@
               "latString": "32.85965",
               "longitude": -96.902743,
               "lonString": "-96.902743",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]13   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -11296,7 +11296,7 @@
                 {
                   "lines": [
                     "[p2imgcl-417]14 MILES",
-                    "13   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12196,7 +12196,7 @@
               "latString": "32.595761",
               "longitude": -96.37283099999999,
               "lonString": "-96.372831",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]15   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]16   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -12208,7 +12208,7 @@
                 {
                   "lines": [
                     "[p2imgcl-417]17 MILES",
-                    "15   MINS"
+                    "16   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12858,7 +12858,7 @@
               "latString": "32.892336",
               "longitude": -96.76875299999999,
               "lonString": "-96.768753",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]18 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]9 MILES[nl]8 MINUTES[np][jl3]SRT (SH121)[nl]20 MILES[nl]17 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -12872,7 +12872,7 @@
                   "lines": [
                     "SRT (SH121)",
                     "20 MILES",
-                    "18 MINUTES"
+                    "17 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13216,7 +13216,7 @@
               "latString": "33.099355",
               "longitude": -96.67846999999999,
               "lonString": "-96.67847",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-515][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-404][jl4][jp3]8 MILES   [nl15]8   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-515][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-404][jl4][jp3]8 MILES   [nl15]7   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -13228,7 +13228,7 @@
                 {
                   "lines": [
                     "[p2imgcl-404]8 MILES",
-                    "8   MINS"
+                    "7   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -13266,13 +13266,13 @@
               "latString": "33.223152",
               "longitude": -96.634604,
               "lonString": "-96.634604",
-              "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]9 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
+              "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "ANNA",
                     "9 MILES",
-                    "9 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13930,7 +13930,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -13939,11 +13939,8 @@
             "roadway": "IH-20",
             "roadwayWithoutHyphensOrSpaces": "IH20"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I20.Bowman Springs.WB",
           "isDedicated": false,
@@ -13951,23 +13948,14 @@
           "latString": "32.668097",
           "longitude": -97.222802,
           "lonString": "-97.222802",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]US377 13 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
+                "IH35W 7 MINUTES",
+                "US377 13 MINUTES"
               ],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "I20.Bowman Springs.WB",
@@ -14297,13 +14285,13 @@
           "latString": "32.675826",
           "longitude": -97.188114,
           "lonString": "-97.188114",
-          "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]8 MINUTES",
+          "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SH360",
                 "8 MILES",
-                "8 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14325,11 +14313,8 @@
             "roadway": "IH-20",
             "roadwayWithoutHyphensOrSpaces": "IH20"
           },
-          "graphicMsgImageList": [
-            "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",
-            "iVBORw0KGgoAAAANSUhEUgAAAH0AAAAbCAYAAABRLYBiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAcYSURBVGhD7VoHbE5dGH78Vq2oHYL8QSrUqFFb+CNWqF177xoxY4ZaEZtSW5sapUqNVgmRGqUIEVtIrCBGYu95nOd7v+t+re+vNql+X/U+ycm999z33HPufe973vd9zsmC1OFfXe7IqQU3wn+6HJXT3+Mf+9FCJoJLLb1NG6B+feDsWWDnTqBoUWDMGODtW2D9emDKFCB3biB7duDePeDhQ6BbN+DpU6BgQeDAAWDpUqB7d2DQIKBFC+DzZyAkBHj3DihTBti4EahdW+quXZPz1q2BadNkDFn0Fzh4EIiMBDZsABYv/lXWywvIlg348kXGxjHmyiX9jxgBnDoFbN8uMgTlJk8GBg8234Vj5th9fIBjx4D9+0U2jZBxLP3+faB0aeDGDbnmh8mRQ5Rctqx8PH64fv2AK1cADw/5gF27Sr23t7Rr3Bg4fhyoXh0oXhzIkweYOBHw95dnJoc6dURptWrZK5yAP1BAgPQ7cCDw5g3Qti2wdSvQqlVimY4dgehooGVL812MMdzR5sL3vXVLrjMKaOkqPYq2XKUt45e6CxegtJJUXBxUlSpQ+udQQUFyDA4WOT17qNhYkWvaFEpbr4qJgYqIkPrZs81nLlsGpWcE27FCBeeyehZSCQlQ8fFQ4eHSLiwMKl8+qE2boDw9oUJDofRMZbunZ4hEfaRD0b99yuG2Pp2W7Wh9+iOiUCFg/nygXj3gyROZ+jkLPHsGNG8OlCih5zk90ZUrJxbYrJlMvwQtn5Y6a5ZcE3QndAF0C8+fA717S31S2devgXbtgIYNgR49gBo1gJw5gV69pF2nTiJnQP+MNnfkrnDr6H3dOvGdnCavXxefTh+5bZsoa/ly4MMHoGdP4NMn8e2sL19e2uXNK36XU6ozn055/jj05fTte/fKz8Q44f98OvHypcQKdAv8cdasAb590xakTYiFcn37Au/fi3w6IFU+3UrZ/g5YKZuF5GEpPRPCUnomhEt9+q5dEvmSqGC0/uoVsGgRsGUL8PGjBGE8JxhoHT4sJAjz3QEDgEqVpN3588CCBSI3dqzk3g8eAIULA2vXAitXAjVrAt+/S/tLl6RtxYrA1avA6dNCnPC5zPEZeTNAvHhR+h8yBMif3+yDgZ5O12zBHWUfPZIIn3k7QYJn82ZAp5c28ok5e+XK8kwGjuyT5E0aIlU+PbVI0zxdK115eED5+kLpj6G0Qmy5uY58lY6CVWSkKcvcOzAQSkfaidob5yxaYSoqyrz284PSqZuKjobSkb7tmTt2yD2dESidBdjO+ew5c+ScMnwuj4cOQXl7Q2ll/nwmZZcsMa91BqCGDpWjUcdc38fHlOezjbEmfa80KhkrT6dF01JDQ4EXL8SiSKXSKh8/tgtpML0KC5N7zMOdgRQnUzsDMTGSXl2+rL+M/jRNmthvOEH79kB8vKRhnB3Y/4wZkh6OHm0X0qDFnjtnv9AwrPt3yJoViIgAjhyRWciVcLnSmeeSPiUZwinz61ep1xaBIkXknFMu828SLqRuhw2T+qTgdEqlGKCymLNT4ZMmCWfOj+8Mu3cL+ZKQYPbLaZ8UsSOVyx+I7sPAvHkyPkeQSyhVSs4LFJB3Yh7Pd2zUCPD0lOIquFzp5LG5sEKl0CppWWS9Fi6UhRiiQwdRyqpV8pHJuRuLG44g/802tPDVq+VnMnh9+lP6ZLJ2yYFjIctHZTnDyZPCxtHCGR+QFGK/5ORpyXrqt81a48bJNWMMjtuwdLbhYhHf1VWwyJm/AxY5YyF5WErPhLCUngnhNj6dUXZwsETgVatK8BYXB9y+Lfd55DIml0t5JLjMytUyynJTA6N7EimM1gmdk9uIGC7Ljh8v6VxsrOzYYQpIcoaBHneysG8usfJ5zBC4QkfiZ+pUIWhIwjBVZErHQHHkSClEeLj0U62aSRidOQN06QLcvSsyJ05IH38IGYeccSz9+0MFBMg5N0eULPkr+aIVZyNbHOso4+8PpaP1RPVeXlA6A1AhIVA6cnbalhsitHJ/XmulqwkT5JxtdMZga9e5synDTRMNGkCtWGHWOT7HGDP7d5T5wyVjbqLg+jTzXVoSSRHSmszNSZiwBAaKHDc2GHXcVEEZWrExIxhgThwVJRaqlZRicGME0zJaJilhrqVzK5YBw6JTAm7jMsbap4+90g3gNkpnbq6tCHXrAnv2CLdORZIwYZk5U+SmTzfruGOG0yc3OzAnN4gZ5sTcdcM6EiVUZEpBzpx8Od0Mf6qbNxMzedwVQ3dAXt8AN2wYLsURR/WEa4yVP7W7wG2UTh9I8oKFu064uVBP8T/ruDuFGyNHjTLruIWJdCkxfLgsrNAXk/Xi80iKkCwhtVusmNl27lxpkxzoy7nVijtu/PyAoCDZsUvGjtbOuILX+/ZJHQmapPD1Nceakj7TCxY583fAImcsJAfgByijy79IgUIOAAAAAElFTkSuQmCC"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I20.Forest Hill.EB",
           "isDedicated": false,
@@ -14337,12 +14322,12 @@
           "latString": "32.711698",
           "longitude": -97.30485499999999,
           "lonString": "-97.304855",
-          "message": "[pt31o0][fo1][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[pt31o0][fo2]***CRASH AHEAD***[nl]I30 AT WOODHAVEN BLVD[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT WOODHAVEN BLVD[nl]SEEK ALT ROUTE",
           "messagePages": [
             {
               "lines": [
                 "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
+                "I30 AT WOODHAVEN BLVD",
                 "ALL LANES CLOSED"
               ],
               "pageNo": 0
@@ -14350,7 +14335,7 @@
             {
               "lines": [
                 "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
+                "I30 AT WOODHAVEN BLVD",
                 "SEEK ALT ROUTE"
               ],
               "pageNo": 2
@@ -14505,7 +14490,7 @@
       ],
       "IH30": [
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -14514,35 +14499,20 @@
             "roadway": "IH-30",
             "roadwayWithoutHyphensOrSpaces": "IH30"
           },
-          "graphicMsgImageList": [
-            "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",
-            "iVBORw0KGgoAAAANSUhEUgAAAH0AAAAbCAYAAABRLYBiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAcYSURBVGhD7VoHbE5dGH78Vq2oHYL8QSrUqFFb+CNWqF177xoxY4ZaEZtSW5sapUqNVgmRGqUIEVtIrCBGYu95nOd7v+t+re+vNql+X/U+ycm999z33HPufe973vd9zsmC1OFfXe7IqQU3wn+6HJXT3+Mf+9FCJoJLLb1NG6B+feDsWWDnTqBoUWDMGODtW2D9emDKFCB3biB7duDePeDhQ6BbN+DpU6BgQeDAAWDpUqB7d2DQIKBFC+DzZyAkBHj3DihTBti4EahdW+quXZPz1q2BadNkDFn0Fzh4EIiMBDZsABYv/lXWywvIlg348kXGxjHmyiX9jxgBnDoFbN8uMgTlJk8GBg8234Vj5th9fIBjx4D9+0U2jZBxLP3+faB0aeDGDbnmh8mRQ5Rctqx8PH64fv2AK1cADw/5gF27Sr23t7Rr3Bg4fhyoXh0oXhzIkweYOBHw95dnJoc6dURptWrZK5yAP1BAgPQ7cCDw5g3Qti2wdSvQqlVimY4dgehooGVL812MMdzR5sL3vXVLrjMKaOkqPYq2XKUt45e6CxegtJJUXBxUlSpQ+udQQUFyDA4WOT17qNhYkWvaFEpbr4qJgYqIkPrZs81nLlsGpWcE27FCBeeyehZSCQlQ8fFQ4eHSLiwMKl8+qE2boDw9oUJDofRMZbunZ4hEfaRD0b99yuG2Pp2W7Wh9+iOiUCFg/nygXj3gyROZ+jkLPHsGNG8OlCih5zk90ZUrJxbYrJlMvwQtn5Y6a5ZcE3QndAF0C8+fA717S31S2devgXbtgIYNgR49gBo1gJw5gV69pF2nTiJnQP+MNnfkrnDr6H3dOvGdnCavXxefTh+5bZsoa/ly4MMHoGdP4NMn8e2sL19e2uXNK36XU6ozn055/jj05fTte/fKz8Q44f98OvHypcQKdAv8cdasAb590xakTYiFcn37Au/fi3w6IFU+3UrZ/g5YKZuF5GEpPRPCUnomhEt9+q5dEvmSqGC0/uoVsGgRsGUL8PGjBGE8JxhoHT4sJAjz3QEDgEqVpN3588CCBSI3dqzk3g8eAIULA2vXAitXAjVrAt+/S/tLl6RtxYrA1avA6dNCnPC5zPEZeTNAvHhR+h8yBMif3+yDgZ5O12zBHWUfPZIIn3k7QYJn82ZAp5c28ok5e+XK8kwGjuyT5E0aIlU+PbVI0zxdK115eED5+kLpj6G0Qmy5uY58lY6CVWSkKcvcOzAQSkfaidob5yxaYSoqyrz284PSqZuKjobSkb7tmTt2yD2dESidBdjO+ew5c+ScMnwuj4cOQXl7Q2ll/nwmZZcsMa91BqCGDpWjUcdc38fHlOezjbEmfa80KhkrT6dF01JDQ4EXL8SiSKXSKh8/tgtpML0KC5N7zMOdgRQnUzsDMTGSXl2+rL+M/jRNmthvOEH79kB8vKRhnB3Y/4wZkh6OHm0X0qDFnjtnv9AwrPt3yJoViIgAjhyRWciVcLnSmeeSPiUZwinz61ep1xaBIkXknFMu828SLqRuhw2T+qTgdEqlGKCymLNT4ZMmCWfOj+8Mu3cL+ZKQYPbLaZ8UsSOVyx+I7sPAvHkyPkeQSyhVSs4LFJB3Yh7Pd2zUCPD0lOIquFzp5LG5sEKl0CppWWS9Fi6UhRiiQwdRyqpV8pHJuRuLG44g/802tPDVq+VnMnh9+lP6ZLJ2yYFjIctHZTnDyZPCxtHCGR+QFGK/5ORpyXrqt81a48bJNWMMjtuwdLbhYhHf1VWwyJm/AxY5YyF5WErPhLCUngnhNj6dUXZwsETgVatK8BYXB9y+Lfd55DIml0t5JLjMytUyynJTA6N7EimM1gmdk9uIGC7Ljh8v6VxsrOzYYQpIcoaBHneysG8usfJ5zBC4QkfiZ+pUIWhIwjBVZErHQHHkSClEeLj0U62aSRidOQN06QLcvSsyJ05IH38IGYeccSz9+0MFBMg5N0eULPkr+aIVZyNbHOso4+8PpaP1RPVeXlA6A1AhIVA6cnbalhsitHJ/XmulqwkT5JxtdMZga9e5synDTRMNGkCtWGHWOT7HGDP7d5T5wyVjbqLg+jTzXVoSSRHSmszNSZiwBAaKHDc2GHXcVEEZWrExIxhgThwVJRaqlZRicGME0zJaJilhrqVzK5YBw6JTAm7jMsbap4+90g3gNkpnbq6tCHXrAnv2CLdORZIwYZk5U+SmTzfruGOG0yc3OzAnN4gZ5sTcdcM6EiVUZEpBzpx8Od0Mf6qbNxMzedwVQ3dAXt8AN2wYLsURR/WEa4yVP7W7wG2UTh9I8oKFu064uVBP8T/ruDuFGyNHjTLruIWJdCkxfLgsrNAXk/Xi80iKkCwhtVusmNl27lxpkxzoy7nVijtu/PyAoCDZsUvGjtbOuILX+/ZJHQmapPD1Nceakj7TCxY583fAImcsJAfgByijy79IgUIOAAAAAElFTkSuQmCC"
-          ],
-          "hasGraphics": true,
-          "hasMessages": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
+          "hasMessages": false,
           "icd_Id": "IH30.Duncan Perry.WB",
           "isDedicated": false,
           "latitude": 32.759893,
           "latString": "32.759893",
           "longitude": -97.04028699999999,
           "lonString": "-97.040287",
-          "message": "[pt31o0][fo1][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[jl3]",
           "messagePages": [
             {
-              "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
-              ],
+              "lines": [],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "IH30.Duncan Perry.WB",
@@ -14726,7 +14696,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -14735,11 +14705,8 @@
             "roadway": "IH-30",
             "roadwayWithoutHyphensOrSpaces": "IH30"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I30.Sandy Lane.WB",
           "isDedicated": false,
@@ -14747,23 +14714,15 @@
           "latString": "32.759537",
           "longitude": -97.19767,
           "lonString": "-97.19767",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[pt30o0][fo1][jl3]IH35W[nl]5 MILES[nl]6 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
+                "IH35W",
+                "5 MILES",
+                "6 MINUTES"
               ],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "I30.Sandy Lane.WB",
@@ -14774,7 +14733,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -14783,11 +14742,8 @@
             "roadway": "IH-30",
             "roadwayWithoutHyphensOrSpaces": "IH30"
           },
-          "graphicMsgImageList": [
-            "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",
-            "iVBORw0KGgoAAAANSUhEUgAAAH0AAAAbCAYAAABRLYBiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAcYSURBVGhD7VoHbE5dGH78Vq2oHYL8QSrUqFFb+CNWqF177xoxY4ZaEZtSW5sapUqNVgmRGqUIEVtIrCBGYu95nOd7v+t+re+vNql+X/U+ycm999z33HPufe973vd9zsmC1OFfXe7IqQU3wn+6HJXT3+Mf+9FCJoJLLb1NG6B+feDsWWDnTqBoUWDMGODtW2D9emDKFCB3biB7duDePeDhQ6BbN+DpU6BgQeDAAWDpUqB7d2DQIKBFC+DzZyAkBHj3DihTBti4EahdW+quXZPz1q2BadNkDFn0Fzh4EIiMBDZsABYv/lXWywvIlg348kXGxjHmyiX9jxgBnDoFbN8uMgTlJk8GBg8234Vj5th9fIBjx4D9+0U2jZBxLP3+faB0aeDGDbnmh8mRQ5Rctqx8PH64fv2AK1cADw/5gF27Sr23t7Rr3Bg4fhyoXh0oXhzIkweYOBHw95dnJoc6dURptWrZK5yAP1BAgPQ7cCDw5g3Qti2wdSvQqlVimY4dgehooGVL812MMdzR5sL3vXVLrjMKaOkqPYq2XKUt45e6CxegtJJUXBxUlSpQ+udQQUFyDA4WOT17qNhYkWvaFEpbr4qJgYqIkPrZs81nLlsGpWcE27FCBeeyehZSCQlQ8fFQ4eHSLiwMKl8+qE2boDw9oUJDofRMZbunZ4hEfaRD0b99yuG2Pp2W7Wh9+iOiUCFg/nygXj3gyROZ+jkLPHsGNG8OlCih5zk90ZUrJxbYrJlMvwQtn5Y6a5ZcE3QndAF0C8+fA717S31S2devgXbtgIYNgR49gBo1gJw5gV69pF2nTiJnQP+MNnfkrnDr6H3dOvGdnCavXxefTh+5bZsoa/ly4MMHoGdP4NMn8e2sL19e2uXNK36XU6ozn055/jj05fTte/fKz8Q44f98OvHypcQKdAv8cdasAb590xakTYiFcn37Au/fi3w6IFU+3UrZ/g5YKZuF5GEpPRPCUnomhEt9+q5dEvmSqGC0/uoVsGgRsGUL8PGjBGE8JxhoHT4sJAjz3QEDgEqVpN3588CCBSI3dqzk3g8eAIULA2vXAitXAjVrAt+/S/tLl6RtxYrA1avA6dNCnPC5zPEZeTNAvHhR+h8yBMif3+yDgZ5O12zBHWUfPZIIn3k7QYJn82ZAp5c28ok5e+XK8kwGjuyT5E0aIlU+PbVI0zxdK115eED5+kLpj6G0Qmy5uY58lY6CVWSkKcvcOzAQSkfaidob5yxaYSoqyrz284PSqZuKjobSkb7tmTt2yD2dESidBdjO+ew5c+ScMnwuj4cOQXl7Q2ll/nwmZZcsMa91BqCGDpWjUcdc38fHlOezjbEmfa80KhkrT6dF01JDQ4EXL8SiSKXSKh8/tgtpML0KC5N7zMOdgRQnUzsDMTGSXl2+rL+M/jRNmthvOEH79kB8vKRhnB3Y/4wZkh6OHm0X0qDFnjtnv9AwrPt3yJoViIgAjhyRWciVcLnSmeeSPiUZwinz61ep1xaBIkXknFMu828SLqRuhw2T+qTgdEqlGKCymLNT4ZMmCWfOj+8Mu3cL+ZKQYPbLaZ8UsSOVyx+I7sPAvHkyPkeQSyhVSs4LFJB3Yh7Pd2zUCPD0lOIquFzp5LG5sEKl0CppWWS9Fi6UhRiiQwdRyqpV8pHJuRuLG44g/802tPDVq+VnMnh9+lP6ZLJ2yYFjIctHZTnDyZPCxtHCGR+QFGK/5ORpyXrqt81a48bJNWMMjtuwdLbhYhHf1VWwyJm/AxY5YyF5WErPhLCUngnhNj6dUXZwsETgVatK8BYXB9y+Lfd55DIml0t5JLjMytUyynJTA6N7EimM1gmdk9uIGC7Ljh8v6VxsrOzYYQpIcoaBHneysG8usfJ5zBC4QkfiZ+pUIWhIwjBVZErHQHHkSClEeLj0U62aSRidOQN06QLcvSsyJ05IH38IGYeccSz9+0MFBMg5N0eULPkr+aIVZyNbHOso4+8PpaP1RPVeXlA6A1AhIVA6cnbalhsitHJ/XmulqwkT5JxtdMZga9e5synDTRMNGkCtWGHWOT7HGDP7d5T5wyVjbqLg+jTzXVoSSRHSmszNSZiwBAaKHDc2GHXcVEEZWrExIxhgThwVJRaqlZRicGME0zJaJilhrqVzK5YBw6JTAm7jMsbap4+90g3gNkpnbq6tCHXrAnv2CLdORZIwYZk5U+SmTzfruGOG0yc3OzAnN4gZ5sTcdcM6EiVUZEpBzpx8Od0Mf6qbNxMzedwVQ3dAXt8AN2wYLsURR/WEa4yVP7W7wG2UTh9I8oKFu064uVBP8T/ruDuFGyNHjTLruIWJdCkxfLgsrNAXk/Xi80iKkCwhtVusmNl27lxpkxzoy7nVijtu/PyAoCDZsUvGjtbOuILX+/ZJHQmapPD1Nceakj7TCxY583fAImcsJAfgByijy79IgUIOAAAAAElFTkSuQmCC"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I30.Country Club.WB",
           "isDedicated": false,
@@ -14795,23 +14751,14 @@
           "latString": "32.760804",
           "longitude": -97.234144,
           "lonString": "-97.234144",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[pt30o0][fo1][jl3]IH35W 5 MINUTES[nl]IH820 31 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
+                "IH35W 5 MINUTES",
+                "IH820 31 MINUTES"
               ],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "I30.Country Club.WB",
@@ -15465,7 +15412,7 @@
       ],
       "IH820": [
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -15474,11 +15421,8 @@
             "roadway": "IH-820",
             "roadwayWithoutHyphensOrSpaces": "IH820"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I820.Trinity.SB",
           "isDedicated": false,
@@ -15486,23 +15430,14 @@
           "latString": "32.789911",
           "longitude": -97.214907,
           "lonString": "-97.214907",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 16 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
+                "IH30 < 5 MINUTES",
+                "IH20 16 MINUTES"
               ],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "I820.Trinity.SB",
@@ -15720,11 +15655,8 @@
             "roadway": "IH-820",
             "roadwayWithoutHyphensOrSpaces": "IH820"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "I820.Craig.NB",
           "isDedicated": false,
@@ -15732,12 +15664,12 @@
           "latString": "32.739803",
           "longitude": -97.22469099999999,
           "lonString": "-97.224691",
-          "message": "[pt31o0][fo1][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[pt31o0][fo2]***CRASH AHEAD***[nl]I30 AT WOODHAVEN BLVD[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT WOODHAVEN BLVD[nl]SEEK ALT ROUTE",
           "messagePages": [
             {
               "lines": [
                 "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
+                "I30 AT WOODHAVEN BLVD",
                 "ALL LANES CLOSED"
               ],
               "pageNo": 0
@@ -15745,7 +15677,7 @@
             {
               "lines": [
                 "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
+                "I30 AT WOODHAVEN BLVD",
                 "SEEK ALT ROUTE"
               ],
               "pageNo": 2
@@ -15961,7 +15893,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -15970,35 +15902,20 @@
             "roadway": "SH-121",
             "roadwayWithoutHyphensOrSpaces": "SH121"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
-          "hasMessages": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
+          "hasMessages": false,
           "icd_Id": "S121.Harwood.SB",
           "isDedicated": false,
           "latitude": 32.8506,
           "latString": "32.8506",
           "longitude": -97.140721,
           "lonString": "-97.140721",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[jl3]",
           "messagePages": [
             {
-              "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
-              ],
+              "lines": [],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "S121.Harwood.SB",
@@ -16310,7 +16227,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -16319,35 +16236,20 @@
             "roadway": "SH-183 E/W/SH-121 N",
             "roadwayWithoutHyphensOrSpaces": "SH183E/W/SH121N"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
-          "hasMessages": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
+          "hasMessages": false,
           "icd_Id": "S183.American.WB",
           "isDedicated": false,
           "latitude": 32.837976,
           "latString": "32.837976",
           "longitude": -97.07542099999999,
           "lonString": "-97.075421",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[jl3]",
           "messagePages": [
             {
-              "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
-              ],
+              "lines": [],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "S183.American.WB",
@@ -16560,7 +16462,7 @@
       ],
       "SH360": [
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -16569,11 +16471,8 @@
             "roadway": "SH-360",
             "roadwayWithoutHyphensOrSpaces": "SH360"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
           "hasMessages": true,
           "icd_Id": "S360.Green Oaks.SB",
           "isDedicated": false,
@@ -16581,23 +16480,15 @@
           "latString": "32.789186",
           "longitude": -97.05838399999999,
           "lonString": "-97.058384",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[pt30o0][fo1][jl3]IH20[nl]7 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
+                "IH20",
+                "7 MILES",
+                "7 MINUTES"
               ],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "S360.Green Oaks.SB",
@@ -16743,7 +16634,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -16752,35 +16643,20 @@
             "roadway": "SH-360",
             "roadwayWithoutHyphensOrSpaces": "SH360"
           },
-          "graphicMsgImageList": [
-            "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",
-            "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"
-          ],
-          "hasGraphics": true,
-          "hasMessages": true,
+          "graphicMsgImageList": null,
+          "hasGraphics": false,
+          "hasMessages": false,
           "icd_Id": "S360.Park Row.NB",
           "isDedicated": false,
           "latitude": 32.725952,
           "latString": "32.725952",
           "longitude": -97.064628,
           "lonString": "-97.064628",
-          "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+          "message": "[jl3]",
           "messagePages": [
             {
-              "lines": [
-                "***CRASH AHEAD***",
-                "I30 AT CNTRY CLUB",
-                "ALL LANES CLOSED"
-              ],
+              "lines": [],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "* *CRASH AHEAD* *",
-                "I30 AT CNTRY CLUB",
-                "SEEK ALT ROUTE"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "S360.Park Row.NB",
@@ -17368,7 +17244,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -17377,11 +17253,8 @@
                 "roadway": "IH-20",
                 "roadwayWithoutHyphensOrSpaces": "IH20"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I20.Bowman Springs.WB",
               "isDedicated": false,
@@ -17389,23 +17262,14 @@
               "latString": "32.668097",
               "longitude": -97.222802,
               "lonString": "-97.222802",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[pt30o0][fo1][jl3]IH35W 7 MINUTES[nl]US377 13 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
+                    "IH35W 7 MINUTES",
+                    "US377 13 MINUTES"
                   ],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "I20.Bowman Springs.WB",
@@ -17805,13 +17669,13 @@
               "latString": "32.675826",
               "longitude": -97.188114,
               "lonString": "-97.188114",
-              "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]8 MINUTES",
+              "message": "[pt30o0][fo1][jl3]SH360[nl]8 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SH360",
                     "8 MILES",
-                    "8 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17840,11 +17704,8 @@
                 "roadway": "IH-20",
                 "roadwayWithoutHyphensOrSpaces": "IH20"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I20.Forest Hill.EB",
               "isDedicated": false,
@@ -17852,12 +17713,12 @@
               "latString": "32.711698",
               "longitude": -97.30485499999999,
               "lonString": "-97.304855",
-              "message": "[pt31o0][fo1][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[pt31o0][fo2]***CRASH AHEAD***[nl]I30 AT WOODHAVEN BLVD[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT WOODHAVEN BLVD[nl]SEEK ALT ROUTE",
               "messagePages": [
                 {
                   "lines": [
                     "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
+                    "I30 AT WOODHAVEN BLVD",
                     "ALL LANES CLOSED"
                   ],
                   "pageNo": 0
@@ -17865,7 +17726,7 @@
                 {
                   "lines": [
                     "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
+                    "I30 AT WOODHAVEN BLVD",
                     "SEEK ALT ROUTE"
                   ],
                   "pageNo": 2
@@ -18055,7 +17916,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -18064,35 +17925,20 @@
                 "roadway": "IH-30",
                 "roadwayWithoutHyphensOrSpaces": "IH30"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
-              "hasMessages": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
+              "hasMessages": false,
               "icd_Id": "IH30.Duncan Perry.WB",
               "isDedicated": false,
               "latitude": 32.759893,
               "latString": "32.759893",
               "longitude": -97.04028699999999,
               "lonString": "-97.040287",
-              "message": "[pt31o0][fo1][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[jl3]",
               "messagePages": [
                 {
-                  "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
-                  ],
+                  "lines": [],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "IH30.Duncan Perry.WB",
@@ -18318,7 +18164,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -18327,11 +18173,8 @@
                 "roadway": "IH-30",
                 "roadwayWithoutHyphensOrSpaces": "IH30"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I30.Sandy Lane.WB",
               "isDedicated": false,
@@ -18339,23 +18182,15 @@
               "latString": "32.759537",
               "longitude": -97.19767,
               "lonString": "-97.19767",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[pt30o0][fo1][jl3]IH35W[nl]5 MILES[nl]6 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
+                    "IH35W",
+                    "5 MILES",
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "I30.Sandy Lane.WB",
@@ -18373,7 +18208,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -18382,11 +18217,8 @@
                 "roadway": "IH-30",
                 "roadwayWithoutHyphensOrSpaces": "IH30"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I30.Country Club.WB",
               "isDedicated": false,
@@ -18394,23 +18226,14 @@
               "latString": "32.760804",
               "longitude": -97.234144,
               "lonString": "-97.234144",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[pt30o0][fo1][jl3]IH35W 5 MINUTES[nl]IH820 31 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
+                    "IH35W 5 MINUTES",
+                    "IH820 31 MINUTES"
                   ],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "I30.Country Club.WB",
@@ -19197,7 +19020,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -19206,11 +19029,8 @@
                 "roadway": "IH-820",
                 "roadwayWithoutHyphensOrSpaces": "IH820"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I820.Trinity.SB",
               "isDedicated": false,
@@ -19218,23 +19038,14 @@
               "latString": "32.789911",
               "longitude": -97.214907,
               "lonString": "-97.214907",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 16 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
+                    "IH30 < 5 MINUTES",
+                    "IH20 16 MINUTES"
                   ],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "I820.Trinity.SB",
@@ -19501,11 +19312,8 @@
                 "roadway": "IH-820",
                 "roadwayWithoutHyphensOrSpaces": "IH820"
               },
-              "graphicMsgImageList": [
-                "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",
-                "iVBORw0KGgoAAAANSUhEUgAAAH0AAAAbCAYAAABRLYBiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAcYSURBVGhD7VoHbE5dGH78Vq2oHYL8QSrUqFFb+CNWqF177xoxY4ZaEZtSW5sapUqNVgmRGqUIEVtIrCBGYu95nOd7v+t+re+vNql+X/U+ycm999z33HPufe973vd9zsmC1OFfXe7IqQU3wn+6HJXT3+Mf+9FCJoJLLb1NG6B+feDsWWDnTqBoUWDMGODtW2D9emDKFCB3biB7duDePeDhQ6BbN+DpU6BgQeDAAWDpUqB7d2DQIKBFC+DzZyAkBHj3DihTBti4EahdW+quXZPz1q2BadNkDFn0Fzh4EIiMBDZsABYv/lXWywvIlg348kXGxjHmyiX9jxgBnDoFbN8uMgTlJk8GBg8234Vj5th9fIBjx4D9+0U2jZBxLP3+faB0aeDGDbnmh8mRQ5Rctqx8PH64fv2AK1cADw/5gF27Sr23t7Rr3Bg4fhyoXh0oXhzIkweYOBHw95dnJoc6dURptWrZK5yAP1BAgPQ7cCDw5g3Qti2wdSvQqlVimY4dgehooGVL812MMdzR5sL3vXVLrjMKaOkqPYq2XKUt45e6CxegtJJUXBxUlSpQ+udQQUFyDA4WOT17qNhYkWvaFEpbr4qJgYqIkPrZs81nLlsGpWcE27FCBeeyehZSCQlQ8fFQ4eHSLiwMKl8+qE2boDw9oUJDofRMZbunZ4hEfaRD0b99yuG2Pp2W7Wh9+iOiUCFg/nygXj3gyROZ+jkLPHsGNG8OlCih5zk90ZUrJxbYrJlMvwQtn5Y6a5ZcE3QndAF0C8+fA717S31S2devgXbtgIYNgR49gBo1gJw5gV69pF2nTiJnQP+MNnfkrnDr6H3dOvGdnCavXxefTh+5bZsoa/ly4MMHoGdP4NMn8e2sL19e2uXNK36XU6ozn055/jj05fTte/fKz8Q44f98OvHypcQKdAv8cdasAb590xakTYiFcn37Au/fi3w6IFU+3UrZ/g5YKZuF5GEpPRPCUnomhEt9+q5dEvmSqGC0/uoVsGgRsGUL8PGjBGE8JxhoHT4sJAjz3QEDgEqVpN3588CCBSI3dqzk3g8eAIULA2vXAitXAjVrAt+/S/tLl6RtxYrA1avA6dNCnPC5zPEZeTNAvHhR+h8yBMif3+yDgZ5O12zBHWUfPZIIn3k7QYJn82ZAp5c28ok5e+XK8kwGjuyT5E0aIlU+PbVI0zxdK115eED5+kLpj6G0Qmy5uY58lY6CVWSkKcvcOzAQSkfaidob5yxaYSoqyrz284PSqZuKjobSkb7tmTt2yD2dESidBdjO+ew5c+ScMnwuj4cOQXl7Q2ll/nwmZZcsMa91BqCGDpWjUcdc38fHlOezjbEmfa80KhkrT6dF01JDQ4EXL8SiSKXSKh8/tgtpML0KC5N7zMOdgRQnUzsDMTGSXl2+rL+M/jRNmthvOEH79kB8vKRhnB3Y/4wZkh6OHm0X0qDFnjtnv9AwrPt3yJoViIgAjhyRWciVcLnSmeeSPiUZwinz61ep1xaBIkXknFMu828SLqRuhw2T+qTgdEqlGKCymLNT4ZMmCWfOj+8Mu3cL+ZKQYPbLaZ8UsSOVyx+I7sPAvHkyPkeQSyhVSs4LFJB3Yh7Pd2zUCPD0lOIquFzp5LG5sEKl0CppWWS9Fi6UhRiiQwdRyqpV8pHJuRuLG44g/802tPDVq+VnMnh9+lP6ZLJ2yYFjIctHZTnDyZPCxtHCGR+QFGK/5ORpyXrqt81a48bJNWMMjtuwdLbhYhHf1VWwyJm/AxY5YyF5WErPhLCUngnhNj6dUXZwsETgVatK8BYXB9y+Lfd55DIml0t5JLjMytUyynJTA6N7EimM1gmdk9uIGC7Ljh8v6VxsrOzYYQpIcoaBHneysG8usfJ5zBC4QkfiZ+pUIWhIwjBVZErHQHHkSClEeLj0U62aSRidOQN06QLcvSsyJ05IH38IGYeccSz9+0MFBMg5N0eULPkr+aIVZyNbHOso4+8PpaP1RPVeXlA6A1AhIVA6cnbalhsitHJ/XmulqwkT5JxtdMZga9e5synDTRMNGkCtWGHWOT7HGDP7d5T5wyVjbqLg+jTzXVoSSRHSmszNSZiwBAaKHDc2GHXcVEEZWrExIxhgThwVJRaqlZRicGME0zJaJilhrqVzK5YBw6JTAm7jMsbap4+90g3gNkpnbq6tCHXrAnv2CLdORZIwYZk5U+SmTzfruGOG0yc3OzAnN4gZ5sTcdcM6EiVUZEpBzpx8Od0Mf6qbNxMzedwVQ3dAXt8AN2wYLsURR/WEa4yVP7W7wG2UTh9I8oKFu064uVBP8T/ruDuFGyNHjTLruIWJdCkxfLgsrNAXk/Xi80iKkCwhtVusmNl27lxpkxzoy7nVijtu/PyAoCDZsUvGjtbOuILX+/ZJHQmapPD1Nceakj7TCxY583fAImcsJAfgByijy79IgUIOAAAAAElFTkSuQmCC"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "I820.Craig.NB",
               "isDedicated": false,
@@ -19513,12 +19321,12 @@
               "latString": "32.739803",
               "longitude": -97.22469099999999,
               "lonString": "-97.224691",
-              "message": "[pt31o0][fo1][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[pt31o0][fo2]***CRASH AHEAD***[nl]I30 AT WOODHAVEN BLVD[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT WOODHAVEN BLVD[nl]SEEK ALT ROUTE",
               "messagePages": [
                 {
                   "lines": [
                     "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
+                    "I30 AT WOODHAVEN BLVD",
                     "ALL LANES CLOSED"
                   ],
                   "pageNo": 0
@@ -19526,7 +19334,7 @@
                 {
                   "lines": [
                     "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
+                    "I30 AT WOODHAVEN BLVD",
                     "SEEK ALT ROUTE"
                   ],
                   "pageNo": 2
@@ -19791,7 +19599,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -19800,35 +19608,20 @@
                 "roadway": "SH-121",
                 "roadwayWithoutHyphensOrSpaces": "SH121"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
-              "hasMessages": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
+              "hasMessages": false,
               "icd_Id": "S121.Harwood.SB",
               "isDedicated": false,
               "latitude": 32.8506,
               "latString": "32.8506",
               "longitude": -97.140721,
               "lonString": "-97.140721",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[jl3]",
               "messagePages": [
                 {
-                  "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
-                  ],
+                  "lines": [],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "S121.Harwood.SB",
@@ -20210,7 +20003,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -20219,35 +20012,20 @@
                 "roadway": "SH-183 E/W/SH-121 N",
                 "roadwayWithoutHyphensOrSpaces": "SH183E/W/SH121N"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
-              "hasMessages": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
+              "hasMessages": false,
               "icd_Id": "S183.American.WB",
               "isDedicated": false,
               "latitude": 32.837976,
               "latString": "32.837976",
               "longitude": -97.07542099999999,
               "lonString": "-97.075421",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[jl3]",
               "messagePages": [
                 {
-                  "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
-                  ],
+                  "lines": [],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "S183.American.WB",
@@ -20509,7 +20287,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -20518,11 +20296,8 @@
                 "roadway": "SH-360",
                 "roadwayWithoutHyphensOrSpaces": "SH360"
               },
-              "graphicMsgImageList": [
-                "iVBORw0KGgoAAAANSUhEUgAAAH0AAAAbCAYAAABRLYBiAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAdWSURBVGhD7ZoJkM9lGMe/uXPkihoqxziGaoi2pEmyjXPcGslkRNhhjEJSi3V0OWKKMsyyxlHrWKFxjNvsrCtHyBjXUBgUKl0Y+fV+/s/+9v+3/a1Wm/9q/9+Zd37Xe/3e532e93m+73uXsofKLh2z2yhyEZ5zaaPd3hz50q9R5CFETNOrV5d69ZK++066dMmet2yRnnxSunZN+vRT6d13pZ9/lu67z759+600aJB06pRUooS0e7c0bJjUooU0erT07LPS779LU6dKV65IVatKK1dKpUtLW7dK69ZJDz8s9e4tDRhg/cifX9q82dpatkyaNUt67TXpp5+kdu2kSpWkxx6TiheXrl61Mj16SJcv/72cn4e+desmDR5s//L111JMjP2r50k1akiTJ0tHjlh9OYA7Q9MZgPvvl379VTpzRnroIWn7dhu0AgWkp56SDh0y4bz4ovT99/Z+0SJ7btNGql3b6mrdWpo/X3r+eXuu7KbmiBH2/vhxe3cjtG1rZZs3T39xA7z6qrVLYmKFK+fnmTJFiosL/suqVcF/5ZmJdrN+5Sag6W6u/vcpPl5ebOz175zmeXv3ynMaFkhPPCGvZEl5TssC1zlzLJ/TZu/LL+W5SeR17mx1uYH3kpPlOa30nFAy6kxKkuc0M3AtW9bqchMrkHftWnlu0gXepaXJS02Vt3ixvEKFwpcrVSrY/kcfBdu4DamxS/8YuXZNP3BAatgw/cFhwgTp7rulGTPsPd/LlDFT+8MPUteuZl4bNZKeeca0HGvB+yJFpPHjTQvfekv680+rs0oVyQlML79s1oblBoRqrI9WrazeDh2kihXDl/NRs6Z09mz6Qy5ErvbeMZ8XL5ppdFoXWNNZY50W6d57pc8/tzWf9ROTy9repInkNC6QEDbrKT5DuDX99delo0dtTcbkOusQWMv79s16TWeSrVnz93LOAmSYbyYbfb9NyNaaHg3Z/h+IhmxRZI2o0PMgokLPg4jomu7CH3XqJK1YIX3zjTlleOlz55rzBbHCPbjL9RRnDufumOtBz57SI49YuV27pHHjLN/AgVKDBtLJk+bsTZsmffKJ9PjjRpRQ3oV9gbLE+fv3m5PXpYvVW6yYOYx//CHt2WPt9+kjuZAwo41Jk4yAwWkj7+nT5rR99pl9//BDyYWPASfy6afNwXz0UauzaFFrkygiB5GtNT27yNE4nZjXedheTIw8NxieE4jnBt/r3l1evnzyFiwI5nWD5yUkyEtMvL68f09yAvNSUoLPLmzzXKgViM0//tjqXLjQvhFrO+8/cE/d77xj9+ShXq6rV1vM7YSZUSd5J04MPr/0kry4OLv675zQvbp1g/mp2+9r5v/KoXRnxeloNJo6c6b044+mUVCoaCUxsA83qAGqk2/VqqW/zAQ30IH43YcfSu3b50bGDU1sbPqHMGjfXkpNNboX60D7I0daWAgt6wON3bEj/cHB1+6bgTAuOVnasMGsUCQRcaGXLy/Vq2dkCCbTj4WdRqhcObvH5MKjQ5CcOGFxdDhgThGKD4QFUYLAhw61uJzBD4cvvjDyBT7dbxezf/CgUcA+mEAsHz4++MD6Fwro1gcftHt4f/4JQoh/ZH/A5xEihYgL/ZdfpLffNqGglWgWxAYM2ldfWR5YMITCJgyDDMHCepoZv/1mZdBwNl2YTAgNsJ6yJleoYM83An155RUTVjikpUmFC5uG4x+w8UK7sHhosjP9AavFxhDP+Bj029d0ysAk8q+RQpSc+X8gSs5EkTWiQs+DiAo9DyKiQn/vvSD5wgGIUMICT5uDEqEgVINoCQXe8M6d5hwBiI/69e0eZ+6BB6Rt28yJIr3/vpEy7JLhLLpYXPfcY/nBm2+aM0k7pKZNr+8XUQVO3Nixkov59cYb5vQtX271rV8v1aplbeN8+u3i8RMNcE+b/fqlVxgBREzoDB4CwYv1BXYrYPtz3jypWTN7JqSLj7dtTh8cryJc8vfTideXLDGB4V374ROTiqNMsHMIBQYQBi0UbMkSHTA5XnjBIgkYN44+DRlie+xs6YL+/YPtnjtnk5N7JhKToGBBy3e7ETGhIyyIEDSDEO1WwB43E2b6dIvhAfvqs2dLw4fbM+D4FMQLadQo02AEQ/tjxgT3vckXem4NTSXmDgWTgnp8QNWSB2uy0fnPSUkWHgIsAXmXLjUOIhSUYeJHAhETOgwYA88BicaNLfbNLpgsWAoOUaDZPjGDFkP6cNgScB4N4oWUkGBcOtaBkzUIhhjbz4dp9gF3wEQIBef2OKjho04dawvenqWGyYaGAywBbXKeDj4iFExWWL9IICJxOgJG2/zBhtBg5rOuc2CSjReuTIbz521AMcuYX3wA/1AhgqaOCxdswDt2tCUDMod1dtMmqWVLKSXF6gDUnZhoazJMGwJjEhw+bN85VctmDP1BUGgpdKzfL064YlkoC9GDdrPGs1ZDI3OMig0XBM2EhrwBbC6xlNB32qRPmf2Tf4HoyZk8iCg5E0VWkP4CW0+Mhl0C4yYAAAAASUVORK5CYII=",
-                "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"
-              ],
-              "hasGraphics": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
               "hasMessages": true,
               "icd_Id": "S360.Green Oaks.SB",
               "isDedicated": false,
@@ -20530,23 +20305,15 @@
               "latString": "32.789186",
               "longitude": -97.05838399999999,
               "lonString": "-97.058384",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[pt30o0][fo1][jl3]IH20[nl]7 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
+                    "IH20",
+                    "7 MILES",
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "S360.Green Oaks.SB",
@@ -20727,7 +20494,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -20736,35 +20503,20 @@
                 "roadway": "SH-360",
                 "roadwayWithoutHyphensOrSpaces": "SH360"
               },
-              "graphicMsgImageList": [
-                "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",
-                "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"
-              ],
-              "hasGraphics": true,
-              "hasMessages": true,
+              "graphicMsgImageList": null,
+              "hasGraphics": false,
+              "hasMessages": false,
               "icd_Id": "S360.Park Row.NB",
               "isDedicated": false,
               "latitude": 32.725952,
               "latString": "32.725952",
               "longitude": -97.064628,
               "lonString": "-97.064628",
-              "message": "[pt31o0][fo2][jl3][jp2]***CRASH AHEAD***[nl]I30 AT CNTRY CLUB[nl]ALL LANES CLOSED[np]* *CRASH AHEAD* *[nl]I30 AT CNTRY CLUB[nl]SEEK ALT ROUTE",
+              "message": "[jl3]",
               "messagePages": [
                 {
-                  "lines": [
-                    "***CRASH AHEAD***",
-                    "I30 AT CNTRY CLUB",
-                    "ALL LANES CLOSED"
-                  ],
+                  "lines": [],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "* *CRASH AHEAD* *",
-                    "I30 AT CNTRY CLUB",
-                    "SEEK ALT ROUTE"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "S360.Park Row.NB",
