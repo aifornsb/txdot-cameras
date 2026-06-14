@@ -886,7 +886,7 @@
           "name": "30-EB Belt Line .5 Mile",
           "netId": "DAL1",
           "roadwayOrder": 16,
-          "statusDescription": "Device Error",
+          "statusDescription": "Device Online",
           "gantryIdx": 0,
           "gantryName": null
         },
@@ -989,12 +989,12 @@
           "latString": "32.761813",
           "longitude": -96.951639,
           "lonString": "-96.951639",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-346]8 MILES",
-                "7   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
@@ -1077,13 +1077,13 @@
           "latString": "32.903859",
           "longitude": -96.455004,
           "lonString": "-96.455004",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "PGBT (SH190)",
                 "7 MILES",
-                "7 MINUTES"
+                "6 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2424,7 +2424,7 @@
           "icd_Id": "IH35E NB Grainery",
           "isDedicated": false,
           "latitude": 32.314969999999995,
-          "latString": "32.314969999999995",
+          "latString": "32.31497",
           "longitude": -96.86075,
           "lonString": "-96.86075",
           "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-539][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]24 MILES   [nl15]21   MINS   ",
@@ -2822,7 +2822,7 @@
           "latString": "32.839838",
           "longitude": -96.875976,
           "lonString": "-96.875976",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]12 MILES   [nl15]12   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]12 MILES   [nl15]11   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2834,7 +2834,7 @@
             {
               "lines": [
                 "[p2imgcl-558]12 MILES",
-                "12   MINS"
+                "11   MINS"
               ],
               "pageNo": 2
             }
@@ -2943,7 +2943,7 @@
           "latString": "32.809509",
           "longitude": -96.845764,
           "lonString": "-96.845764",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]14   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -2955,7 +2955,7 @@
             {
               "lines": [
                 "[p2imgcl-554]14 MILES",
-                "14   MINS"
+                "15   MINS"
               ],
               "pageNo": 2
             }
@@ -3436,19 +3436,19 @@
           "latString": "32.783163",
           "longitude": -96.788325,
           "lonString": "-96.788325",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-387]6 MILES",
-                "7   MINS"
+                "9   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-553]10 MILES",
-                "10   MINS"
+                "12   MINS"
               ],
               "pageNo": 2
             }
@@ -5114,13 +5114,13 @@
           "latString": "32.787682",
           "longitude": -96.80338499999999,
           "lonString": "-96.803385",
-          "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]11 MINUTES",
+          "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]12 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH635 ON US75",
                 "10 MILES",
-                "11 MINUTES"
+                "12 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5200,7 +5200,7 @@
           "latString": "32.595761",
           "longitude": -96.37283099999999,
           "lonString": "-96.372831",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]16   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]15   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -5212,7 +5212,7 @@
             {
               "lines": [
                 "[p2imgcl-417]17 MILES",
-                "16   MINS"
+                "15   MINS"
               ],
               "pageNo": 2
             }
@@ -5501,7 +5501,7 @@
           "latString": "32.635957",
           "longitude": -96.89654399999999,
           "lonString": "-96.896544",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]11   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -5513,7 +5513,7 @@
             {
               "lines": [
                 "[p2imgcl-399]11 MILES",
-                "12   MINS"
+                "11   MINS"
               ],
               "pageNo": 2
             }
@@ -5628,19 +5628,19 @@
           "latString": "32.810557",
           "longitude": -96.792053,
           "lonString": "-96.792053",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]14   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]16   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-553]8 MILES",
-                "9   MINS"
+                "10   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
                 "[p2imgcl-554]15 MILES",
-                "14   MINS"
+                "16   MINS"
               ],
               "pageNo": 2
             }
@@ -5978,13 +5978,13 @@
           "latString": "32.896765",
           "longitude": -96.769616,
           "lonString": "-96.769616",
-          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "WOODALL RODGERS",
                 "7 MILES",
-                "7 MINUTES"
+                "6 MINUTES"
               ],
               "pageNo": 0
             },
@@ -5992,7 +5992,7 @@
               "lines": [
                 "IH30",
                 "9 MILES",
-                "9 MINUTES"
+                "8 MINUTES"
               ],
               "pageNo": 2
             }
@@ -7159,7 +7159,7 @@
               "name": "30-EB Belt Line .5 Mile",
               "netId": "DAL1",
               "roadwayOrder": 16,
-              "statusDescription": "Device Error",
+              "statusDescription": "Device Online",
               "gantryIdx": 0,
               "gantryName": null
             }
@@ -7283,12 +7283,12 @@
               "latString": "32.761813",
               "longitude": -96.951639,
               "lonString": "-96.951639",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-518][jl4][jp3]10 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-346]8 MILES",
-                    "7   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -7385,13 +7385,13 @@
               "latString": "32.903859",
               "longitude": -96.455004,
               "lonString": "-96.455004",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "PGBT (SH190)",
                     "7 MILES",
-                    "7 MINUTES"
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -8963,7 +8963,7 @@
               "icd_Id": "IH35E NB Grainery",
               "isDedicated": false,
               "latitude": 32.314969999999995,
-              "latString": "32.314969999999995",
+              "latString": "32.31497",
               "longitude": -96.86075,
               "lonString": "-96.86075",
               "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-539][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]24 MILES   [nl15]21   MINS   ",
@@ -9424,7 +9424,7 @@
               "latString": "32.839838",
               "longitude": -96.875976,
               "lonString": "-96.875976",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]12 MILES   [nl15]12   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-558][jl4][jp3]12 MILES   [nl15]11   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -9436,7 +9436,7 @@
                 {
                   "lines": [
                     "[p2imgcl-558]12 MILES",
-                    "12   MINS"
+                    "11   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9566,7 +9566,7 @@
               "latString": "32.809509",
               "longitude": -96.845764,
               "lonString": "-96.845764",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]14   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]14 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -9578,7 +9578,7 @@
                 {
                   "lines": [
                     "[p2imgcl-554]14 MILES",
-                    "14   MINS"
+                    "15   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -10136,19 +10136,19 @@
               "latString": "32.783163",
               "longitude": -96.788325,
               "lonString": "-96.788325",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]10   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]6 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-553][jl4][jp3]10 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-387]6 MILES",
-                    "7   MINS"
+                    "9   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-553]10 MILES",
-                    "10   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12080,13 +12080,13 @@
               "latString": "32.787682",
               "longitude": -96.80338499999999,
               "lonString": "-96.803385",
-              "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]11 MINUTES",
+              "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]12 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH635 ON US75",
                     "10 MILES",
-                    "11 MINUTES"
+                    "12 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -12180,7 +12180,7 @@
               "latString": "32.595761",
               "longitude": -96.37283099999999,
               "lonString": "-96.372831",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]16   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-513][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]17 MILES   [nl15]15   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -12192,7 +12192,7 @@
                 {
                   "lines": [
                     "[p2imgcl-417]17 MILES",
-                    "16   MINS"
+                    "15   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12530,7 +12530,7 @@
               "latString": "32.635957",
               "longitude": -96.89654399999999,
               "lonString": "-96.896544",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]11   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -12542,7 +12542,7 @@
                 {
                   "lines": [
                     "[p2imgcl-399]11 MILES",
-                    "12   MINS"
+                    "11   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12678,19 +12678,19 @@
               "latString": "32.810557",
               "longitude": -96.792053,
               "lonString": "-96.792053",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]9   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]14   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-553][jl4][jp3]8 MILES   [nl15]10   MINS   [np][pt32o3][jl3][p2imgcl-554][jl4][jp3]15 MILES   [nl15]16   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-553]8 MILES",
-                    "9   MINS"
+                    "10   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
                     "[p2imgcl-554]15 MILES",
-                    "14   MINS"
+                    "16   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -13084,13 +13084,13 @@
               "latString": "32.896765",
               "longitude": -96.769616,
               "lonString": "-96.769616",
-              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "WOODALL RODGERS",
                     "7 MILES",
-                    "7 MINUTES"
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13098,7 +13098,7 @@
                   "lines": [
                     "IH30",
                     "9 MILES",
-                    "9 MINUTES"
+                    "8 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -14396,13 +14396,13 @@
           "latString": "32.683926",
           "longitude": -97.44353,
           "lonString": "-97.44353",
-          "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]8 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]7 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH35W",
                 "8 MILES",
-                "8 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             }
@@ -14450,7 +14450,7 @@
       ],
       "IH30": [
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -14461,18 +14461,30 @@
           },
           "graphicMsgImageList": null,
           "hasGraphics": false,
-          "hasMessages": false,
+          "hasMessages": true,
           "icd_Id": "IH30.Duncan Perry.WB",
           "isDedicated": false,
           "latitude": 32.759893,
           "latString": "32.759893",
           "longitude": -97.04028699999999,
           "lonString": "-97.040287",
-          "message": "[pt0o0]",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
-              "lines": [],
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
+              ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "IH30.Duncan Perry.WB",
@@ -14656,7 +14668,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -14674,15 +14686,23 @@
           "latString": "32.759537",
           "longitude": -97.19767,
           "lonString": "-97.19767",
-          "message": "[pt30o0][fo1][jl3]IH35W[nl]5 MILES[nl]6 MINUTES",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
-                "IH35W",
-                "5 MILES",
-                "6 MINUTES"
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
               ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "I30.Sandy Lane.WB",
@@ -14693,7 +14713,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -14711,14 +14731,23 @@
           "latString": "32.760804",
           "longitude": -97.234144,
           "lonString": "-97.234144",
-          "message": "[pt30o0][fo1][jl3]IH35W 5 MINUTES[nl]IH820 17 MINUTES",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
-                "IH35W 5 MINUTES",
-                "IH820 17 MINUTES"
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
               ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "I30.Country Club.WB",
@@ -14999,12 +15028,12 @@
           "latString": "32.945215",
           "longitude": -97.31191799999999,
           "lonString": "-97.311918",
-          "message": "[pt30o0][fo1][jl3]IH820 < 5 MINUTES[nl]IH30 10 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH820 < 5 MINUTES[nl]IH30 11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH820 < 5 MINUTES",
-                "IH30 10 MINUTES"
+                "IH30 11 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15372,7 +15401,7 @@
       ],
       "IH820": [
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -15390,14 +15419,23 @@
           "latString": "32.789911",
           "longitude": -97.214907,
           "lonString": "-97.214907",
-          "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 17 MINUTES",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
-                "IH30 < 5 MINUTES",
-                "IH20 17 MINUTES"
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
               ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "I820.Trinity.SB",
@@ -15606,7 +15644,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -15624,15 +15662,23 @@
           "latString": "32.739803",
           "longitude": -97.22469099999999,
           "lonString": "-97.224691",
-          "message": "[pt30o0][fo1][jl3]SH121[nl]5 MILES[nl]5 MINUTES",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
-                "SH121",
-                "5 MILES",
-                "5 MINUTES"
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
               ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "I820.Craig.NB",
@@ -15845,7 +15891,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -15856,18 +15902,30 @@
           },
           "graphicMsgImageList": null,
           "hasGraphics": false,
-          "hasMessages": false,
+          "hasMessages": true,
           "icd_Id": "S121.Harwood.SB",
           "isDedicated": false,
           "latitude": 32.8506,
           "latString": "32.8506",
           "longitude": -97.140721,
           "lonString": "-97.140721",
-          "message": "[jl3]",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
-              "lines": [],
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
+              ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "S121.Harwood.SB",
@@ -16414,7 +16472,7 @@
       ],
       "SH360": [
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -16432,15 +16490,23 @@
           "latString": "32.789186",
           "longitude": -97.05838399999999,
           "lonString": "-97.058384",
-          "message": "[pt30o0][fo1][jl3]IH20[nl]7 MILES[nl]7 MINUTES",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
               "lines": [
-                "IH20",
-                "7 MILES",
-                "7 MINUTES"
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
               ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "S360.Green Oaks.SB",
@@ -16586,7 +16652,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "Off",
+          "beaconStatusDescription": "On",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -16597,18 +16663,30 @@
           },
           "graphicMsgImageList": null,
           "hasGraphics": false,
-          "hasMessages": false,
+          "hasMessages": true,
           "icd_Id": "S360.Park Row.NB",
           "isDedicated": false,
           "latitude": 32.725952,
           "latString": "32.725952",
           "longitude": -97.064628,
           "lonString": "-97.064628",
-          "message": "[jl3]",
+          "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
           "messagePages": [
             {
-              "lines": [],
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "CENTER LANE OPEN"
+              ],
               "pageNo": 0
+            },
+            {
+              "lines": [
+                "IH-30 WESTBOUND",
+                "AT COUNTRY CLUB",
+                "**MAJOR CRASH**"
+              ],
+              "pageNo": 2
             }
           ],
           "name": "S360.Park Row.NB",
@@ -17788,13 +17866,13 @@
               "latString": "32.683926",
               "longitude": -97.44353,
               "lonString": "-97.44353",
-              "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]8 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]7 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH35W",
                     "8 MILES",
-                    "8 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -17856,7 +17934,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -17867,18 +17945,30 @@
               },
               "graphicMsgImageList": null,
               "hasGraphics": false,
-              "hasMessages": false,
+              "hasMessages": true,
               "icd_Id": "IH30.Duncan Perry.WB",
               "isDedicated": false,
               "latitude": 32.759893,
               "latString": "32.759893",
               "longitude": -97.04028699999999,
               "lonString": "-97.040287",
-              "message": "[pt0o0]",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
-                  "lines": [],
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
+                  ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "IH30.Duncan Perry.WB",
@@ -18104,7 +18194,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -18122,15 +18212,23 @@
               "latString": "32.759537",
               "longitude": -97.19767,
               "lonString": "-97.19767",
-              "message": "[pt30o0][fo1][jl3]IH35W[nl]5 MILES[nl]6 MINUTES",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35W",
-                    "5 MILES",
-                    "6 MINUTES"
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
                   ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "I30.Sandy Lane.WB",
@@ -18148,7 +18246,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -18166,14 +18264,23 @@
               "latString": "32.760804",
               "longitude": -97.234144,
               "lonString": "-97.234144",
-              "message": "[pt30o0][fo1][jl3]IH35W 5 MINUTES[nl]IH820 17 MINUTES",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35W 5 MINUTES",
-                    "IH820 17 MINUTES"
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
                   ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "I30.Country Club.WB",
@@ -18510,12 +18617,12 @@
               "latString": "32.945215",
               "longitude": -97.31191799999999,
               "lonString": "-97.311918",
-              "message": "[pt30o0][fo1][jl3]IH820 < 5 MINUTES[nl]IH30 10 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH820 < 5 MINUTES[nl]IH30 11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH820 < 5 MINUTES",
-                    "IH30 10 MINUTES"
+                    "IH30 11 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -18960,7 +19067,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -18978,14 +19085,23 @@
               "latString": "32.789911",
               "longitude": -97.214907,
               "lonString": "-97.214907",
-              "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 17 MINUTES",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
-                    "IH30 < 5 MINUTES",
-                    "IH20 17 MINUTES"
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
                   ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "I820.Trinity.SB",
@@ -19243,7 +19359,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -19261,15 +19377,23 @@
               "latString": "32.739803",
               "longitude": -97.22469099999999,
               "lonString": "-97.224691",
-              "message": "[pt30o0][fo1][jl3]SH121[nl]5 MILES[nl]5 MINUTES",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
-                    "SH121",
-                    "5 MILES",
-                    "5 MINUTES"
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
                   ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "I820.Craig.NB",
@@ -19531,7 +19655,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -19542,18 +19666,30 @@
               },
               "graphicMsgImageList": null,
               "hasGraphics": false,
-              "hasMessages": false,
+              "hasMessages": true,
               "icd_Id": "S121.Harwood.SB",
               "isDedicated": false,
               "latitude": 32.8506,
               "latString": "32.8506",
               "longitude": -97.140721,
               "lonString": "-97.140721",
-              "message": "[jl3]",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
-                  "lines": [],
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
+                  ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "S121.Harwood.SB",
@@ -20219,7 +20355,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -20237,15 +20373,23 @@
               "latString": "32.789186",
               "longitude": -97.05838399999999,
               "lonString": "-97.058384",
-              "message": "[pt30o0][fo1][jl3]IH20[nl]7 MILES[nl]7 MINUTES",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
                   "lines": [
-                    "IH20",
-                    "7 MILES",
-                    "7 MINUTES"
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
                   ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "S360.Green Oaks.SB",
@@ -20426,7 +20570,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "Off",
+              "beaconStatusDescription": "On",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -20437,18 +20581,30 @@
               },
               "graphicMsgImageList": null,
               "hasGraphics": false,
-              "hasMessages": false,
+              "hasMessages": true,
               "icd_Id": "S360.Park Row.NB",
               "isDedicated": false,
               "latitude": 32.725952,
               "latString": "32.725952",
               "longitude": -97.064628,
               "lonString": "-97.064628",
-              "message": "[jl3]",
+              "message": "[pt31o0][fo1]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]CENTER LANE OPEN[np]IH-30 WESTBOUND[nl]AT COUNTRY CLUB[nl]**MAJOR CRASH**",
               "messagePages": [
                 {
-                  "lines": [],
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "CENTER LANE OPEN"
+                  ],
                   "pageNo": 0
+                },
+                {
+                  "lines": [
+                    "IH-30 WESTBOUND",
+                    "AT COUNTRY CLUB",
+                    "**MAJOR CRASH**"
+                  ],
+                  "pageNo": 2
                 }
               ],
               "name": "S360.Park Row.NB",
