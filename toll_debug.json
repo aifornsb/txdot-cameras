@@ -203,7 +203,7 @@
     "roadwayDmses": {
       "IH20": [
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -221,21 +221,21 @@
           "latString": "32.668304",
           "longitude": -96.71431199999999,
           "lonString": "-96.714312",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][fo1][jl3]IH35E[nl]7 MILES[nl]7 MINUTES[np][jl3]US67[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "IH35E",
+                "7 MILES",
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "US67",
+                "10 MILES",
+                "9 MINUTES"
               ],
               "pageNo": 2
             }
@@ -248,7 +248,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -266,21 +266,21 @@
           "latString": "32.646875",
           "longitude": -96.78390999999999,
           "lonString": "-96.78391",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "US67",
+                "6 MILES",
+                "6 MINUTES"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "SPUR 408",
+                "10 MILES",
+                "9 MINUTES"
               ],
               "pageNo": 2
             }
@@ -516,7 +516,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -534,21 +534,21 @@
           "latString": "32.670299",
           "longitude": -96.969382,
           "lonString": "-96.969382",
-          "message": "[pt22o0][fo1][jl3][jp2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LEFT LANES CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LEFT LANES CLOSED"
+                "US67",
+                "6 MILES",
+                "6 MINUTES"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "IH35E",
+                "9 MILES",
+                "9 MINUTES"
               ],
               "pageNo": 2
             }
@@ -561,7 +561,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -579,21 +579,21 @@
           "latString": "32.665072",
           "longitude": -96.908721,
           "lonString": "-96.908721",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]IH45[nl]11 MILES[nl]10 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "IH35E",
+                "5 MILES",
+                "5 MINUTES"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "IH45",
+                "11 MILES",
+                "10 MINUTES"
               ],
               "pageNo": 2
             }
@@ -712,13 +712,13 @@
           "latString": "32.680785",
           "longitude": -96.665832,
           "lonString": "-96.665832",
-          "message": "[pt32o3][fo1][jl3]US80 ON IH635[nl]9 MILES[nl]12 MINUTES[np][jl3]FM740 (FORNEY)[nl]10 MILES[nl]9 MINUTES",
+          "message": "[pt32o3][fo1][jl3]US80 ON IH635[nl]9 MILES[nl]10 MINUTES[np][jl3]FM740 (FORNEY)[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "US80 ON IH635",
                 "9 MILES",
-                "12 MINUTES"
+                "10 MINUTES"
               ],
               "pageNo": 0
             },
@@ -944,13 +944,13 @@
           "latString": "32.975383",
           "longitude": -96.317123,
           "lonString": "-96.317123",
-          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]13 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+          "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]21 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "SH205",
                 "9 MILES",
-                "13 MINUTES"
+                "12 MINUTES"
               ],
               "pageNo": 0
             },
@@ -958,7 +958,7 @@
               "lines": [
                 "IH635",
                 "22 MILES",
-                "20 MINUTES"
+                "21 MINUTES"
               ],
               "pageNo": 2
             }
@@ -1077,13 +1077,13 @@
           "latString": "32.903859",
           "longitude": -96.455004,
           "lonString": "-96.455004",
-          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+          "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "PGBT (SH190)",
                 "7 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -2155,7 +2155,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -2173,21 +2173,21 @@
           "latString": "32.134729",
           "longitude": -96.95405,
           "lonString": "-96.95405",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][fo1][jl3]US287[nl]22 MILES[nl]19 MINUTES[np][jl3]IH20[nl]38 MILES[nl]33 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "US287",
+                "22 MILES",
+                "19 MINUTES"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "IH20",
+                "38 MILES",
+                "33 MINUTES"
               ],
               "pageNo": 2
             }
@@ -2583,7 +2583,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -2601,21 +2601,19 @@
           "latString": "32.625148",
           "longitude": -96.822887,
           "lonString": "-96.822887",
-          "message": "[pt22o0][fo2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "[p1imgcl-387]4 MILES",
+                "4   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "[p2imgcl-399]11 MILES",
+                "10   MINS"
               ],
               "pageNo": 2
             }
@@ -2671,7 +2669,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -2689,21 +2687,21 @@
           "latString": "32.688921",
           "longitude": -96.822712,
           "lonString": "-96.822712",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]7 MINUTES[np][jl3]SH183[nl]11 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "IH30",
+                "6 MILES",
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "SH183",
+                "11 MILES",
+                "11 MINUTES"
               ],
               "pageNo": 2
             }
@@ -2849,7 +2847,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -2867,21 +2865,21 @@
           "latString": "32.737075",
           "longitude": -96.823827,
           "lonString": "-96.823827",
-          "message": "[pt22o0][fo2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt22o0][fo1]IH30 EAST[nl]AT HARWOOD ST[nl]LEFT LANE CLOSED[np]IH30 EAST[nl]AT HARWOOD ST[nl]10PM - 5AM",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "IH30 EAST",
+                "AT HARWOOD ST",
+                "LEFT LANE CLOSED"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "IH30 EAST",
+                "AT HARWOOD ST",
+                "10PM - 5AM"
               ],
               "pageNo": 2
             }
@@ -3616,13 +3614,13 @@
           "latString": "32.28257",
           "longitude": -96.53598199999999,
           "lonString": "-96.535982",
-          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]26 MINUTES[np][jl3]IH30[nl]39 MILES[nl]35 MINUTES",
+          "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]36 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH20",
                 "30 MILES",
-                "26 MINUTES"
+                "27 MINUTES"
               ],
               "pageNo": 0
             },
@@ -3630,7 +3628,7 @@
               "lines": [
                 "IH30",
                 "39 MILES",
-                "35 MINUTES"
+                "36 MINUTES"
               ],
               "pageNo": 2
             }
@@ -3933,7 +3931,7 @@
           "latString": "32.90812",
           "longitude": -96.906212,
           "lonString": "-96.906212",
-          "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]5 MILES[nl]5 MINUTES[np][jl3]DFW AIRPORT[nl]10 MILES[nl]10 MINUTES",
+          "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]5 MILES[nl]5 MINUTES[np][jl3]DFW AIRPORT[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -3947,7 +3945,7 @@
               "lines": [
                 "DFW AIRPORT",
                 "10 MILES",
-                "10 MINUTES"
+                "9 MINUTES"
               ],
               "pageNo": 2
             }
@@ -4156,12 +4154,12 @@
           "latString": "32.859094",
           "longitude": -96.65308499999999,
           "lonString": "-96.653085",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
           "messagePages": [
             {
               "lines": [
                 "[p1imgcl-518]8 MILES",
-                "7   MINS"
+                "8   MINS"
               ],
               "pageNo": 0
             },
@@ -4422,7 +4420,7 @@
           "latString": "32.85965",
           "longitude": -96.902743,
           "lonString": "-96.902743",
-          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]13   MINS   ",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
@@ -4434,7 +4432,7 @@
             {
               "lines": [
                 "[p2imgcl-417]14 MILES",
-                "13   MINS"
+                "12   MINS"
               ],
               "pageNo": 2
             }
@@ -4637,7 +4635,7 @@
           "latString": "32.911962",
           "longitude": -97.003039,
           "lonString": "-97.003039",
-          "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]7 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]10 MINUTES",
+          "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]7 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
@@ -4651,7 +4649,7 @@
               "lines": [
                 "IH35E",
                 "10 MILES",
-                "10 MINUTES"
+                "9 MINUTES"
               ],
               "pageNo": 2
             }
@@ -5116,13 +5114,13 @@
           "latString": "32.787682",
           "longitude": -96.80338499999999,
           "lonString": "-96.803385",
-          "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]12 MINUTES",
+          "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]11 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH635 ON US75",
                 "10 MILES",
-                "12 MINUTES"
+                "11 MINUTES"
               ],
               "pageNo": 0
             }
@@ -5315,7 +5313,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -5333,21 +5331,21 @@
           "latString": "32.671065",
           "longitude": -96.59090599999999,
           "lonString": "-96.590906",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt22o3][fo1]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "IH635 NORTH",
+                "AT US80",
+                "2 RIGHT LANE CLOSED"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "IH635 NORTH",
+                "AT US80",
+                "10PM - 5AM"
               ],
               "pageNo": 2
             }
@@ -5485,7 +5483,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -5503,21 +5501,19 @@
           "latString": "32.635957",
           "longitude": -96.89654399999999,
           "lonString": "-96.896544",
-          "message": "[pt22o0][fo2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "[p1imgcl-346]6 MILES",
+                "6   MINS"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "[p2imgcl-399]11 MILES",
+                "12   MINS"
               ],
               "pageNo": 2
             }
@@ -5530,7 +5526,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -5548,21 +5544,21 @@
           "latString": "32.66167",
           "longitude": -96.870052,
           "lonString": "-96.870052",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt22o0][fo1]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "IH30 WEST",
+                "AT IH35E",
+                "2 RIGHT LANES CLOSED"
               ],
               "pageNo": 0
             },
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
+                "IH30 WEST",
+                "AT IH35E",
+                "10PM - 5AM"
               ],
               "pageNo": 2
             }
@@ -5575,7 +5571,7 @@
           "gantryName": null
         },
         {
-          "beaconStatusDescription": "On",
+          "beaconStatusDescription": "Off",
           "cttAssociation": null,
           "distance": 0.0,
           "equipLoc": {
@@ -5593,23 +5589,15 @@
           "latString": "32.679888",
           "longitude": -96.85375599999999,
           "lonString": "-96.853756",
-          "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+          "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]6 MINUTES",
           "messagePages": [
             {
               "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "2 LFT LNS CLOSED"
+                "IH30",
+                "7 MILES",
+                "6 MINUTES"
               ],
               "pageNo": 0
-            },
-            {
-              "lines": [
-                "IH35E NORTH",
-                "AT RIVERFRONT BLVD",
-                "ACCIDENT"
-              ],
-              "pageNo": 2
             }
           ],
           "name": "US67 NB Swansee",
@@ -5990,13 +5978,13 @@
           "latString": "32.896765",
           "longitude": -96.769616,
           "lonString": "-96.769616",
-          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
+          "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "WOODALL RODGERS",
                 "7 MILES",
-                "6 MINUTES"
+                "7 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6004,7 +5992,7 @@
               "lines": [
                 "IH30",
                 "9 MILES",
-                "8 MINUTES"
+                "9 MINUTES"
               ],
               "pageNo": 2
             }
@@ -6123,13 +6111,13 @@
           "latString": "33.223152",
           "longitude": -96.634604,
           "lonString": "-96.634604",
-          "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
+          "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]9 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "ANNA",
                 "9 MILES",
-                "10 MINUTES"
+                "9 MINUTES"
               ],
               "pageNo": 0
             },
@@ -6383,7 +6371,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -6401,21 +6389,21 @@
               "latString": "32.668304",
               "longitude": -96.71431199999999,
               "lonString": "-96.714312",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][fo1][jl3]IH35E[nl]7 MILES[nl]7 MINUTES[np][jl3]US67[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "IH35E",
+                    "7 MILES",
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "US67",
+                    "10 MILES",
+                    "9 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6435,7 +6423,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -6453,21 +6441,21 @@
               "latString": "32.646875",
               "longitude": -96.78390999999999,
               "lonString": "-96.78391",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]SPUR 408[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "US67",
+                    "6 MILES",
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "SPUR 408",
+                    "10 MILES",
+                    "9 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6745,7 +6733,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -6763,21 +6751,21 @@
               "latString": "32.670299",
               "longitude": -96.969382,
               "lonString": "-96.969382",
-              "message": "[pt22o0][fo1][jl3][jp2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LEFT LANES CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][fo1][jl3]US67[nl]6 MILES[nl]6 MINUTES[np][jl3]IH35E[nl]9 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LEFT LANES CLOSED"
+                    "US67",
+                    "6 MILES",
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "IH35E",
+                    "9 MILES",
+                    "9 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6797,7 +6785,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -6815,21 +6803,21 @@
               "latString": "32.665072",
               "longitude": -96.908721,
               "lonString": "-96.908721",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][fo1][jl3]IH35E[nl]5 MILES[nl]5 MINUTES[np][jl3]IH45[nl]11 MILES[nl]10 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "IH35E",
+                    "5 MILES",
+                    "5 MINUTES"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "IH45",
+                    "11 MILES",
+                    "10 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -6969,13 +6957,13 @@
               "latString": "32.680785",
               "longitude": -96.665832,
               "lonString": "-96.665832",
-              "message": "[pt32o3][fo1][jl3]US80 ON IH635[nl]9 MILES[nl]12 MINUTES[np][jl3]FM740 (FORNEY)[nl]10 MILES[nl]9 MINUTES",
+              "message": "[pt32o3][fo1][jl3]US80 ON IH635[nl]9 MILES[nl]10 MINUTES[np][jl3]FM740 (FORNEY)[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "US80 ON IH635",
                     "9 MILES",
-                    "12 MINUTES"
+                    "10 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -7243,13 +7231,13 @@
               "latString": "32.975383",
               "longitude": -96.317123,
               "lonString": "-96.317123",
-              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]13 MINUTES[np][jl3]IH635[nl]22 MILES[nl]20 MINUTES",
+              "message": "[pt32o3][fo1][jl3]SH205[nl]9 MILES[nl]12 MINUTES[np][jl3]IH635[nl]22 MILES[nl]21 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "SH205",
                     "9 MILES",
-                    "13 MINUTES"
+                    "12 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -7257,7 +7245,7 @@
                   "lines": [
                     "IH635",
                     "22 MILES",
-                    "20 MINUTES"
+                    "21 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -7397,13 +7385,13 @@
               "latString": "32.903859",
               "longitude": -96.455004,
               "lonString": "-96.455004",
-              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]6 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
+              "message": "[pt32o3][fo1][jl3]PGBT (SH190)[nl]7 MILES[nl]7 MINUTES[np][jl3]IH635[nl]12 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "PGBT (SH190)",
                     "7 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -8664,7 +8652,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -8682,21 +8670,21 @@
               "latString": "32.134729",
               "longitude": -96.95405,
               "lonString": "-96.95405",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][fo1][jl3]US287[nl]22 MILES[nl]19 MINUTES[np][jl3]IH20[nl]38 MILES[nl]33 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "US287",
+                    "22 MILES",
+                    "19 MINUTES"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "IH20",
+                    "38 MILES",
+                    "33 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -9162,7 +9150,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -9180,21 +9168,19 @@
               "latString": "32.625148",
               "longitude": -96.822887,
               "lonString": "-96.822887",
-              "message": "[pt22o0][fo2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-387][jl4][jp3]4 MILES   [nl15]4   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "[p1imgcl-387]4 MILES",
+                    "4   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "[p2imgcl-399]11 MILES",
+                    "10   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -9264,7 +9250,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -9282,21 +9268,21 @@
               "latString": "32.688921",
               "longitude": -96.822712,
               "lonString": "-96.822712",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][fo1][jl3]IH30[nl]6 MILES[nl]7 MINUTES[np][jl3]SH183[nl]11 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "IH30",
+                    "6 MILES",
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "SH183",
+                    "11 MILES",
+                    "11 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -9470,7 +9456,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -9488,21 +9474,21 @@
               "latString": "32.737075",
               "longitude": -96.823827,
               "lonString": "-96.823827",
-              "message": "[pt22o0][fo2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt22o0][fo1]IH30 EAST[nl]AT HARWOOD ST[nl]LEFT LANE CLOSED[np]IH30 EAST[nl]AT HARWOOD ST[nl]10PM - 5AM",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "IH30 EAST",
+                    "AT HARWOOD ST",
+                    "LEFT LANE CLOSED"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "IH30 EAST",
+                    "AT HARWOOD ST",
+                    "10PM - 5AM"
                   ],
                   "pageNo": 2
                 }
@@ -10356,13 +10342,13 @@
               "latString": "32.28257",
               "longitude": -96.53598199999999,
               "lonString": "-96.535982",
-              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]26 MINUTES[np][jl3]IH30[nl]39 MILES[nl]35 MINUTES",
+              "message": "[pt32o3][fo1][jl3]IH20[nl]30 MILES[nl]27 MINUTES[np][jl3]IH30[nl]39 MILES[nl]36 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH20",
                     "30 MILES",
-                    "26 MINUTES"
+                    "27 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -10370,7 +10356,7 @@
                   "lines": [
                     "IH30",
                     "39 MILES",
-                    "35 MINUTES"
+                    "36 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -10722,7 +10708,7 @@
               "latString": "32.90812",
               "longitude": -96.906212,
               "lonString": "-96.906212",
-              "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]5 MILES[nl]5 MINUTES[np][jl3]DFW AIRPORT[nl]10 MILES[nl]10 MINUTES",
+              "message": "[pt32o3][fo1][jl3]BELT LINE RD[nl]5 MILES[nl]5 MINUTES[np][jl3]DFW AIRPORT[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -10736,7 +10722,7 @@
                   "lines": [
                     "DFW AIRPORT",
                     "10 MILES",
-                    "10 MINUTES"
+                    "9 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -10980,12 +10966,12 @@
               "latString": "32.859094",
               "longitude": -96.65308499999999,
               "lonString": "-96.653085",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-518][jl4][jp3]8 MILES   [nl15]8   MINS   [np][pt32o3][jl3][p2imgcl-519][jl4][jp3]11 MILES   [nl15]10   MINS   ",
               "messagePages": [
                 {
                   "lines": [
                     "[p1imgcl-518]8 MILES",
-                    "7   MINS"
+                    "8   MINS"
                   ],
                   "pageNo": 0
                 },
@@ -11288,7 +11274,7 @@
               "latString": "32.85965",
               "longitude": -96.902743,
               "lonString": "-96.902743",
-              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]13   MINS   ",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-399][jl4][jp3]7 MILES   [nl15]7   MINS   [np][pt32o3][jl3][p2imgcl-417][jl4][jp3]14 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
@@ -11300,7 +11286,7 @@
                 {
                   "lines": [
                     "[p2imgcl-417]14 MILES",
-                    "13   MINS"
+                    "12   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -11538,7 +11524,7 @@
               "latString": "32.911962",
               "longitude": -97.003039,
               "lonString": "-97.003039",
-              "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]7 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]10 MINUTES",
+              "message": "[pt32o3][fo1][jl3]LOOP 12[nl]7 MILES[nl]7 MINUTES[np][jl3]IH35E[nl]10 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
@@ -11552,7 +11538,7 @@
                   "lines": [
                     "IH35E",
                     "10 MILES",
-                    "10 MINUTES"
+                    "9 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -12094,13 +12080,13 @@
               "latString": "32.787682",
               "longitude": -96.80338499999999,
               "lonString": "-96.803385",
-              "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]12 MINUTES",
+              "message": "[pt32o3][jl3][pt32o0]IH635 ON US75[nl]10 MILES[nl]11 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH635 ON US75",
                     "10 MILES",
-                    "12 MINUTES"
+                    "11 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -12328,7 +12314,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -12346,21 +12332,21 @@
               "latString": "32.671065",
               "longitude": -96.59090599999999,
               "lonString": "-96.590906",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt22o3][fo1]IH635 NORTH[nl]AT US80[nl]2 RIGHT LANE CLOSED[np]IH635 NORTH[nl]AT US80[nl]10PM - 5AM",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "IH635 NORTH",
+                    "AT US80",
+                    "2 RIGHT LANE CLOSED"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "IH635 NORTH",
+                    "AT US80",
+                    "10PM - 5AM"
                   ],
                   "pageNo": 2
                 }
@@ -12526,7 +12512,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -12544,21 +12530,19 @@
               "latString": "32.635957",
               "longitude": -96.89654399999999,
               "lonString": "-96.896544",
-              "message": "[pt22o0][fo2]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][jl3][pt30o0][pb0,103,71][fo3][cf7][p1imgcl-346][jl4][jp3]6 MILES   [nl15]6   MINS   [np][pt32o3][jl3][p2imgcl-399][jl4][jp3]11 MILES   [nl15]12   MINS   ",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "[p1imgcl-346]6 MILES",
+                    "6   MINS"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "[p2imgcl-399]11 MILES",
+                    "12   MINS"
                   ],
                   "pageNo": 2
                 }
@@ -12578,7 +12562,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -12596,21 +12580,21 @@
               "latString": "32.66167",
               "longitude": -96.870052,
               "lonString": "-96.870052",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt22o0][fo1]IH30 WEST[nl]AT IH35E[nl]2 RIGHT LANES CLOSED[np]IH30 WEST[nl]AT IH35E[nl]10PM - 5AM",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "IH30 WEST",
+                    "AT IH35E",
+                    "2 RIGHT LANES CLOSED"
                   ],
                   "pageNo": 0
                 },
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
+                    "IH30 WEST",
+                    "AT IH35E",
+                    "10PM - 5AM"
                   ],
                   "pageNo": 2
                 }
@@ -12630,7 +12614,7 @@
         {
           "dmses": [
             {
-              "beaconStatusDescription": "On",
+              "beaconStatusDescription": "Off",
               "cttAssociation": null,
               "distance": 0.0,
               "equipLoc": {
@@ -12648,23 +12632,15 @@
               "latString": "32.679888",
               "longitude": -96.85375599999999,
               "lonString": "-96.853756",
-              "message": "[pt22o0][fo1]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]2 LFT LNS CLOSED[np]IH35E NORTH[nl]AT RIVERFRONT BLVD[nl]ACCIDENT",
+              "message": "[pt32o3][jl3][pt32o0]IH30[nl]7 MILES[nl]6 MINUTES",
               "messagePages": [
                 {
                   "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "2 LFT LNS CLOSED"
+                    "IH30",
+                    "7 MILES",
+                    "6 MINUTES"
                   ],
                   "pageNo": 0
-                },
-                {
-                  "lines": [
-                    "IH35E NORTH",
-                    "AT RIVERFRONT BLVD",
-                    "ACCIDENT"
-                  ],
-                  "pageNo": 2
                 }
               ],
               "name": "US67 NB Swansee",
@@ -13108,13 +13084,13 @@
               "latString": "32.896765",
               "longitude": -96.769616,
               "lonString": "-96.769616",
-              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]6 MINUTES[np][jl3]IH30[nl]9 MILES[nl]8 MINUTES",
+              "message": "[pt32o3][fo1][jl3]WOODALL RODGERS[nl]7 MILES[nl]7 MINUTES[np][jl3]IH30[nl]9 MILES[nl]9 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "WOODALL RODGERS",
                     "7 MILES",
-                    "6 MINUTES"
+                    "7 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -13122,7 +13098,7 @@
                   "lines": [
                     "IH30",
                     "9 MILES",
-                    "8 MINUTES"
+                    "9 MINUTES"
                   ],
                   "pageNo": 2
                 }
@@ -13262,13 +13238,13 @@
               "latString": "33.223152",
               "longitude": -96.634604,
               "lonString": "-96.634604",
-              "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]10 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
+              "message": "[pt32o3][fo1][jl3]ANNA[nl]9 MILES[nl]9 MINUTES[np][jl3]SHERMAN[nl]30 MILES[nl]26 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "ANNA",
                     "9 MILES",
-                    "10 MINUTES"
+                    "9 MINUTES"
                   ],
                   "pageNo": 0
                 },
@@ -14420,13 +14396,13 @@
           "latString": "32.683926",
           "longitude": -97.44353,
           "lonString": "-97.44353",
-          "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]7 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]8 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH35W",
                 "8 MILES",
-                "7 MINUTES"
+                "8 MINUTES"
               ],
               "pageNo": 0
             }
@@ -15414,12 +15390,12 @@
           "latString": "32.789911",
           "longitude": -97.214907,
           "lonString": "-97.214907",
-          "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 17 MINUTES",
+          "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 16 MINUTES",
           "messagePages": [
             {
               "lines": [
                 "IH30 < 5 MINUTES",
-                "IH20 17 MINUTES"
+                "IH20 16 MINUTES"
               ],
               "pageNo": 0
             }
@@ -17812,13 +17788,13 @@
               "latString": "32.683926",
               "longitude": -97.44353,
               "lonString": "-97.44353",
-              "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]7 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH35W[nl]8 MILES[nl]8 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH35W",
                     "8 MILES",
-                    "7 MINUTES"
+                    "8 MINUTES"
                   ],
                   "pageNo": 0
                 }
@@ -19002,12 +18978,12 @@
               "latString": "32.789911",
               "longitude": -97.214907,
               "lonString": "-97.214907",
-              "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 17 MINUTES",
+              "message": "[pt30o0][fo1][jl3]IH30 < 5 MINUTES[nl]IH20 16 MINUTES",
               "messagePages": [
                 {
                   "lines": [
                     "IH30 < 5 MINUTES",
-                    "IH20 17 MINUTES"
+                    "IH20 16 MINUTES"
                   ],
                   "pageNo": 0
                 }
